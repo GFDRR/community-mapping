@@ -1,0 +1,15 @@
+.btn {
+  padding: 5px 15px;
+  border: 0;
+  font-size: 15px;
+  text-transform: uppercase;
+
+  &:focus {
+    outline: 0;
+  }
+
+  &.-white {
+    background-color: $white;
+    color: $font-color-2;
+  }
+}

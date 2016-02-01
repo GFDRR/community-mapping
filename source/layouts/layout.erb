@@ -42,8 +42,10 @@ under the License.
         <%= image_tag('navbar.png') %>
       </span>
     </a>
-    <div class="tocify-wrapper">
-      <%= image_tag "logo.png" %>
+    <div class="tocify-wrapper m-index">
+      <div class="c-brand">
+        <p>Planning a mapping project with openstreetmap</p>
+      </div>
       <% if language_tabs %>
         <div class="lang-selector">
           <% language_tabs.each do |lang| %>
@@ -55,13 +57,15 @@ under the License.
           <% end %>
         </div>
       <% end %>
-      <% if current_page.data.search %>
-        <div class="search">
-          <input type="text" class="search" id="input-search" placeholder="Search">
+      <div class="m-navigation-bar">
+        <% if current_page.data.search %>
+          <div class="m-search search">
+            <input type="text" class="search" id="input-search" placeholder="Search">
+          </div>
+          <ul class="search-results"></ul>
+        <% end %>
+        <div id="toc">
         </div>
-        <ul class="search-results"></ul>
-      <% end %>
-      <div id="toc">
       </div>
       <% if current_page.data.toc_footers %>
         <ul class="toc-footer">

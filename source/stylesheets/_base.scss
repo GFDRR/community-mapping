@@ -1,7 +1,14 @@
 body {
-  font-family: "Bariol";
+  font-family: $font-family-site;
 }
 
 .page-wrapper {
   background-color: $white;
+}
+
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
 }

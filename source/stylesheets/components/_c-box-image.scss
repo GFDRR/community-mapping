@@ -1,0 +1,6 @@
+.c-box-image {
+  margin-bottom: $paragraph-margin * 2;
+   & + p {
+      margin-top: 0;
+   }
+}
