@@ -5,3 +5,10 @@ body {
 .page-wrapper {
   background-color: $white;
 }
+
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+}

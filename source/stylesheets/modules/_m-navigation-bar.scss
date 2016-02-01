@@ -12,8 +12,18 @@
       text-transform: uppercase;
 
       &.tocify-focus {
-        background-color: $site-color-2;
+        background-color: transparent;
         box-shadow: none;
+        &:before {
+          z-index: -1;
+          content: '';
+          position: absolute;
+          left: 0;
+          right: 0;
+          width: 100%;
+          height: 28px;
+          background-color: $site-color-2;
+        }
       }
 
       > a {

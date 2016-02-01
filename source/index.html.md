@@ -2,7 +2,7 @@
 title: Community Mapping
 
 toc_footers:
-  - <p>This guide is hosted on github under a public domain license and is welcoming new content and case studies through pull request or issues. The original work is a product of <span>GFDRR OpenDRI</span> in partnership with <span>HOT</span>.</p>
+  - <p>This guide is hosted on github under a public domain license and is welcoming new content and case studies through pull request or issues. The original work is a product of <a target="_blank"  href="https://www.gfdrr.org/opendri">GFDRR OpenDRI</a> in partnership with <a target="_blank" href="https://hotosm.org">HOT</a>.</p>
   - <button class="btn -white">Download PDF</button>
 
 includes:
@@ -13,7 +13,7 @@ search: true
 
 # Introduction
 
-## 1.1 History of open cities and the open data for Resilience Initiative
+## History of open cities and the open data for Resilience Initiative
 
 The World Bank, through its Global Facility for Disaster Reduction and Recovery (GFDRR), launched the Open Cities Project in November 2012 to create open data ecosystems that will facilitate innovative, data-driven urban planning and disaster risk management in South Asian cities. Open Cities is one component of a broader World Bank and GFDRR program, the Open Data for Resilience Initiative (OpenDRI), further described in box 1.1.
 
@@ -27,7 +27,7 @@ The World Bank, through its Global Facility for Disaster Reduction and Recovery 
   <img src="/images/posts/introduction/rio.jpg" alt="rio">
 </div>
 
-## 1.2 Rationale for the Open Cities Project
+## Rationale for the Open Cities Project
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora dignissimos nulla, perspiciatis ipsam odit exercitationem autem impedit tempore eaque quod natus amet voluptatem ratione quam accusamus. Obcaecati a, rem nemo?
 
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora dignissimos nu
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo ratione dolor eos, totam qui perspiciatis delectus doloribus nam non iste perferendis unde, fugiat et sequi possimus consectetur earum pariatur corporis?
 
-## 1.3 How to Use this Guide
+## How to Use this Guide
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
