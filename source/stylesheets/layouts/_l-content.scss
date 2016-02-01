@@ -4,5 +4,53 @@
 
   h1, h2, h3, h4, h5, h6 {
     font-family: "Bariol";
+    color: $font-color-1;
+    text-transform: uppercase;
+  }
+
+  h1, h2, p {
+    padding: 0;
+  }
+
+  h1 {
+    position: relative;
+    font-size: 48px;
+    font-weight: 300;
+    background: none;
+    border: 0;
+    &:before {
+      content: '';
+      position: absolute;
+      top: -25px;
+      left: 0;
+      width: 153px;
+      height: 8px;
+      background-color: $site-color-2;
+    }
+    & + div + h2 {
+      margin: 20px 0;
+    }
+  }
+
+  h2 {
+    margin: 0;
+    font-family: "Bariol-Bold";
+    font-size: 17px;
+    letter-spacing: .6px;
+    color: $font-color-3;
+    border: 0;
+  }
+
+  p {
+    margin: $paragraph-margin 0;
+    font-size: 15px;
+    color: $font-color-1;
+    line-height: 23px;
+    letter-spacing: .3px;
+
+    a {
+      color: $font-color-3;
+      text-decoration: none;
+    }
   }
 }
