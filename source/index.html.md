@@ -2,8 +2,8 @@
 title: API Reference
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
+  - <p>This guide is hosted on github under a public domain license and is welcoming new content and case studies through pull request or issues. The original work is a product of <span>GFDRR OpenDRI</span> in partnership with <span>HOT</span>.</p>
+  - <button class="btn -white">Download PDF</button>
 
 includes:
   - errors
@@ -12,6 +12,23 @@ search: true
 ---
 
 # Introduction
+
+## 1.1 History of open cities and the open data for Resilience Initiative
+
+The World Bank, through its Global Facility for Disaster Reduction and Recovery (GFDRR), launched the Open Cities Project in November 2012 to create open data ecosystems that will facilitate innovative, data-driven urban planning and disaster risk management in South Asian cities. Open Cities is one component of a broader World Bank and GFDRR program, the Open Data for Resilience Initiative (OpenDRI), further described in box 1.1.
+
+<div class="box">
+    The World Bank, through its Global Facility for Disaster Reduction and Recovery (GFDRR), launched the Open Cities Project in November 2012 to create open data ecosystems that will facilitate innovative, data-driven urban planning and disaster risk management in South Asian cities. Open Cities is one component of a broader World Bank and GFDRR program, the Open Data for Resilience Initiative (OpenDRI), further described in box 1.1. 
+</div>
+
+The World Bank, through its Global Facility for Disaster Reduction and Recovery (GFDRR), launched the Open Cities Project in November 2012 to create open data ecosystems that will facilitate innovative, data-driven urban planning and disaster risk management in South Asian cities. Open Cities is one component of a broader World Bank and GFDRR program, the Open Data for Resilience Initiative (OpenDRI), further described in box 1.1. 
+
+
+
+
+## 1.2 Rationale for the Open Cities Project
+
+## 1.3 How to Use this Guide
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 

@@ -1,0 +1,15 @@
+.m-search {
+	&.search {
+		&:before {
+			z-index: 2;
+			left: initial;
+			right: 0;
+		}
+
+		> input {
+			width: 100%;
+			margin-left: 0;
+			padding-left: 0;
+		}
+	}
+}
