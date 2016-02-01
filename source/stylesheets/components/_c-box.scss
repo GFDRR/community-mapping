@@ -1,0 +1,13 @@
+.c-box {
+  padding: 25px;
+  background-color: rgba(230, 223, 215, 0.3);
+  border: 1px solid $light-grey;
+
+  p:last-child {
+    margin: 0;
+  }
+
+  & + p {
+    margin-top: $paragraph-margin;
+  }
+}

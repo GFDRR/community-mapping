@@ -26,8 +26,12 @@
       background-color: transparent;
       background: none;
 
-      .tocify-item > a {
-        padding-left: 0;
+      .tocify-item {
+        text-transform: none;
+
+        > a {
+          padding-left: 0;
+        }
       }
     }
 
