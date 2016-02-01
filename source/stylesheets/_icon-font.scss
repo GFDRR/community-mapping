@@ -17,6 +17,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'bariol-bold';
+  src:font-url('Bariol_Bold.otf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
 %icon {
   font-family: 'slate';
   speak: none;
