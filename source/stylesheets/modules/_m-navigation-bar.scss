@@ -1,0 +1,45 @@
+.m-navigation-bar {
+  padding: 15px 45px 25px 30px;
+  font-size: 12px;
+  color: $white;
+  border-bottom: 3px solid $site-color-2;
+
+  .tocify-header {
+    margin: 20px 0;
+
+    li.tocify-item {
+      font-family: "Bariol-Bold";
+      text-transform: uppercase;
+
+      &.tocify-focus {
+        background-color: $site-color-2;
+        box-shadow: none;
+      }
+
+      > a {
+        padding: 0;
+      }
+    }
+
+    .tocify-subheader {
+      display: block;
+      background-color: transparent;
+      background: none;
+
+      .tocify-item {
+        text-transform: none;
+
+        > a {
+          padding-left: 0;
+        }
+      }
+    }
+
+    &:first-child {
+      margin-top: 0;
+    }
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
