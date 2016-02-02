@@ -1,7 +1,19 @@
 .featherlight {
 
-  .featherlight-content > img  {
-    max-width: 900px;
-    height: auto;
+  .featherlight-content {
+    background: transparent;
+
+    > .featherlight-close-icon {
+      top: -1px;
+      right: 30px;
+      color: $white;
+      background: transparent;
+    }
+
+    > img  {
+      max-width: 95%;
+      height: auto;
+      margin: 0 auto;
+    }
   }
 }
