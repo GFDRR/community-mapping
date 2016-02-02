@@ -16,3 +16,13 @@
     }
   }
 }
+
+#nav-button {
+  opacity: 1;
+  > span {
+    padding: 5px 10px;
+    color: $font-color-4;
+    background-color: $site-color-2;
+    border-radius: 0;
+  }
+}

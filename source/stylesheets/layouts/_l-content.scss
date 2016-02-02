@@ -1,7 +1,7 @@
 .content {
 	max-width: 730px;
-	padding: 50px 0 50px 50px;
   font-family: $font-family-1;
+  padding: 50px 25px 50px 50px;
 
   h1, h2, h3, h4, h5, h6 {
     padding: 0;
@@ -62,5 +62,13 @@
   a {
     color: $font-color-3;
     font-weight: 700;
+  }
+
+  @media screen and (min-width: $screen-m) {
+    padding: 50px;
+  }
+
+  @media screen and (min-width: $screen-l) {
+    padding: 50px 0 50px 50px;
   }
 }
