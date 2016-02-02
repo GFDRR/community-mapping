@@ -34,8 +34,8 @@ $site-color-2: $green;
 $site-color-3: $white;
 
 // Typography settings
-$font-family-site: 'Bariol';
-$font-family-text: 'Helvetica', 'Arial', sans-serif;
+$font-family-1: 'Helvetica', 'Arial', sans-serif;
+$font-family-2: 'Bariol';
 $font-color-1: $greyish-brown;
 $font-color-2: $black;
 $font-color-3: $green;
@@ -94,7 +94,7 @@ $phone-width: $tablet-width - $nav-width; // min width before reverting to mobil
 // FONTS
 ////////////////////
 %default-font {
-  font-family: $font-family-site;
+  font-family: $font-family-1;
   font-size: 15px;
 }
 
