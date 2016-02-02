@@ -3,7 +3,6 @@
 	padding: 50px 0 50px 50px;
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: $font-family-site;
     text-transform: uppercase;
   }
 
@@ -33,7 +32,6 @@
 
   h2 {
     margin: 0;
-    font-family: $font-family-site;
     font-size: 17px;
     font-weight: 700;
     letter-spacing: .6px;
@@ -49,7 +47,7 @@
 
     a {
       color: $font-color-3;
-      text-decoration: none;
+      font-weight: 700;
     }
   }
 }

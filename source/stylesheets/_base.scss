@@ -1,6 +1,7 @@
 body {
   font-family: $font-family-site;
   color: $font-color-1;
+  -webkit-font-smoothing: antialiased;
 }
 
 .page-wrapper {
