@@ -122,3 +122,36 @@ is advisable to begin with a smaller pilot project (box 2.1) and later scale up.
 The following sections will explain how to de ne the target area and make rough estimates of the number
 of features to be mapped. We will discuss what a data model is, how it should be de ned, and how to engage partners in this process. Last, we will consider how to manage a project’s time frame and ensure that tasks are properly done in succession, so that your project effec- tively meets its deadlines and its goals.
 
+### Why Are You Collecting the Data?
+
+### Defining the Target Area
+
+### Building the Data Model
+
+### Estimating a Time Frame
+
+## Building The Team (staffing)
+
+### Management Structure, Roles, and Responsibilities
+
+### Finding Mappers and Surveyors
+
+### Compensation and Incentives
+
+## Assessing existing map resources
+
+### Existing Digital and Paper Data
+
+#### Data Imports
+
+#### Other Local Data Sources
+
+### Availability of Imagery for Digitization
+
+#### Assessing Bing and Mapbox Imagery
+
+#### Alternative Imagery Sources
+
+### GPS Devices, Field Papers, and Smartphones
+
+

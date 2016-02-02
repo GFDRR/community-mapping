@@ -6,8 +6,11 @@ toc_footers:
   - <button class="btn -white">Download PDF</button>
 
 includes:
-  - posts/introduction
-  - posts/project-design-preparation
+  - posts/01-introduction
+  - posts/02-project-design-preparation
+  - posts/03-getting-started
+  - posts/04-implementation-and-supervision
+  - posts/05-lessions-learned-and-recommendations
 
 search: true
 ---
