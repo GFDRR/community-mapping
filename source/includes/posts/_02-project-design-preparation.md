@@ -55,7 +55,7 @@ There are several ways to get in touch with OSM mappers:
     <li>The “Neis One!” blog. Another useful starting point for connecting with the OSM community is Pascal Neis’s blog at <a href="http://neis-one.org">neis-one.org</a>, which provides tools that show which users are actively mapping in certain areas.</li>
 </ul>
 
-##### Other Groups
+#### Other Groups
 
 Other groups may also be considered potential collab- orators. Table 2.1 describes several sources of potential partners.
 
