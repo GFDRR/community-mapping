@@ -24,16 +24,18 @@ of the data will be more useful if opened for public access. Furthermore, if the
 
 Many different levels and parts of the government can be approached, depending on the focus of the project. When starting a project, identify those agencies that are most important to approach for support. Relevant government departments may cover the following areas:
 
-<ul>
-    <li>Urban development</li>
-    <li>Disaster management</li>
-    <li>Mapping or surveying</li>
-    <li>Census and statistics</li>
-    <li>Information and communication technology</li>
-    <li>Transportation</li>
-    <li>Water and sanitation</li>
-    <li>Local government (such as regional and municipal governments, village heads)</li>
-</ul>
+<div class="c-list">
+    <ul>
+        <li>Urban development</li>
+        <li>Disaster management</li>
+        <li>Mapping or surveying</li>
+        <li>Census and statistics</li>
+        <li>Information and communication technology</li>
+        <li>Transportation</li>
+        <li>Water and sanitation</li>
+        <li>Local government (such as regional and municipal governments, village heads)</li>
+    </ul>
+</div>
 
 #### OpenStreetMap Community
 
