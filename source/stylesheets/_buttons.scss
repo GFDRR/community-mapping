@@ -11,5 +11,8 @@
   &.-white {
     background-color: $white;
     color: $font-color-2;
+    &:hover {
+      background-color: darken($white, 10);
+    }
   }
 }
