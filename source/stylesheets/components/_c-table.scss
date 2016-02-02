@@ -1,3 +1,21 @@
 .c-table {
 
+  > table {
+    border: 1px solid $light-grey;
+    tr {
+      &:nth-child(odd) {
+        > td {
+          background-color: rgba(230, 223, 215, 0.1);
+        }
+      }
+      &:nth-child(even) {
+        > td {
+          background-color: rgba(230, 223, 215, 0.3)
+        }
+      }
+      &:last-child {
+        border-bottom: 0;
+      }
+    }
+  }
 }
