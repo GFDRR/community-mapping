@@ -19,12 +19,6 @@ The World Bank, through its Global Facility for Disaster Reduction and Recovery 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora dignissimos nulla, perspiciatis ipsam odit exercitationem autem impedit tempore eaque quod natus amet voluptatem ratione quam accusamus. Obcaecati a, rem nemo?
 
-<div class="c-box-image">
-  <img src="/images/posts/introduction/rio.jpg" alt="rio">
-</div>
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo ratione dolor eos, totam qui perspiciatis delectus doloribus nam non iste perferendis unde, fugiat et sequi possimus consectetur earum pariatur corporis?
-
 ## How to Use this Guide
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
