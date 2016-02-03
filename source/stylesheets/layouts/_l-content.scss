@@ -14,7 +14,7 @@
 
   h1 {
     position: relative;
-    font-size: 48px;
+    font-size: 24px;
     font-weight: 300;
     background: none;
     border: 0;
@@ -29,6 +29,10 @@
     }
     & + div + h2 {
       margin: 20px 0;
+    }
+
+    @media screen and (min-width: $screen-m) {
+      font-size: 48px;
     }
   }
 
