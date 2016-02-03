@@ -2,7 +2,10 @@
 
   > table {
     border: 1px solid $light-grey;
-    tr {
+
+    thead > tr {}
+
+    tbody > tr {
       &:nth-child(odd) {
         > td {
           background-color: rgba(230, 223, 215, 0.1);
@@ -13,9 +16,10 @@
           background-color: rgba(230, 223, 215, 0.3)
         }
       }
-      &:last-child {
-        border-bottom: 0;
-      }
+    }
+
+    tr:last-of-type {
+      border-bottom: 0;
     }
   }
 }
