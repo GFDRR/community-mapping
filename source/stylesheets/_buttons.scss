@@ -1,8 +1,14 @@
 .btn {
   padding: 5px 15px;
   border: 0;
+  font-family: 'Bariol';
+  font-weight: 700;
   font-size: 15px;
   text-transform: uppercase;
+
+  &:hover {
+    text-decoration: none !important;
+  }
 
   &:focus {
     outline: 0;
@@ -10,7 +16,7 @@
 
   &.-white {
     background-color: $white;
-    color: $font-color-2;
+    color: #1b1b1b !important;
     &:hover {
       background-color: darken($white, 10);
     }
