@@ -74,6 +74,15 @@
     padding: 50px;
   }
 
+  // iPad
+  @media only screen
+    and (min-device-width: 768px)
+    and (max-device-width: 1024px)
+    and (orientation: landscape)
+    and (-webkit-min-device-pixel-ratio: 2) {
+      max-width: 600px;
+  }
+
   @media screen and (min-width: $screen-l) {
     padding: 50px 0 50px 50px;
   }
