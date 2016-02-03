@@ -31,4 +31,8 @@
     background-color: $site-color-2;
     border-radius: 0;
   }
+
+  &.open ~ .page-wrapper {
+    opacity: .2;
+  }
 }
