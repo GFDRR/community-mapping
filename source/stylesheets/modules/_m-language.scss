@@ -1,0 +1,14 @@
+.m-language {
+	background-color: rgba($white, .1);
+	margin: 0 -45px;
+	> p {
+		margin-left: 45px;
+		padding: 5px 0;
+		> a {
+			color: $font-color-4;
+			&:hover {
+				text-decoration: none !important;
+			}
+		}
+	}
+}

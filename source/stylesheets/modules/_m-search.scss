@@ -13,4 +13,34 @@
 			padding-left: 0;
 		}
 	}
+
+  > .search-results {
+    &.visible {
+      position: relative;
+      margin: 0 -45px 0 -30px;
+      padding-left: 15px;
+      background: transparent;
+
+      &:before {
+        content: '';
+        z-index: -1;
+        display: inline-block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(255, 255, 255, .1);
+      }
+
+      a {
+        font-weight: 400;
+        &:hover {
+          text-decoration: none;
+        }
+      }
+
+    }
+  }
 }
+

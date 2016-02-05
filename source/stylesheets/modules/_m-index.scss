@@ -1,4 +1,7 @@
 .m-index {
+  top: 0px;
+  padding-top: 100px;
+  overflow: visible;
 
   .toc-footer {
     padding: 15px 45px 25px 30px;
@@ -11,14 +14,15 @@
       p {
         font-size: 12px;
         color: rgba(255, 255, 255, .5);
-
-        > a {
-          color: $white;
-          &:hover {
-            text-decoration: none;
-          }
-        }
       }
     }
+  }
+
+  @media screen and (min-width: $screen-m) {
+    padding-top: 85px;
+  }
+
+  @media screen and (min-width: $screen-l) {
+    padding: 0;
   }
 }

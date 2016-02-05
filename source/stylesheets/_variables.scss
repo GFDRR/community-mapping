@@ -34,7 +34,8 @@ $site-color-2: $green;
 $site-color-3: $white;
 
 // Typography settings
-$font-family-site: 'Bariol';
+$font-family-1: 'Helvetica', 'Arial', sans-serif;
+$font-family-2: 'Bariol';
 $font-color-1: $greyish-brown;
 $font-color-2: $black;
 $font-color-3: $green;
@@ -63,6 +64,11 @@ $search-notice-bg: #c97a7e;
 
 // Others
 $logo-bg: '/images/bg-map.jpg';
+
+// Resolutions
+$screen-s: 320px;
+$screen-m: 768px;
+$screen-l: 931px;
 
 
 // TEXT COLORS
@@ -93,7 +99,7 @@ $phone-width: $tablet-width - $nav-width; // min width before reverting to mobil
 // FONTS
 ////////////////////
 %default-font {
-  font-family: $font-family-site;
+  font-family: $font-family-1;
   font-size: 15px;
 }
 
