@@ -1,7 +1,7 @@
 .m-index {
   top: 70px;
-  overflow: hidden;
-  overflow-y: scroll;
+  overflow: visible;
+  // overflow-y: scroll;
 
   .toc-footer {
     padding: 15px 45px 25px 30px;
