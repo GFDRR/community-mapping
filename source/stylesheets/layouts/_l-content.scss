@@ -1,7 +1,7 @@
 .content {
 	max-width: 730px;
   font-family: $font-family-1;
-  margin-top: 30px;
+  margin-top: 75px;
   padding: 75px 10px 50px 10px;
 
   h1, h2, h3, h4, h5, h6 {
@@ -82,6 +82,14 @@
     and (orientation: landscape)
     and (-webkit-min-device-pixel-ratio: 2) {
       max-width: 600px;
+  }
+
+  @media only screen
+    and (min-device-width: 768px)
+    and (max-device-width: 1024px)
+    and (orientation: portrait)
+    and (-webkit-min-device-pixel-ratio: 2) {
+      margin-top: 60px;
   }
 
   @media screen and (min-width: $screen-l) {
