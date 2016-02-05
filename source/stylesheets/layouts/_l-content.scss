@@ -1,7 +1,8 @@
 .content {
 	max-width: 730px;
   font-family: $font-family-1;
-  padding: 50px 25px 50px 50px;
+  margin-top: 75px;
+  padding: 75px 10px 50px 10px;
 
   h1, h2, h3, h4, h5, h6 {
     padding: 0;
@@ -71,7 +72,7 @@
   }
 
   @media screen and (min-width: $screen-m) {
-    padding: 50px;
+    padding: 85px 30px 50px 30px;
   }
 
   // iPad
@@ -83,7 +84,16 @@
       max-width: 600px;
   }
 
+  @media only screen
+    and (min-device-width: 768px)
+    and (max-device-width: 1024px)
+    and (orientation: portrait)
+    and (-webkit-min-device-pixel-ratio: 2) {
+      margin-top: 60px;
+  }
+
   @media screen and (min-width: $screen-l) {
+    margin: 0;
     padding: 50px 0 50px 50px;
   }
 }

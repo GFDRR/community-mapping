@@ -1,4 +1,8 @@
 .m-index {
+  top: 0px;
+  padding-top: 100px;
+  overflow: visible;
+
   .toc-footer {
     padding: 15px 45px 25px 30px;
     border-top: 0;
@@ -12,5 +16,13 @@
         color: rgba(255, 255, 255, .5);
       }
     }
+  }
+
+  @media screen and (min-width: $screen-m) {
+    padding-top: 85px;
+  }
+
+  @media screen and (min-width: $screen-l) {
+    padding: 0;
   }
 }
