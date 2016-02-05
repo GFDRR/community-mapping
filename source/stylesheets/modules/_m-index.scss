@@ -1,7 +1,7 @@
 .m-index {
-  top: 0px;
-  padding-top: 100px;
-  overflow: visible;
+  top: 70px;
+  overflow: hidden;
+  overflow-y: scroll;
 
   .toc-footer {
     padding: 15px 45px 25px 30px;
@@ -18,11 +18,12 @@
     }
   }
 
-  @media screen and (min-width: $screen-m) {
-    padding-top: 85px;
+  @media screen and (min-width: 575px) {
+    top: 50px
   }
 
   @media screen and (min-width: $screen-l) {
     padding: 0;
+    top: 0;
   }
 }
