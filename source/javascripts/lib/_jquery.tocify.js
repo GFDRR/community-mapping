@@ -1020,7 +1020,7 @@
                 var width = window.innerWidth,
                   scroll;
 
-                if (width >= 768) {
+                if (width >= 980  ) {
                   scroll = $('div[data-unique="' + elem.attr("data-unique") + '"]').next().offset().top - ($.isFunction(scrollTo) ? scrollTo.call() : scrollTo) + "px"
                 } else {
                   scroll = $('div[data-unique="' + elem.attr("data-unique") + '"]').next().offset().top - ($.isFunction(scrollTo) ? scrollTo.call() : scrollTo + 85) + "px"
