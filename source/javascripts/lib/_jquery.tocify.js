@@ -1017,10 +1017,10 @@
             // Once all animations on the page are complete, this callback function will be called
             $("html, body").promise().done(function() {
 
-                var height = window.innerHeight,
+                var width = window.innerWidth,
                   scroll;
 
-                if (height > 850) {
+                if (width > 768) {
                   scroll = $('div[data-unique="' + elem.attr("data-unique") + '"]').next().offset().top - ($.isFunction(scrollTo) ? scrollTo.call() : scrollTo) + "px"
                 } else {
                   scroll = $('div[data-unique="' + elem.attr("data-unique") + '"]').next().offset().top - ($.isFunction(scrollTo) ? scrollTo.call() : scrollTo + 85) + "px"
