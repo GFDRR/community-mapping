@@ -11,10 +11,14 @@
       white-space: normal;
       overflow-x: visible;
       p {
-        font-size: 12px;
+        font-size: 13px;
         color: rgba(255, 255, 255, .5);
       }
     }
+  }
+
+  &.open + .page-wrapper {
+    opacity: .3;
   }
 
   @media screen and (min-width: 575px) {

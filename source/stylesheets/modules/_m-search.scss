@@ -15,6 +15,7 @@
 	}
 
   > .search-results {
+    transition-property: none;
     &.visible {
       position: relative;
       margin: 0 -45px 0 -30px;
