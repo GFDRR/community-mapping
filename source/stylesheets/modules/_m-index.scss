@@ -1,7 +1,6 @@
 .m-index {
   top: 70px;
   overflow: visible;
-  // overflow-y: scroll;
 
   .toc-footer {
     padding: 15px 45px 25px 30px;
@@ -20,6 +19,14 @@
 
   @media screen and (min-width: 575px) {
     top: 50px
+  }
+
+  @media only screen
+    and (min-device-width: 768px)
+    and (max-device-width: 1024px)
+    and (orientation: portrait)
+    and (-webkit-min-device-pixel-ratio: 2) {
+      padding-top: 50px;
   }
 
   @media screen and (min-width: $screen-l) {
