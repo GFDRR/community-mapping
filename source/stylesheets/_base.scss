@@ -4,6 +4,19 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.scroll-wrapper {
+  z-index: -10;
+  position: relative;
+  overflow: auto;
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 60px;
+
+  @media screen and (min-width: 575px) {
+    height: calc(100% - 190px);
+  }
+}
+
 .page-wrapper {
   background-color: $white;
 }

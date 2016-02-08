@@ -57,23 +57,25 @@ under the License.
           <% end %>
         </div>
       <% end %>
-      <div class="m-navigation-bar">
-        <% if current_page.data.search %>
-          <div class="m-search search">
-            <input type="text" class="search" id="input-search" placeholder="Search">
-            <ul class="search-results"></ul>
-          </div>
-        <% end %>
-        <div id="toc">
-        </div>
-      </div>
-      <% if current_page.data.toc_footers %>
-        <ul class="toc-footer">
-          <% current_page.data.toc_footers.each do |footer| %>
-            <li><%= footer %></li>
+      <div class="scroll-wrapper">
+        <div class="m-navigation-bar">
+          <% if current_page.data.search %>
+            <div class="m-search search">
+              <input type="text" class="search" id="input-search" placeholder="Search">
+              <ul class="search-results"></ul>
+            </div>
           <% end %>
-        </ul>
-      <% end %>
+          <div id="toc">
+          </div>
+        </div>
+        <% if current_page.data.toc_footers %>
+          <ul class="toc-footer">
+            <% current_page.data.toc_footers.each do |footer| %>
+              <li><%= footer %></li>
+            <% end %>
+          </ul>
+        <% end %>
+      </div>
     </div>
     <div class="page-wrapper">
       <div class="content">

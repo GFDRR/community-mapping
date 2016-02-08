@@ -8,6 +8,7 @@
   var closeToc = function() {
     $(".tocify-wrapper").removeClass('open');
     $("#nav-button").removeClass('open');
+    $("body").removeClass('-no-scroll');
   };
 
   var makeToc = function() {
@@ -30,6 +31,7 @@
     $("#nav-button").click(function() {
       $(".tocify-wrapper").toggleClass('open');
       $("#nav-button").toggleClass('open');
+      $("body").toggleClass('-no-scroll');
       return false;
     });
 
