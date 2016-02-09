@@ -2,7 +2,7 @@
 	&.search {
 		&:before {
 			z-index: 2;
-			left: initial;
+			left: inherit;
 			right: 0;
       opacity: .6;
 		}
