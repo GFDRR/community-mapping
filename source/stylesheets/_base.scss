@@ -11,9 +11,8 @@ body {
   overflow: auto;
   height: 100%;
   -webkit-overflow-scrolling: touch;
-  padding-bottom: 60px;
 
-  @media screen and (min-width: 575px) {
+  @media screen and (min-width: $screen-l) {
     height: calc(100% - 190px);
   }
 }
