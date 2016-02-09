@@ -1,5 +1,5 @@
 .btn {
-  padding: 5px 15px;
+  padding: 8px 15px;
   border: 0;
   font-family: 'Bariol';
   font-weight: 700;
@@ -43,10 +43,6 @@
     background-color: transparent;
     border-radius: 0;
     transform: rotate(-90deg) translate(-50%, -50%);
-  }
-
-  &.open ~ .page-wrapper {
-    opacity: .2;
   }
 
   @media screen and (min-width: $screen-l) {

@@ -2,7 +2,7 @@
 	&.search {
 		&:before {
 			z-index: 2;
-			left: initial;
+			left: inherit;
 			right: 0;
       opacity: .6;
 		}
@@ -15,6 +15,7 @@
 	}
 
   > .search-results {
+    transition-property: none;
     &.visible {
       position: relative;
       margin: 0 -45px 0 -30px;
