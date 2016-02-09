@@ -13,7 +13,7 @@
 
     var triggerLightbox = function() {
       $.featherlight($(this), opts);
-      body.className = '-no-scroll';
+      body.className += ' -no-scroll';
     };
 
     for (var i = 0; i < images.length; i++) {

@@ -6,9 +6,11 @@
   'use strict';
 
   var closeToc = function() {
-    $(".tocify-wrapper").removeClass('open');
-    $("#nav-button").removeClass('open');
-    $("body").removeClass('-no-scroll');
+    if ($(".tocify-wrapper").hasClass('open')) {
+      $("body").removeClass('-no-scroll');
+      $("#nav-button").removeClass('open');
+      $(".tocify-wrapper").removeClass('open');
+    }
   };
 
   var makeToc = function() {
