@@ -28,7 +28,7 @@
   }
 
   @media screen and (min-width: $screen-l) {
-    position: initial;
+    position: relative;
     padding: 0;
     > p {
       max-width: 75%;
