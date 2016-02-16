@@ -48,7 +48,7 @@ Even if direct partnership is not developed with existing OSM contributors, it i
 There are several ways to get in touch with OSM mappers:
 
 <ul>
-    <li>E-mail lists. In many countries, the mappers commu- nicate through dedicated e-mail lists. You can find such lists at 
+    <li>E-mail lists. In many countries, the mappers commu- nicate through dedicated e-mail lists. You can find such lists at
     <a target="_blank" href="https://lists.openstreetmap.org/listinfo">lists.openstreetmap.org</a>.</li>
     <li>Facebook. In some places, the OSM communities have chosen to communicate using Facebook groups. Therefore, you should search Facebook to find out whether there is a local group for OSM contributors in the areas you plan to map.</li>
     <li>Wiki pages or sites. It is important to check the status of mapping in certain areas by visiting the OSM Wiki site, starting with the main page at <a target="_blank" href="http://wiki.open-streetmap.org/wiki/Main_Page">http://wiki.open-streetmap.org/wiki/Main_Page</a>. Most countries have at least one dedicated page to the status of the project.</li>
@@ -122,6 +122,7 @@ is advisable to begin with a smaller pilot project (box 2.1) and later scale up.
 The following sections will explain how to de ne the target area and make rough estimates of the number
 of features to be mapped. We will discuss what a data model is, how it should be de ned, and how to engage partners in this process. Last, we will consider how to manage a project’s time frame and ensure that tasks are properly done in succession, so that your project effec- tively meets its deadlines and its goals.
 
+
 ### Why Are You Collecting the Data?
 
 ### Defining the Target Area
@@ -129,6 +130,32 @@ of features to be mapped. We will discuss what a data model is, how it should be
 ### Building the Data Model
 
 ### Estimating a Time Frame
+
+<div class="c-table -responsive-list">
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="5">Proposed Data Model</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Streets</td>
+            <td colspan="4">Name & Address</td>
+            <td colspan="4">Width</td>
+            <td colspan="4">Surface Type (Bituminous, Pitch, Brick, etc.)</td>
+            <td colspan="4">One way / Two way / not defined</td>
+        </tr>
+        <tr>
+            <td>Buildings</td>
+            <td>Footprints</td>
+            <td>Usage</td>
+            <td>Number of Stories</td>
+            <td>Construction Type (categories consistent with CDMP 2007 survey) RCC/Brick/Block/</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Building The Team (staffing)
 
@@ -153,5 +180,3 @@ of features to be mapped. We will discuss what a data model is, how it should be
 #### Alternative Imagery Sources
 
 ### GPS Devices, Field Papers, and Smartphones
-
-
