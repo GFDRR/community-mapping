@@ -10,7 +10,7 @@
     content: '';
     @include arrow('right', 8px, 2px, $white, 135deg);
     top: calc(50% - 2px);
-    right: 15px;
+    right: 47px;
     transform: translate(0, -50%) rotate(135deg);
     pointer-events: none;
   }
