@@ -204,3 +204,30 @@ GIS queries can help you to provide good metrics. These queries can answer quest
          <li>What is the estimated time to completion?</li>
  </div>
 For a sample project report, see Appendix 6.1.
+
+<div class="c-box">
+ <span class="box-title">Box 4.4 Project Implementation Checklist</span>
+   <p>During the project implementation phase, the following tasks should be completed:</p>
+   <p><b>Collecting the Data</p></b>
+  <div class="c-list">
+     <ul>
+         <li>Create and print reference maps</li>
+         <li>Divide target area into daily mapping blocks; enumerate and make a statistics spreadsheet, providing each block its own row</li>
+         <li>Create and print survey forms</li>
+         <li>Create and print survey training manual</li>
+         <li>Make daily work schedule</li>
+         <li>Create detailed project implementation schedule</li>
+ </div>
+    <p><b>Quality Control</p></b>
+  <div class="c-list">
+     <ul>
+         <li>Determine methods to monitor data quality, and include these in both your project schedule and daily schedule</li>
+ </div>
+     <p><b>Reporting</p></b>
+  <div class="c-list">
+     <ul>
+         <li>Determine the metrics to include in project reports</li>
+         <li>Add tasks to the schedule to ensure that metrics are collected and documented regularly</li>
+         <li>Maintain statistics each day in a spreadsheet</li>
+ </div>
+ </div>
