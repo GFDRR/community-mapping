@@ -340,6 +340,13 @@ Written permission is generally required from agencies that are willing to donat
 
 Importing data is not difficult, but it requires an advanced understanding of OpenStreetMap and can take a significant amount of time, because imported data must be manually merged with existing OSM data. If you do decide that importing data is the right course to take, you must have a clear plan of how to import the data and discuss it beforehand with the OSM community.
 
+<div class="c-box">
+<span class="box-title">Box 2.5 Imagery and Licensing</span>
+  <p>A common question during any mapping project is, “Why can we use imagery from Bing but not from Google?” The short answer, and one not always easily understood, is licensing.</p>
+  <p>Any company or organization that sells or distributes imagery has a license describing what users are allowed to do with it. In most cases, people are forbidden from making derivative products. This means we are not allowed to use imagery to help make maps unless we receive specific permission to do so. Because Google has not given permission for the OSM community to use its imagery—or any other information from Google—as a resource, such use is not allowed, and edits derived from Google are illegal.</p>
+  <p>On the other hand, Microsoft has given explicit permission for OSM contributors to use its imagery, which is of good quality in many parts of the world. DigitalGlobe, a satellite imagery company, has also released a great deal of imagery through Mapbox. It is always best to check these resources first and to assess the quality of the images in your project’s target area. Available imagery sources can be viewed in the Java OpenStreetMap Editor (JOSM).</p>
+</div>
+
 #### Other Local Data Sources
 
 Consult the sources described below to find additional existing local data.
@@ -370,6 +377,47 @@ After defining your target area, you should assess to what extent you will be ab
 
 During the planning stage, consider using GIS software to draw lines around the parts of your target area where Bing imagery will be suitable for mapping as well as those areas for which usable imagery is unavailable. This will help you understand what proportion of the target area will require another imagery source or a different methodology. 
 
+<div class="c-box">
+<span class="box-title">Box 2.5 Imagery and Licensing</span>
+  <p>During the project’s design and preparation phase, the following tasks should be completed:</p>
+  <p><b>Partner Outreach</p></b>
+<p><div class="c-list">
+    <ul>
+        <li>Identify relevant partners in government, academia, and civil society</li>
+        <li>Meet with potential partners, discussing support and areas of collaboration</li>
+        <li>Communicate project goals with OpenStreetMap community and meet with local mappers</li>
+    </ul>
+</div></p>
+</div>
+  <p><b>Defining the Scope of Work</p></b>
+<p><div class="c-list">
+    <ul>
+        <li>Obtain a map containing the boundary of the target area</li>
+        <li>Estimate the number of features you will map in the area, such as roads, buildings, and so on</li>
+        <li>Write out your data model</li>
+        <li>Map the data model to OpenStreetMap tags</li>
+        <li>Establish a rough time frame for survey completion, noting holiday periods that will halt the work</li>
+    </ul>
+</div></p>
+  <p><b>Building the Team</p></b>
+<p><div class="c-list">
+    <ul>
+        <li>Establish management structure</li>
+        <li>Determine sources of your staff and how staff will be compensated</li>
+        <li>Hire staff</li>
+    </ul>
+</div></p>
+  <p><b>Assessing Resources</p></b>
+<p><div class="c-list">
+    <ul>
+        <li>List the existing digital and paper data</li>
+        <li>Determine whether you will import any data; if so, create an action plan and time frame</li>
+        <li>Draw a map showing parts of your target area where no imagery is available</li>
+        <li>Determine whether you will use GPS devices, smartphones, or both; if so, acquire</li>
+        <li>Confirm that the necessary base-map data are available to use in Field Papers</li>
+    </ul>
+</div></p>
+
 #### Alternative Imagery Sources
 
 Finding alternative imagery sources is a lot like finding possible data you can import. There is usually some imagery floating around, but it is often of questionable age and usefulness, and of even more questionable legal right to use.
@@ -381,3 +429,18 @@ Imagery can be purchased from companies such as DigitalGlobe and GeoEye, but thi
 In some cases, imagery is made available through the U.S. Department of State’s Imagery to the Crowd initiative. This is typically provided in the aftermath of disasters to aid remote mappers. Learn more about Imagery to the Crowd at <b>mapgive.state.gov</b>. Remember, too, that using aerial imagery as a background layer is generally considered to be the easiest way to map, particularly when many buildings need to be digitized.
 
 ### GPS Devices, Field Papers, and Smartphones
+
+If imagery is unavailable for part or all of your target area, having a good base map becomes even more important. If detailed, existing data such as road networks and landmarks are already on the map, you should be able to use this as a reference to add new features in their correct locations. If a good base map is not already available, you will need to use GPS to build up a base map of your area.
+
+GPS devices allow mappers to record paths along which they walk as well as individual locations, which are stored with accurate latitudes and longitudes. These data can be imported into JOSM and then traced to add features to the database. When no imagery is available, it is a good idea to use GPS to build up a base map first. Survey teams can first traverse an area with GPS devices, locating roads and major landmarks. In a second stage, they can use this base map as a reference to go out and collect more detailed data.
+
+A service for OSM known as Field Papers enables mappers to print out a piece of paper that displays either an existing OSM map, satellite imagery, or a combination of both. The mappers take the Field Papers into the field, draw on them, write notes, and add features to the map—an example of which is shown in figure 2.8. Later, the papers can be scanned back into the computer and
+automatically geo-referenced to their correct locations on the globe. It is then a simple process of digitizing the
+hand-drawn notes. 
+
+This process can be used for building up the base map, as well as for the daily mapping activities of a project. Each day, mappers will print out Field Papers of small areas, which surveyors can use to sketch buildings and areas using the correctly located roads as a reference.1 Figures 2.8 and 2.9 show examples using Field Papers “atlas maps.”
+
+Last, you can use mobile applications to collect OpenStreetMap data. Although applications have been developed to map using mobile devices, none of them provides all of the editing features of desktop software. Mobile applications are best at mapping points of interest.2
+
+1- Creating rough sketches of building shapes and their locations is not very precise, and often mappers wonder whether this is a problem. Ideally, building shapes will be more accurate, but such accuracy is difficult without imagery to use as a reference. If this mapping methodology is used, it is not a major  problem. More important than precise building size and location is the topology—which helps to ensure that the buildings are placed correctly in relation to each other and in relation to the (accurately positioned) roads.
+2- For a list of Android editing applications, see http://wiki.openstreetmap.org/wiki/Android#OpenStreetMap_editing_features.
