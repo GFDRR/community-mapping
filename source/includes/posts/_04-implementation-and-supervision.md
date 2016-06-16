@@ -109,18 +109,98 @@ There are a few common threats that many mapping projects endure. It’s best to
 
 ### Bottlenecks
 
+Among the great threats to a mapping project are unexpected bottlenecks that result in the loss of much time and work. For example, if you are importing data from a government agency, but you can’t begin mapping until the data have been imported, make sure that you allot enough time in advance to acquire the data, obtain permission to use it, and import it.
+
+If there is a weeklong religious holiday a month into your project and nobody will be working, you should identify that from the beginning. If the Internet connection tends to go off every second day, you may need to find another way of connecting your staff. Other common bottlenecks are the availability of hardware (such as having enough computers for your mapping teams) or the ability to print enough Field Papers and survey forms to keep up with the mappers’ needs.
+
 ### Time Management
+
+A great deal of time is lost in places where you would not expect. This adds up and can significantly slow down a project. One common loss of time is during morning meetings. Out of 10 people, 1 or 2 are always late. Don’t let their tardiness stop the rest of the group from working, and try to enforce a policy of punctuality. Time is also lost in the logistics—for example, printing Field Papers, preparing computers, and using the Internet. Keep these processes running smoothly to save time and energy.
+
+In addition, transportation can drain staff time unexpectedly. Be sure to build transportation time into the staff schedules. You can’t expect a team to map for a full four hours if they need an hour to get to and from their mapping area. Consider faster ways for them to get there. For example, mapping teams may be allowed to take survey equipment home with them and then head directly to the survey sites in the morning. This option, of course, requires trust that they will begin working on time.
 
 ### Survey Fatigue
 
+Mappers who survey every day may tire of it over time. It is physically demanding work and can sometimes feel monotonous. Generally mappers do better work if they maintain their enthusiasm. Finding ways to keep them motivated can aid a great deal—for example, by varying the work on occasion, providing frequent trainings to learn new things, and offering incentives for good work.
+
 ## Quiality Control
+
+One of the manager’s primary jobs is to ensure quality control of the data being collected and entered into OpenStreetMap. Quality control involves three principal tasks:
+<div class="c-list">
+     <ul>
+         <li>Daily data checks</li>
+         <li>Resurveying</li>
+         <li>Data analysis</li>
+ </div>
 
 ### Daily Data Checks
 
+The most immediate way to ensure quality is by staying in close contact with the mapping teams, keeping track of their edits, and discussing questions and concerns with mappers when they arise. 
+
+New edits and additions should be reviewed and validated daily or at most weekly. This is an important supervisory task because catching mistakes and bad editing practices early means that they can be corrected and the editors can learn to do things properly. Managers should be highly proficient in the JOSM software, using the validation and search tools to examine project data. (Box 4.3 discusses some of these tools.) Key aspects to review are
+<div class="c-list">
+     <ul>
+         <li><b>Topology</b> errors (such as overlapping buildings or incorrect relations);</li>
+         <li><b>Tagging</b> errors (misspelled tags or misused key-value combinations); and</li>
+         <li><b>Completeness of data</b> (whether all attributes in the data model have been collected).</li>
+ </div>
+
+Managers should always be available during editing hours to answer questions and to check for mistakes. Each day they should review their mappers’ work and discuss any errors with them. They should also review common mistakes using the projector so that everybody may learn and benefit.
+
+<div class="c-box">
+ <span class="box-title">Box 4.3 OSM Quality Assurance Tools</span>
+   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>wiki.openstreetmap.org/wiki/Quality_assurance.</b></p>
+ </div>
+
 ### Resurveying
+
+Another method of quality control is to conduct secondary surveys at regular intervals. One day every week or two, 5–10 percent of the completed work should be resurveyed. Survey teams can resurvey each other’s work, or, if possible, their more-experienced managers can undertake the reviews.
+
+The areas selected for resurveying should be randomly selected from different areas, although at least one sample area should be taken from every mapping team throughout the course of the project. The resurveying process involves collecting the same data twice, comparing those sets of data, and looking for mistakes. For example, if you are mapping buildings and 1,000 buildings have been mapped, a resurvey would cover 50 to 100 of those buildings again. Based on the percentage of error you find, you can extrapolate the likely percentage of error in the entire survey.
+
+Quantum GIS. Such software allows for advanced querying and analysis of the data in order to answer question
+such as these:
+<div class="c-list">
+     <ul>
+         <li>What features are missing attribute tags?</li>
+         <li>Where do the values look out of the ordinary?</li>
+         <li>Where are names misspelled?</li>
+ </div>
+
+More detailed information on quality control and data analysis can be found in HOT’s “Reviewing OSM Data3” document. For more about quality reviews conducted after project completion, refer to the “Scientific communities” entry in table 2.1 on partnership sources.
+
+Resurveying has three main functions:
+<div class="c-list">
+     <ul>
+         <li>It gives your mapping teams the opportunity to check and correct mistakes in their work.</li>
+         <li>It allows managers to find recurring errors that mapping teams make and discuss them with the teams to improve their work in the future.</li>
+         <li>It provides an important metric for project reporting: the percentage of error. A margin of error of 5 percent or less will probably be acceptable, although, of course, you should strive for the greatest accuracy possible.</li>
+ </div>
 
 ### Data Analysis
 
+Just as resurveying helps to improve the data collection process, analyzing the data in JOSM improves the editing process. Another way to analyze the data is through GIS analysis, which may benefit both data collection and editing. 
+
+It’s a good idea to regularly (once or twice a month) review the project data in GIS software such as 
+
 ## Reporting
 
+Most mapping projects have a financial backer and partners who will be interested in project reports. Depending on the length of the project, the reports may be issued at various intervals, and they will most certainly include a final project report.
 
+How often should reports be submitted? Of course, this will depend on the donors’ requirements, but for projects of six months or less, a good rule of thumb is to deliver a midterm report and a final report, as well as brief snapshots of mapping progress every two to four weeks. 
+
+For longer projects, you may want to deliver midterm reports quarterly.
+
+The midterm and final reports should include extensive evaluation of the project to date. They should summarize the project activities and outcomes, including partnerships, mapping activities, and the data collection progress. Lessons learned and changes to the original project design should also be detailed. In addition, these reports are the appropriate place to document the results of your quality control processes, particularly the estimated level of data accuracy and your error-checking methodology.
+
+The more–frequent interim “snapshots” need not be as detailed. The purpose of these regular updates is to report on mapping progress and maintain metrics on the pace of data collection. For example, if the project primarily involves building data collection, you will want to report the number of buildings mapped each week, the anticipated time to completion, the rate of mapping per day, and so forth. This will help to assess how your data collection process evolves over time.
+
+GIS queries can help you to provide good metrics. These queries can answer questions such as these:
+<div class="c-list">
+     <ul>
+         <li>What percentage of the target area has been mapped?</li>
+         <li>How many buildings have been mapped?</li>
+         <li>What is the average number of buildings a mapping team completes each day?</li>
+         <li>What is the estimated time to completion?</li>
+ </div>
+For a sample project report, see Appendix 6.1.
