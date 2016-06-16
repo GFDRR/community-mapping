@@ -65,6 +65,38 @@ When you are preparing a mapping project budget, be sure to consider a number of
 
 ## Training
 
+Once you have established your management structure and hired staff, you will need to train them. On a practical level, they will need to know how to map with OpenStreetMap, how to use the JOSM or iD editing software, and how to create and use Field Papers as well as any specialized information about the data they will be collecting. For example, if they are collecting data on buildings’ structural attributes, they will need to learn some engineering basics. We can separate the training components into two broad areas: those concerning OpenStreetMap tools and software and those concerning surveying techniques and understanding the data model.
+
+Take the time and care to train the staff thoroughly. Remember that you are essentially training your future trainers, because good managers and mappers will be able to teach others about mapping and offer trainings with partner organizations and with volunteers. If it fits within your management structure, it is a good idea to a have a core team of managers who are more extensively trained than the mappers whom they oversee. The core team should become experts in OpenStreetMap and surveying techniques, so they will be equipped to manage and provide answers to other mappers. In Open Cities Dhaka, for example, a core team was trained over the course of a week and went to the field each day to practice surveying and then editing in the office. Although they were not experts after a week, they were able to lead a two-day training for a larger group of mappers and answer most of their questions.
+
 ### Training on Mapping Tools
 
+Basic OpenStreetMap training can take as few as two days. This is a typical amount of time to work through the beginner training material available on <b>learnosm.org</b>. However, learning OSM in depth requires time and plenty of practice. Training should include both classroom time to work through the software step by step and multiple field excursions.
+
+While training core staff, it is a good idea to dedicate at least one week and sometimes two simply to mapping and training. That way, the staff will have plenty of supervised practice before they supervise others. This training period can also overlap with project preparation. Even after training is complete and mappers are doing their job, take care to watch for mistakes and help the mappers continue to learn.
+
+A typical OSM training outline includes the following:
+  <div class="c-list">
+     <ul>
+         <li>1. Introduction to OpenStreetMap and signing up for an account</li>
+         <li>2. Using OSM’s online editor, iD</li>
+         <li>3. Using the offline editing software, JOSM</li>
+         <li>4. Understanding OSM concepts such as nodes, ways, and tags</li>
+         <li>5. Mapping in the field</li>
+         <li>6. Using aerial imagery to edit</li>
+         <li>7. Using a GPS device to map</li>
+         <li>8. Creating and using Field Papers to map</li>
+     </ul>
+ </div>
+ 
+These are the main areas to cover when training beginners, but the list can easily be either expanded or shortened, depending on the training needs. For specific training materials, visit <b>learnosm.org</b> and MapGive’s short tutorials (<b>mapgive.state.gov</b>).
+
 ### Training on Surveying
+
+The second training component concerns your project’s specific data model and how to collect accurate attributes in the field. For example, in the pilot project in Dhaka, structural attributes about individual buildings were collected, such as the type of structure and whether the building had vertical irregularity. Because not all of the surveyors were not engineers, this training required several days, including practice identifying buildings in the field.
+
+The amount of training time that should be dedicated to this component depends on the complexity of your data model and the background of the mappers. For example, not much instruction is required to collect only street names and surface types. But if you are collecting detailed structural attributes of buildings, mappers will likely need to learn some engineering basics in order to identify various attributes. They will also need precise definitions of those attributes. For example, if one of the attributes you are collecting is the building’s condition, and the possible values are “poor,” “average,” and “fair,” you will need a precise description of each of these subjective terms.
+
+It is a good idea to develop a survey training manual for mappers that includes clear descriptions of the various attributes you are collecting along with photographs. In the Open Cities Dhaka project, for example, the survey required detailed engineering knowledge. The team’s training manual clearly showed the differences between types of masonry, for example. It was also particularly valuable to differentiate subjective attributes, such whether a building’s physical condition was “poor,” “average,” or “good.” Mappers had clear definitions for each so they could accurately and uniformly identify those values in the field.
+
+All said, a week of training is probably more than adequate for most projects, and this can be combined with actual mapping activities that managers lead or supervise. The more experience mappers have, the better they will do, but they will need ongoing guidance as they learn how to map properly.
