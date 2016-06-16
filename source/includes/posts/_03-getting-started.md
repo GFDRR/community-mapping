@@ -2,15 +2,66 @@
 
 ## Finding a workspace
 
+A major consideration is the location of the project office. If you already have an office, you should consider whether it is in, or close to, the target area. Remember that travel between the editing location and the area being mapped is time-consuming; hence, planning transportation logistics is important. If you can save your mappers some time, the project should take less time and cost less money. It may be worthwhile to organize an office space close to the target area so that the mapping process runs more smoothly.
+
+In any case, care should be taken so that the office used for editing has a minimum of electrical, computer, and Internet problems. Because OpenStreetMap editing works best with a good Internet connection, frequent disconnection is enough to effectively halt the process, wasting valuable time and slowing progress. If your staff comes in for editing and has no Internet access, they have nothing to do and you lose half a day of time. A prolonged outage can be even more costly. 
+
+If Internet access is often lost, consider purchasing backup connections such as 3G modems. The additional cost often will outweigh the cost of lost time while waiting for service to return.
+
+Other considerations for your workspace include opportunities for community engagement and collaborative work. While not strictly necessary, it may be beneficial to have a meeting room that can accommodate a dozen people—ideally one that is easily reconfigurable to serve a wide variety of functions. Training could also be conducted here, although if you have many mappers to train, you may need to identify a larger facility for the initial training.
+
+When possible, the office should provide a creative communal space furnished with items such as whiteboards and couches. This will encourage open discussion and facilitate brainstorming to identify current and future challenges, examine alternatives, and develop solutions or alternative actions.
+
+The initial project phases involve engaging the local OSM community and hosting mapping workshops (or mapping parties) to raise awareness of the Open Cities project and identify interested individuals, communities, schools, government departments, and private organizations. Mapping parties can be organized either at the project office or at other venues in the focus area such as university labs, private or public offices, community centers, and libraries. Of course, the budget should take into consideration the potential costs of renting these temporary venues.
+
 ## Equipment and other costs
+
+When you are preparing a mapping project budget, be sure to consider a number of other potential costs, including the equipment, supply, and service expenses described below. See box 3.1 for an estimate of the hardware needed to serve a 10-person project team. 
+
+<div class="c-box">
+  <span class="box-title">Box 3.1 Hardware List</span>
+  <p>The following hardware will serve a project team of at least 10 people, depending on mapping methodology:</p>
+  <div class="c-list">
+     <ul>
+         <li>5 laptops (assumes one mapping team per laptop)</li>
+         <li>2 GPS devices (assumes you will use GPS, but not all the time)</li>
+         <li>1 printer (for printing Field Papers and survey forms) along with necessary ink and paper</li>
+         <li>1 projector (for presenting the project to partners and for trainings)</li>
+     </ul>
+ </div>
+</div>
 
 ### Hardware Needs
 
+<b>Computers:</b> Data entry and analysis for OSM generally requires desktop or laptop computers. Laptops, being portable, can also be used to facilitate training sessions or mapping parties at venues away from the team’s office. Typically, one computer for every two members of your mapping team will suffice for most needs.
+
+<b>Projector:</b> A projector is required for sensitization and awareness-raising presentations and in mapping workshops where the venue does not provide a projector. It will also be used when these presentations are offered at the office.
+
+<b>Handheld GPS devices:</b> GPS units will record the “track” of the mappers (where they went while collecting data) and can record points of interest (POIs).
+
+<b>Mobile Android mapping devices:</b> Instead of GPS units, you may opt to use Mobile Android devices. A variety of smartphone applications provide specific OSM mapping functionality. Currently, Android applications such as OSMTracker are the best. Mobile devices such as these usually have GPS chips inside them, allowing them to behave like a GPS device, but with additional functionality.
+
 ### Printing Needs
+
+<b>Printer:</b> A printer will be needed to print the Field Papers. If you are using paper survey forms to collect attributes for many features such as buildings, you may be making thousands of photocopies. This process takes time and money, and it should be considered while planning logistics. For example, a pilot project in Sri Lanka faced the challenge of photocopying over 30,000 data entry forms during the course of the project.
+
+<b>Business cards and brochures:</b> These materials are useful when establishing credibility in the field. Community members can be suspicious of mappers collecting data, and it is necessary to ease their concerns. A printed brochure will outline the project methodology and goals. Cards and brochures can easily be distributed while collecting data in the field—raising awareness of the project in the community and boosting credibility when fielding questions. Business cards and brochures should be distributed at all presentations and meetings.
+
+<b>Event signage and promotional materials:</b> Other printed materials include banners and posters for larger events such as mapping workshops. 
 
 ### Mapping Workshop Expenses
 
+<b>Rent:</b> Community mapping workshops should be held in a variety of locations. Where possible, a host should be identified to provide the venue. If this is not feasible, a venue should be rented.
+
+<b>Food:</b> Although workshops will vary in length, they should typically be half- or full-day events. Therefore, provide a meal such as lunch for the mappers along with coffee and snacks. For community mapping parties, it is customary to supply a cake that depicts a map of the local area on the top.
+
+<b>Internet connectivity and electricity:</b> Internet connectivity should always be considered and, where possible, redundant systems established as an option in case connectivity fails. Likewise, rechargeable batteries should be available for the projector and any GPS devices. 
+
 ### Surveying Expenses
+
+<b>Surveying and office supplies:</b> The mappers will need clipboards, pens, and pencils to complete surveying tasks.
+
+<b>Transportation expenses:</b> When specific sites have been identified to map, transportation may be required to take mappers into the field and return them to the venue, where data can be entered to OSM.
 
 ## Training
 
