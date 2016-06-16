@@ -21,6 +21,10 @@ staff, and supplies.</li>
 
 All organizations involved in disaster risk management and urban planning (such as local and national govern- ments, international partners, and nongovernmental organizations [NGOs]) need up-to-date, detailed data for their operations. Some of them may already be strug- gling to maintain their own datasets. By joining with many partners, organizations  nd it easier to keep data relevant and up-to-date and to avoid reinventing the wheel. The data become more useful and more widely used, their application leading to greater innovation,which in turn encourages further collection of valuable data, which feed back into a robust open data ecosystem.
 
+ <div class="c-box-image">
+    <img src="/images/posts/introduction/rio.jpg" alt="rio">
+  </div>
+
 ### Outreach
 
 Government support and participation in an Open Cities mapping project is a key strategy for ensuring its sustainability. The OSM community is also a essential resource, along with other partners such as universities, civil society organizations, and the private sector. This subsection examines these likely partners and their potential roles.
@@ -75,7 +79,7 @@ Building partnerships is essential to reaching the high- er-level goals of an Op
 
 ## Defining the scope of work
 
-The  rst step of Open Cities project planning is to clearly de ne the objectives. This means answering questions such as these:
+The first step of Open Cities project planning is to clearly de ne the objectives. This means answering questions such as these:
 
 <ul>
     <li>What is the scale of the project? Has this been done here before?</li>
@@ -126,7 +130,7 @@ The  rst step of Open Cities project planning is to clearly de ne the objectives
 
 ### Overview of the Process
 
-De ning your project’s scope means considering how much area will be mapped, how much data will be col- lected, and how much time the project will require—a process illustrated in  gure 2.2. These decisions will enable you to determine your personnel and resource requirements as well.
+Defining your project’s scope means considering how much area will be mapped, how much data will be collected, and how much time the project will require—a process illustrated in figure 2.2. These decisions will enable you to determine your personnel and resource requirements as well.
 
 Although your long-term objective might be to map a large area such as a city, district, or even a country, it
 is advisable to begin with a smaller pilot project (box 2.1) and later scale up. This provides the necessary time and experience to build capacity in your team, nurture partnerships, and gain experience in the process.
@@ -134,10 +138,39 @@ is advisable to begin with a smaller pilot project (box 2.1) and later scale up.
 The following sections will explain how to de ne the target area and make rough estimates of the number
 of features to be mapped. We will discuss what a data model is, how it should be de ned, and how to engage partners in this process. Last, we will consider how to manage a project’s time frame and ensure that tasks are properly done in succession, so that your project effec- tively meets its deadlines and its goals.
 
+<div class="c-box">
+<span class="box-title">Box 2.1 Pilot Projects</span>
+  <p>Pilot projects typically map a small part of a much larger area, over a short time frame. The goals of pilot projects are not only to collect data but also to experiment with the surveying methodology and determine the most effective and efficient ways of mapping. Such projects are also useful for demonstrating the effectiveness of innovative mapping tools and strengthening local support.</p>
+</div>
 
 ### Why Are You Collecting the Data?
 
+One of the first questions in designing a project is simply, “What will the data be used for?” In other words,
+why are you collecting data? You should have a good answer for this at the outset because it will define the
+sort of data that you want to collect. 
+
+For example, Open Cities projects are often oriented toward disaster risk reduction. In the case of disaster preparedness, this might mean collecting data about buildings and other critical infrastructure. For starters, the data would include the location of each building and its geometry (the building’s footprint on the ground), but it also includes information about other building attributes such as the number of levels in the building, the shape of the roof, and the materials used for the walls.
+
+To determine which types of features and attributes the project should map, you will want to consult with the partners involved in the project. For example, you may be working closely with the government’s water and sanitation department—and they might not need buildings’ structural characteristics but will be very interested in using data about drainage lines and solid waste.
+
+One potential challenge is that, with numerous partners wanting different information, you may end up with requests to map many different features along with a wide range of attributes for each. Such a large data model may not be practical to map with the resources at your disposal. Increasing the number of attributes collected has, in previous projects, decreased both the quantity of features mapped as well as the quality of the data. It is therefore important to limit the amount of collected information to only the most important features and attributes. Keeping things as simple as possible will help ensure project success, particularly in pilot projects. 
+
 ### Defining the Target Area
+
+You should precisely determine your intended survey area from the start. Are you mapping an entire city? Part of a city? An arbitrary area?
+
+Let’s say that you are mapping a city. You may simply think, “We are mapping City X. That is the area, and it has been defined.” But what does that mean? Does that mean the official government boundaries of City X? Are we interested in the entire urban area or only the city center? If the target area coincides with an existing administrative division, the area will be easy to define, though it might not follow natural roads and features as well as you might like.
+
+Finally, it will benefit you a great deal to know as much as you can about your target area from the beginning. Think about questions such as these:
+
+<div class="c-list">
+    <ul>
+        <li>How large is the target area in square kilometers?</li>
+        <li>How many people live there?</li>
+        <li>How many buildings and roads are in the area?</li>
+        <li>What will be the main challenges of mapping this area?</li>
+    </ul>
+</div>
 
 ### Building the Data Model
 
