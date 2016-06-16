@@ -100,3 +100,25 @@ The amount of training time that should be dedicated to this component depends o
 It is a good idea to develop a survey training manual for mappers that includes clear descriptions of the various attributes you are collecting along with photographs. In the Open Cities Dhaka project, for example, the survey required detailed engineering knowledge. The team’s training manual clearly showed the differences between types of masonry, for example. It was also particularly valuable to differentiate subjective attributes, such whether a building’s physical condition was “poor,” “average,” or “good.” Mappers had clear definitions for each so they could accurately and uniformly identify those values in the field.
 
 All said, a week of training is probably more than adequate for most projects, and this can be combined with actual mapping activities that managers lead or supervise. The more experience mappers have, the better they will do, but they will need ongoing guidance as they learn how to map properly.
+
+<div class="c-box">
+  <span class="box-title">Box 3.2 Project Preparation Checklist</span>
+  <p>During the project set-up phase, the following tasks should be completed:</p>
+  <p><b>Logistics</p></b>
+  <div class="c-list">
+     <ul>
+         <li>Identify where your staff will work</li>
+         <li>Ensure reliable Internet connectivity</li>
+         <li>List the equipment you need and acquire it</li>
+     </ul>
+ </div>
+ <p><b>Training</p></b>
+  <div class="c-list">
+     <ul>
+         <li>Identify who will conduct the training and what material will be covered</li>
+         <li>Collect necessary training materials, develop training manual</li>
+         <li>Identify a location to host the training (maybe the same as the project office)</li>
+         <li>Create a training schedule</li>
+     </ul>
+ </div>
+</div>
