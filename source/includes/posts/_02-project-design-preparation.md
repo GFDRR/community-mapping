@@ -132,11 +132,9 @@ The first step of Open Cities project planning is to clearly de ne the objective
 
 Defining your project’s scope means considering how much area will be mapped, how much data will be collected, and how much time the project will require—a process illustrated in figure 2.2. These decisions will enable you to determine your personnel and resource requirements as well.
 
-Although your long-term objective might be to map a large area such as a city, district, or even a country, it
-is advisable to begin with a smaller pilot project (box 2.1) and later scale up. This provides the necessary time and experience to build capacity in your team, nurture partnerships, and gain experience in the process.
+Although your long-term objective might be to map a large area such as a city, district, or even a country, it is advisable to begin with a smaller pilot project (box 2.1) and later scale up. This provides the necessary time and experience to build capacity in your team, nurture partnerships, and gain experience in the process.
 
-The following sections will explain how to de ne the target area and make rough estimates of the number
-of features to be mapped. We will discuss what a data model is, how it should be de ned, and how to engage partners in this process. Last, we will consider how to manage a project’s time frame and ensure that tasks are properly done in succession, so that your project effec- tively meets its deadlines and its goals.
+The following sections will explain how to de ne the target area and make rough estimates of the number of features to be mapped. We will discuss what a data model is, how it should be de ned, and how to engage partners in this process. Last, we will consider how to manage a project’s time frame and ensure that tasks are properly done in succession, so that your project effec- tively meets its deadlines and its goals.
 
 <div class="c-box">
 <span class="box-title">Box 2.1 Pilot Projects</span>
@@ -145,9 +143,7 @@ of features to be mapped. We will discuss what a data model is, how it should be
 
 ### Why Are You Collecting the Data?
 
-One of the first questions in designing a project is simply, “What will the data be used for?” In other words,
-why are you collecting data? You should have a good answer for this at the outset because it will define the
-sort of data that you want to collect. 
+One of the first questions in designing a project is simply, “What will the data be used for?” In other words, why are you collecting data? You should have a good answer for this at the outset because it will define the sort of data that you want to collect. 
 
 For example, Open Cities projects are often oriented toward disaster risk reduction. In the case of disaster preparedness, this might mean collecting data about buildings and other critical infrastructure. For starters, the data would include the location of each building and its geometry (the building’s footprint on the ground), but it also includes information about other building attributes such as the number of levels in the building, the shape of the roof, and the materials used for the walls.
 
@@ -162,7 +158,6 @@ You should precisely determine your intended survey area from the start. Are you
 Let’s say that you are mapping a city. You may simply think, “We are mapping City X. That is the area, and it has been defined.” But what does that mean? Does that mean the official government boundaries of City X? Are we interested in the entire urban area or only the city center? If the target area coincides with an existing administrative division, the area will be easy to define, though it might not follow natural roads and features as well as you might like.
 
 Finally, it will benefit you a great deal to know as much as you can about your target area from the beginning. Think about questions such as these:
-
 <div class="c-list">
     <ul>
         <li>How large is the target area in square kilometers?</li>
@@ -174,7 +169,35 @@ Finally, it will benefit you a great deal to know as much as you can about your 
 
 ### Building the Data Model
 
+A data model is a detailed description of all the data you want to collect in your field survey: the features you want to identify and the attributes of those features you want to collect. To a large extent, the data model will relate to the available time and resources for the project—either determining how much you will need or what the constraints might be due to predetermined limits. To complete this data model, determine how much data you will collect, which methods you will use to collect it, and whether privacy or sensitivity concerns will limit what you collect. 
+
+<b>Quantity of data.</b> Defining a data model may be easy or it may take some time. If many partners are involved who want to collect many different types of data, deciding on which data to collect could prove to be a challenge. Remember that you may not want your surveyors to collect 100 or even a couple of dozen attributes about every feature on the ground. The more attributes you
+must collect, the greater the time and resources you will need for data collection.
+
+<b>Collection methods.</b> You will also need to decide whether surveyors will collect only those attributes that are
+directly observable, or whether they will be required to speak with building owners. Speaking with building
+owners will take considerably longer than surveying simply through observation. This decision will greatly
+affect the surveyors’ mapping speed and therefore the time frame and cost of the project.
+
+<b>Sensitivity of data.</b> Remember also that the data you are collecting will be shared on an open-source database. You will not want to collect data that may be considered private or sensitive.
+
+Figure 2.3 shows part of a sample data model (for a complete sample form, see Appendix 6.1, “Data Design”). It is a good idea to write down the list of features you want to collect and, beneath each feature, to list the attributes you want to collect. For example, one feature you will likely be mapping is roads. Defining the data model for roads means determining which attributes you want to collect, such as the following:
+<div class="c-list">
+    <ul>
+        <li>Type of road</li>
+        <li>Name of road (in one or multiple languages)</li>
+        <li>Surface types of road (asphalt, concrete, brick, stones, gravel, or unpaved)</li>
+        <li>Direction of traffic (one-way, two-way, or variable by time of day)</li>
+    </ul>
+</div>
+
 ### Estimating a Time Frame
+
+Project duration may not be something you can define from the start, but you should be able to estimate it. Will it take a month? Four to eight months? A year? This will become clearer as you plan your project and consider the logistics, but you should begin developing an idea of the time required to complete the project.
+
+Be sure to think through the factors that will affect your survey work, and include them when working on your time frame. Will major holidays occur during the proposed time period? How many days each week do you expect your staff to work? How many hours per day will they realistically be able to work? Keep in mind considerations such as regular work breaks, time for prayers, time for classes (if the staff will include students), travel time, and so on. Figure 2.4 illustrates part of a sample project time frame.
+
+During the Open Cities Dhaka pilot project, for example, a single survey team of two could collect data for about 50 buildings per day by mapping for three or four hours. In some locations, it is common to cover 100 or more buildings per day. Use metrics like these to estimate how long it will take to map a certain region. If you can estimate the number of features in an area and the time it will take to map them, you can better understand the likely time frame of your project.
 
 <div class="c-table -responsive-list">
 
@@ -204,7 +227,33 @@ Finally, it will benefit you a great deal to know as much as you can about your 
 
 ## Building The Team (staffing)
 
+While preparing for your project, consider the logistics that will be involved in terms of staff and office work. Remember that half of the job involves surveying the target area, and the other half is editing work on computers. You may have a small project team, or you may have dozens of people or more. Box 2.3 discusses some of these considerations. 
+
+Consider whether all of your staff will be editing, or whether you will divide the tasks of surveyor and editor. It is generally beneficial for mappers to do both surveying and editing, rather than splitting the work, because mappers remember what they have surveyed; even with detailed notes, nobody will be able to edit the map as well as the person who surveyed the features being mapped. Editing tasks also help to overcome “survey fatigue”—when surveyors tire from spending most of their days walking around to perform a single task (and vice versa for editors staying at the computer all day). That said, logistical considerations may require that these two tasks be split, or that different people are editing in the office at different times.
+
 ### Management Structure, Roles, and Responsibilities
+
+You can organize your staff in various ways. A single manager can supervise a large group of mappers, or you may choose to divide the team into a number of smaller teams that can operate somewhat independently. (Box 2.4 describes some of these roles.) Either way, you will need people to perform the following tasks:
+<div class="c-list">
+    <ul>
+        <li>Field surveying</li>
+        <li>Editing</li>
+        <li>Printing Field Papers (see 2.4.3)</li>
+        <li>Managing equipment</li>
+        <li>Organizing workflow</li>
+        <li>Procuring office supplies</li>
+        <li>Quality assurance</li>
+        <li>Technical support</li>
+        <li>Outreach, training, and volunteer mobilization</li>
+    </ul>
+</div>
+
+Mappers are responsible for the day-to-day activities of a project. They are the ones going out to different locations
+each day within the target area, identifying features, and writing down attributes. They also spend time in the project office, editing the data they collect each day and adding those data to OpenStreetMap. Because their skills will grow, the quality and pace of their work will improve over time. Mappers may also perform office tasks, procure supplies, work with volunteers, or train partner organizations.
+
+A good manager should keep the mappers on schedule and help them as needed. Managers will be more experienced in GIS and OpenStreetMap, so that they can effectively advise mappers during the editing process. It is important that managers check for mistakes and errors in the data, especially early in a project, so that they can inform mappers of their mistakes before they are repeated hundreds of times. 
+
+Good managers also maintain strong communication with their mappers and should occasionally accompany them during surveys to observe their work and offer advice. Managers are responsible for performing quality assurance surveys, which will be discussed in section 4.3, “Quality Control.”
 
 ### Finding Mappers and Surveyors
 
