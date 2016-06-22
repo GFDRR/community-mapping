@@ -1,6 +1,6 @@
 # Introduction
 
-## History of open cities and the open data for Resilience Initiative
+## 1.1 History of open cities and the open data for Resilience Initiative
 
 The World Bank, through its Global Facility for Disaster Reduction and Recovery (GFDRR), launched the Open Cities Project in November 2012 to create open data ecosystems that will facilitate innovative, data-driven urban planning and disaster risk management in South Asian cities. Open Cities is one component of a broader World Bank and GFDRR program, the Open Data for Resilience Initiative (OpenDRI), further described in box 1.1.
 
@@ -30,10 +30,10 @@ In each of these projects, Open Cities has supported the creation of new data wh
 Leveraging robust, accurate data to improve urban planning and disaster risk management decisions requires not only high-quality information but also the requisite tools, skills, and willingness to commit to a data-driven decision-making process. With this in mind, Open Cities also has developed partnerships across government ministries, donor agencies, universities, private sector technology groups, and civil society organizations to ensure broad acceptance of the data produced, facilitate data use, and align investments across projects and sectors.
 
 <div class="c-box-image">
-  <img src="images/posts/introduction/chapterpic-intro.tif" alt="rio">
+  <img src="images/posts/introduction/chapterpic-intro.png" alt="chapterpic-intro"/>
 </div>
 
-## Rationale for the Open Cities Project
+## 1.2 Rationale for the Open Cities Project
 
 South Asia is one of the most rapidly urbanizing regions in the world. A deep understanding of the built environ- ment is critical to providing relevant services, managing urban growth, and visualizing disaster risk in this context. For example, good characterization of the built environment allows urban planners, engineers, and policy makers to plan for and design appropriate trans- portation systems and adequate water supply systems; to estimate the population distribution of cities; attempt to manage urban sprawl; and to identify potential sites for parks and public services. In addition, growing popu- lations, unplanned settlements, and unsafe building practices all increase disaster risk. 
 
@@ -76,12 +76,12 @@ Open Cities has achieved several noteworthy outcomes during its first year:
     </ul>
 </div>
 
-## How to Use this Guide
+## 1.3 How to Use this Guide
 
 This guide offers a comprehensive understanding of the design and implementation of an Open Cities mapping project—for both practitioners in the field and those interested in a higher-level understanding of the process. The guide’s content is based on experience in imple- menting the initial Open Cities projects in Bangladesh, Nepal, and Sri Lanka as well as on previous mapping project experience. Where relevant, it provides relevant examples from those projects in the text and full case studies at the end of guide.
 
 Figure 1.1 depicts the overall process that the chapters will discuss in detail. The next chapter, “Project Design and Preparation,” covers how a project design process begins: by identifying partners, clarifying a project’s objectives and scope, assembling a team of managers and mappers, and assessing the necessary resources for mapping. Chapter 3, “Getting Started,” then describes the steps after the initial planning stage: how to locate an appropriate workspace, assess equipment costs, and prepare staff training. Chapter 4, “Implementation and Supervision,” takes a practical look at data collection techniques from both the organizational and technical perspectives. It also addresses common challenges and mechanisms for quality control and reporting. Finally, chapter 5 examines the lessons learned from previous Open Cities projects and considers future improvements to the overall project design.
 
 <div class="c-box-image">
-  <img src="images/posts/introduction/OC_process3 crop.eps" alt="OC_process3 crop">
+  <img src="images/posts/introduction/OC_process3 crop.png" alt="OC_process3 crop"/>
 </div>
