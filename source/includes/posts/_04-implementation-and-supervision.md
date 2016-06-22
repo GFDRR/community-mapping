@@ -41,11 +41,11 @@ As figure 4.1 shows, you can subdivide your target area in two ways: by creating
 Figure 4.1 Options for Subdividing a Daily Mapping Area
 a. Gridding an area
 <div class="c-box-image">
-    <img src="/images/posts/4/4-2.tif" alt="4-2">
+    <img src="/images/posts/4/4-1a.tif" alt="4-1a">
   </div>
 b. Subdividing an area by natural boundaries, such as blocks bounded by roads
 <div class="c-box-image">
-    <img src="/images/posts/4/4-2.tif" alt="4-2">
+    <img src="/images/posts/4/4-1b.tif" alt="4-21b">
   </div>
 <em>Source: Imagery in panel “a” from Field Papers (http://www.fieldpapers.org) </em>
 
