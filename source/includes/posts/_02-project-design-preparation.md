@@ -27,7 +27,7 @@ All organizations involved in disaster risk management and urban planning (such 
 Figure 2.1: Open Cities Partnership Diagram
 <div class="c-box-image">
     <img src="/images/posts/2/partnership_diagram2.png" alt="partnership"/>
-  </div>
+</div>
 
 ### 2.1.2 Outreach
 
@@ -148,7 +148,7 @@ The following sections will explain how to de ne the target area and make rough 
 Figure 2.2: What you need to answer first
 <div class="c-box-image">
     <img src="/images/posts/2/Planning_OC_Figure 2.2 combined.png" alt="Figure 2.2"/>
-  </div>
+</div>
 
 ### 2.2.2 Why Are You Collecting the Data?
 
@@ -241,7 +241,7 @@ Figure 2.3: Sample Data Model of Features and Attributes
 Figure 2.4: Sample Project Time Frame
 <div class="c-box-image">
     <img src="/images/posts/2/Planning_OC_Figure 2.4.png" alt="Figure 2.4"/>
-  </div>
+</div>
 
 ## 2.3 Building The Team (staffing)
 
@@ -381,7 +381,7 @@ While preparing for a project, the identification of suitable imagery should be 
 Figure 2.5 Use of an Aerial Image to Trace Lines on a Map
 <div class="c-box-image">
     <img src="/images/posts/2/2-5.png" alt="figure 2.5"/>
-  </div>
+</div>
 <em>Source: © 2014 Microsoft Corporation. Image provided courtesy of USGS Earthstar Geographics.</em>
 
 #### 2.4.2.1 Assessing Bing and Mapbox Imagery
@@ -391,14 +391,14 @@ Several imagery sources are available to OSM users, but those with the widest co
 Figure 2.6: Example of a Good Aerial Imagery from Bing
 <div class="c-box-image">
     <img src="/images/posts/2/2-6.png" alt="figure 2.6"/>
-  </div>
+</div>
 
 After defining your target area, you should assess to what extent you will be able to use this imagery, assuming that you plan to use it for your survey. If you are lucky, high-resolution imagery will cover your entire target area. Usually, however, parts of your target area will be obscured by clouds (figure 2.7) or not have high-resolution imagery at all.
 
 Figure 2.7: Cloudy Aerial Imagery
 <div class="c-box-image">
     <img src="/images/posts/2/2-7.png" alt="figure 2.7"/>
-  </div>
+</div>
 
 During the planning stage, consider using GIS software to draw lines around the parts of your target area where Bing imagery will be suitable for mapping as well as those areas for which usable imagery is unavailable. This will help you understand what proportion of the target area will require another imagery source or a different methodology.
 
@@ -456,13 +456,13 @@ In some cases, imagery is made available through the U.S. Department of State’
 Figure 2.8: A Field Papers Atlas Map, without Imagery, Used in Sumba Barat, Indonesia
 <div class="c-box-image">
     <img src="/images/posts/2/2-8.png" alt="figure 2.8"/>
-  </div>
+</div>
   <em>Source: Field Papers (http://www.fieldpapers.org).</em>
 
 Figure 2.9: A Field Paper Atlas Map Example
 <div class="c-box-image">
     <img src="/images/posts/2/2-9.png" alt="figure 2.9"/>
-  </div>
+</div>
   <em>Source: Field Papers (http://www.fieldpapers.org).</em>
 
 ### 2.4.3 GPS Devices, Field Papers, and Smartphones
