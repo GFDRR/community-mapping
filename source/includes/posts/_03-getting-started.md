@@ -1,10 +1,10 @@
 <div class="c-box-image">
-    <img src="/images/posts/3/chapterpic-gettingstarted.tif" alt="chapterpic-gettingstarted" />
+    <img src="/images/posts/3/chapterpic-gettingstarted.png" alt="chapterpic-gettingstarted" />
 </div>
 
 # Getting Started
 
-## Finding a workspace
+## 3.1 Finding a workspace
 
 A major consideration is the location of the project office. If you already have an office, you should consider whether it is in, or close to, the target area. Remember that travel between the editing location and the area being mapped is time-consuming; hence, planning transportation logistics is important. If you can save your mappers some time, the project should take less time and cost less money. It may be worthwhile to organize an office space close to the target area so that the mapping process runs more smoothly.
 
@@ -18,7 +18,7 @@ When possible, the office should provide a creative communal space furnished wit
 
 The initial project phases involve engaging the local OSM community and hosting mapping workshops (or mapping parties) to raise awareness of the Open Cities project and identify interested individuals, communities, schools, government departments, and private organizations. Mapping parties can be organized either at the project office or at other venues in the focus area such as university labs, private or public offices, community centers, and libraries. Of course, the budget should take into consideration the potential costs of renting these temporary venues.
 
-## Equipment and other costs
+## 3.2 Equipment and other costs
 
 When you are preparing a mapping project budget, be sure to consider a number of other potential costs, including the equipment, supply, and service expenses described below. See box 3.1 for an estimate of the hardware needed to serve a 10-person project team.
 
@@ -35,7 +35,7 @@ When you are preparing a mapping project budget, be sure to consider a number of
  </div>
 </div>
 
-### Hardware Needs
+### 3.2.1 Hardware Needs
 
 <b>Computers:</b> Data entry and analysis for OSM generally requires desktop or laptop computers. Laptops, being portable, can also be used to facilitate training sessions or mapping parties at venues away from the team’s office. Typically, one computer for every two members of your mapping team will suffice for most needs.
 
@@ -45,7 +45,7 @@ When you are preparing a mapping project budget, be sure to consider a number of
 
 <b>Mobile Android mapping devices:</b> Instead of GPS units, you may opt to use Mobile Android devices. A variety of smartphone applications provide specific OSM mapping functionality. Currently, Android applications such as OSMTracker are the best. Mobile devices such as these usually have GPS chips inside them, allowing them to behave like a GPS device, but with additional functionality.
 
-### Printing Needs
+### 3.2.2 Printing Needs
 
 <b>Printer:</b> A printer will be needed to print the Field Papers. If you are using paper survey forms to collect attributes for many features such as buildings, you may be making thousands of photocopies. This process takes time and money, and it should be considered while planning logistics. For example, a pilot project in Sri Lanka faced the challenge of photocopying over 30,000 data entry forms during the course of the project.
 
@@ -53,7 +53,7 @@ When you are preparing a mapping project budget, be sure to consider a number of
 
 <b>Event signage and promotional materials:</b> Other printed materials include banners and posters for larger events such as mapping workshops.
 
-### Mapping Workshop Expenses
+### 3.2.3 Mapping Workshop Expenses
 
 <b>Rent:</b> Community mapping workshops should be held in a variety of locations. Where possible, a host should be identified to provide the venue. If this is not feasible, a venue should be rented.
 
@@ -61,19 +61,19 @@ When you are preparing a mapping project budget, be sure to consider a number of
 
 <b>Internet connectivity and electricity:</b> Internet connectivity should always be considered and, where possible, redundant systems established as an option in case connectivity fails. Likewise, rechargeable batteries should be available for the projector and any GPS devices.
 
-### Surveying Expenses
+### 3.2. 4 Surveying Expenses
 
 <b>Surveying and office supplies:</b> The mappers will need clipboards, pens, and pencils to complete surveying tasks.
 
 <b>Transportation expenses:</b> When specific sites have been identified to map, transportation may be required to take mappers into the field and return them to the venue, where data can be entered to OSM.
 
-## Training
+## 3.3 Training
 
 Once you have established your management structure and hired staff, you will need to train them. On a practical level, they will need to know how to map with OpenStreetMap, how to use the JOSM or iD editing software, and how to create and use Field Papers as well as any specialized information about the data they will be collecting. For example, if they are collecting data on buildings’ structural attributes, they will need to learn some engineering basics. We can separate the training components into two broad areas: those concerning OpenStreetMap tools and software and those concerning surveying techniques and understanding the data model.
 
 Take the time and care to train the staff thoroughly. Remember that you are essentially training your future trainers, because good managers and mappers will be able to teach others about mapping and offer trainings with partner organizations and with volunteers. If it fits within your management structure, it is a good idea to a have a core team of managers who are more extensively trained than the mappers whom they oversee. The core team should become experts in OpenStreetMap and surveying techniques, so they will be equipped to manage and provide answers to other mappers. In Open Cities Dhaka, for example, a core team was trained over the course of a week and went to the field each day to practice surveying and then editing in the office. Although they were not experts after a week, they were able to lead a two-day training for a larger group of mappers and answer most of their questions.
 
-### Training on Mapping Tools
+### 3.3.1 Training on Mapping Tools
 
 Basic OpenStreetMap training can take as few as two days. This is a typical amount of time to work through the beginner training material available on <b>learnosm.org</b>. However, learning OSM in depth requires time and plenty of practice. Training should include both classroom time to work through the software step by step and multiple field excursions.
 
@@ -95,7 +95,7 @@ A typical OSM training outline includes the following:
 
 These are the main areas to cover when training beginners, but the list can easily be either expanded or shortened, depending on the training needs. For specific training materials, visit <b>learnosm.org</b> and MapGive’s short tutorials (<b>mapgive.state.gov</b>).
 
-### Training on Surveying
+### 3.3.2 Training on Surveying
 
 The second training component concerns your project’s specific data model and how to collect accurate attributes in the field. For example, in the pilot project in Dhaka, structural attributes about individual buildings were collected, such as the type of structure and whether the building had vertical irregularity. Because not all of the surveyors were not engineers, this training required several days, including practice identifying buildings in the field.
 
