@@ -1,3 +1,7 @@
+<div class="c-box-image">
+    <img src="/images/posts/2/chapterpic-design.tif" alt="chapterpic-design">
+  </div>
+  
 # Project design and preparation
 
 ## Key Partnerships
@@ -136,7 +140,7 @@ Although your long-term objective might be to map a large area such as a city, d
 The following sections will explain how to de ne the target area and make rough estimates of the number of features to be mapped. We will discuss what a data model is, how it should be de ned, and how to engage partners in this process. Last, we will consider how to manage a project’s time frame and ensure that tasks are properly done in succession, so that your project effec- tively meets its deadlines and its goals.
 
 <div class="c-box">
-<span class="box-title">Box 2.1 Pilot Projects</span>
+<span class="box-title"><b>Box 2.1 Pilot Projects</b></span>
   <p>Pilot projects typically map a small part of a much larger area, over a short time frame. The goals of pilot projects are not only to collect data but also to experiment with the surveying methodology and determine the most effective and efficient ways of mapping. Such projects are also useful for demonstrating the effectiveness of innovative mapping tools and strengthening local support.</p>
 </div>
 
@@ -152,7 +156,7 @@ To determine which types of features and attributes the project should map, you 
 One potential challenge is that, with numerous partners wanting different information, you may end up with requests to map many different features along with a wide range of attributes for each. Such a large data model may not be practical to map with the resources at your disposal. Increasing the number of attributes collected has, in previous projects, decreased both the quantity of features mapped as well as the quality of the data. It is therefore important to limit the amount of collected information to only the most important features and attributes. Keeping things as simple as possible will help ensure project success, particularly in pilot projects.
 
 <div class="c-box">
-<span class="box-title">Box 2.2 Different Methodologies</span>
+<span class="box-title"><b>Box 2.2 Different Methodologies</b></span>
   <p>Different structural approaches to mapping offer varying advantages. This guide focuses on the most common approach: systematically mapping an area with an Open Cities project team. But the same task can also be completed in other ways, such as by engaging volunteers, hosting mapping parties, or working through local governments.</p>
   <p>These alternative methods tend to take longer and be less precise, but their advantages should not be dismissed. Remember that the more individuals and organizations that are involved in your project, the stronger it becomes. The more participants you have, the more users, contributors, and awareness of the data you will have—which, in turn, strengthens the open data ecosystem for the future. We recommend engaging a project team because of the practical goals of a mapping project, but you are encouraged to combine these methods to engage others in the mapping process to realize these additional benefits.</p>
 </div>
@@ -235,7 +239,7 @@ While preparing for your project, consider the logistics that will be involved i
 Consider whether all of your staff will be editing, or whether you will divide the tasks of surveyor and editor. It is generally beneficial for mappers to do both surveying and editing, rather than splitting the work, because mappers remember what they have surveyed; even with detailed notes, nobody will be able to edit the map as well as the person who surveyed the features being mapped. Editing tasks also help to overcome “survey fatigue”—when surveyors tire from spending most of their days walking around to perform a single task (and vice versa for editors staying at the computer all day). That said, logistical considerations may require that these two tasks be split, or that different people are editing in the office at different times.
 
 <div class="c-box">
-<span class="box-title">Box 2.3 Common Roles</span>
+<span class="box-title"><b>Box 2.3 Common Roles</b></span>
   <p>Open Cities mapping project teams generally include people in the several roles described below.</p>
   <p><b>Surveyor and Editor (Mapper)</p></b>
   <p>Surveyors typically work in pairs. Each pair is responsible for field surveying—usually during half of the day, as it can be quite physically tiring. They may also engage in small tasks such as printing field papers. In most projects, each survey team also edits its own work, but these roles can be split. Each day, the pairs will be tasked with part of the target area to map, and they will spend three to five hours surveying, with the remainder of their time spent editing the data. Some of the experience mappers should dedicate some or all of their time to the quality assurance process.</p>
@@ -269,7 +273,7 @@ A good manager should keep the mappers on schedule and help them as needed. Mana
 Good managers also maintain strong communication with their mappers and should occasionally accompany them during surveys to observe their work and offer advice. Managers are responsible for performing quality assurance surveys, which will be discussed in section 4.3, “Quality Control.”
 
 <div class="c-box">
-<span class="box-title">Box 2.4 Different Methodologies</span>
+<span class="box-title"><b>Box 2.4 Different Methodologies</b></span>
   <p>What is the OSM Community? OpenStreetMap is a collaborative project involving hundreds of thousands of users and contributors, and the “OSM community” comprises those active members who continually participate by adding to or updating the map.</p>
   <p>Each country has what might be called its own community, a group of users who communicate, plan activities, and work together to improve the map. And each country’s community is also connected to the larger global OSM user base. Because an Open Cities project uses the OSM platform, it is automatically engaged in this community. Section 2.2.2.2 earlier provided more information about engaging the local OSM community.</p>
   <p>Most OpenStreetMap users go out and contribute to the map bit by bit, so they should be consulted before importing their data. The import might overwrite the work of other mappers who have actually conducted field surveys. You must also send an e-mail to <b>imports@openstreetmap.org</b> and let them know what you are planning. Ensuring that they are aware and supportive of the process before any importing takes place can save a lot of time explaining or reverting the changes after the fact.</p>
@@ -335,7 +339,7 @@ Written permission is generally required from agencies that are willing to donat
 Importing data is not difficult, but it requires an advanced understanding of OpenStreetMap and can take a significant amount of time, because imported data must be manually merged with existing OSM data. If you do decide that importing data is the right course to take, you must have a clear plan of how to import the data and discuss it beforehand with the OSM community.
 
 <div class="c-box">
-<span class="box-title">Box 2.5 Imagery and Licensing</span>
+<span class="box-title"><b>Box 2.5 Imagery and Licensing</b></span>
   <p>A common question during any mapping project is, “Why can we use imagery from Bing but not from Google?” The short answer, and one not always easily understood, is licensing.</p>
   <p>Any company or organization that sells or distributes imagery has a license describing what users are allowed to do with it. In most cases, people are forbidden from making derivative products. This means we are not allowed to use imagery to help make maps unless we receive specific permission to do so. Because Google has not given permission for the OSM community to use its imagery—or any other information from Google—as a resource, such use is not allowed, and edits derived from Google are illegal.</p>
   <p>On the other hand, Microsoft has given explicit permission for OSM contributors to use its imagery, which is of good quality in many parts of the world. DigitalGlobe, a satellite imagery company, has also released a great deal of imagery through Mapbox. It is always best to check these resources first and to assess the quality of the images in your project’s target area. Available imagery sources can be viewed in the Java OpenStreetMap Editor (JOSM).</p>
@@ -363,16 +367,26 @@ Aerial imagery can also be used during field surveys and editing. It can be prin
 
 While preparing for a project, the identification of suitable imagery should be undertaken early. If good quality, high-resolution imagery is available, this will benefit your project tremendously and mean less time and less work. If you cannot find good imagery, however, other methods will be required for digitizing objects on the ground.
 
+<div class="c-box-image">
+    <img src="/images/posts/2/2-5.tif" alt="figure 2.5">
+  </div>
+<em>Source: © 2014 Microsoft Corporation. Image provided courtesy of USGS Earthstar Geographics.</em> 
+
 #### Assessing Bing and Mapbox Imagery
 
 Several imagery sources are available to OSM users, but those with the widest coverage and the highest-quality images are Microsoft’s Bing search engine (figure 2.6) and Mapbox, which provides open-source base maps, design tools, and OSM-powered street data. Box 2.6 discusses the importance of using only those sources that have given permission to use the imagery.
+
+<div class="c-box-image">
+    <img src="/images/posts/2/2-6.tif" alt="figure 2.6">
+  </div>
+<em>Source: © 2014 Microsoft Corporation. Image provided courtesy of USGS Earthstar Geographics.</em> 
 
 After defining your target area, you should assess to what extent you will be able to use this imagery, assuming that you plan to use it for your survey. If you are lucky, high-resolution imagery will cover your entire target area. Usually, however, parts of your target area will be obscured by clouds (figure 2.7) or not have high-resolution imagery at all. 
 
 During the planning stage, consider using GIS software to draw lines around the parts of your target area where Bing imagery will be suitable for mapping as well as those areas for which usable imagery is unavailable. This will help you understand what proportion of the target area will require another imagery source or a different methodology. 
 
 <div class="c-box">
-<span class="box-title">Box 2.5 Imagery and Licensing</span>
+<span class="box-title"><b>Box 2.6 Design and Preparation Checklist</b></span>
   <p>During the project’s design and preparation phase, the following tasks should be completed:</p>
   <p><b>Partner Outreach</p></b>
 <p><div class="c-list">
@@ -430,9 +444,8 @@ GPS devices allow mappers to record paths along which they walk as well as indiv
 
 A service for OSM known as Field Papers enables mappers to print out a piece of paper that displays either an existing OSM map, satellite imagery, or a combination of both. The mappers take the Field Papers into the field, draw on them, write notes, and add features to the map—an example of which is shown in figure 2.8. Later, the papers can be scanned back into the computer and automatically geo-referenced to their correct locations on the globe. It is then a simple process of digitizing the hand-drawn notes.
 
-This process can be used for building up the base map, as well as for the daily mapping activities of a project. Each day, mappers will print out Field Papers of small areas, which surveyors can use to sketch buildings and areas using the correctly located roads as a reference.1 Figures 2.8 and 2.9 show examples using Field Papers “atlas maps.”
+This process can be used for building up the base map, as well as for the daily mapping activities of a project. Each day, mappers will print out Field Papers of small areas, which surveyors can use to sketch buildings and areas using the correctly located roads as a reference.
 
-Last, you can use mobile applications to collect OpenStreetMap data. Although applications have been developed to map using mobile devices, none of them provides all of the editing features of desktop software. Mobile applications are best at mapping points of interest.2
+Figures 2.8 and 2.9 show examples using Field Papers “atlas maps.” Creating rough sketches of building shapes and their locations is not very precise, and often mappers wonder whether this is a problem. Ideally, building shapes will be more accurate, but such accuracy is difficult without imagery to use as a reference. If this mapping methodology is used, it is not a major  problem. More important than precise building size and location is the topology—which helps to ensure that the buildings are placed correctly in relation to each other and in relation to the (accurately positioned) roads.
 
-1- Creating rough sketches of building shapes and their locations is not very precise, and often mappers wonder whether this is a problem. Ideally, building shapes will be more accurate, but such accuracy is difficult without imagery to use as a reference. If this mapping methodology is used, it is not a major  problem. More important than precise building size and location is the topology—which helps to ensure that the buildings are placed correctly in relation to each other and in relation to the (accurately positioned) roads.
-2- For a list of Android editing applications, see http://wiki.openstreetmap.org/wiki/Android#OpenStreetMap_editing_features.
+Last, you can use mobile applications to collect OpenStreetMap data. Although applications have been developed to map using mobile devices, none of them provides all of the editing features of desktop software. Mobile applications are best at mapping points of interest. For a list of Android editing applications, see http://wiki.openstreetmap.org/wiki/Android#OpenStreetMap_editing_features.
