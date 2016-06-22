@@ -1,3 +1,7 @@
+<div class="c-box-image">
+    <img src="/images/posts/5/chapterpic-lessonslearned.tif" alt="chapterpic-lessonslearned">
+  </div>
+
 # Lessons learned and recommendations
 
 The preceding sections took a practical look at how to plan and implement a mapping project. Open Cities is ongoing, and improved methodologies and knowledge come out of each successive project. In this chapter, we conclude by highlighting several key lessons learned from the first year of the design and implementation of previous Open Cities initiatives.
