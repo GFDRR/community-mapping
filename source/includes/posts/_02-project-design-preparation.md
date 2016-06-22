@@ -1,8 +1,8 @@
+# Project design and preparation
+
 <div class="c-box-image">
     <img src="/images/posts/2/chapterpic-design.tif" alt="chapterpic-design">
   </div>
-  
-# Project design and preparation
 
 ## Key Partnerships
 
