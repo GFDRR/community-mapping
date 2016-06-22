@@ -1,7 +1,3 @@
-<div class="c-box-image">
-    <img src="/images/posts/3/chapterpic-gettingstarted.tif" alt="chapterpic-gettingstarted">
-  </div>
-
 # Getting Started
 
 ## Finding a workspace
@@ -23,7 +19,7 @@ The initial project phases involve engaging the local OSM community and hosting 
 When you are preparing a mapping project budget, be sure to consider a number of other potential costs, including the equipment, supply, and service expenses described below. See box 3.1 for an estimate of the hardware needed to serve a 10-person project team. 
 
 <div class="c-box">
-  <span class="box-title"><b>Box 3.1 Hardware List</b></span>
+  <span class="box-title">Box 3.1 Hardware List</span>
   <p>The following hardware will serve a project team of at least 10 people, depending on mapping methodology:</p>
   <div class="c-list">
      <ul>
@@ -106,7 +102,7 @@ It is a good idea to develop a survey training manual for mappers that includes 
 All said, a week of training is probably more than adequate for most projects, and this can be combined with actual mapping activities that managers lead or supervise. The more experience mappers have, the better they will do, but they will need ongoing guidance as they learn how to map properly.
 
 <div class="c-box">
-  <span class="box-title"><b>Box 3.2 Project Preparation Checklist</b></span>
+  <span class="box-title">Box 3.2 Project Preparation Checklist</span>
   <p>During the project set-up phase, the following tasks should be completed:</p>
   <p><b>Logistics</p></b>
   <div class="c-list">
