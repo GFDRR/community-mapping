@@ -8,7 +8,7 @@
 
 Involvement of a wide community of partners is a central component of an Open Cities mapping project. The OSM community is already built around the idea of collaboration, and its mapping software serves this purpose. Open Cities project data are sourced from and collected by many users and partners and are open and freely available to anyone who wants to use the data. Thus, engaging a community of users and contributors is an important  rst objective of planning a mapping project.
 
-<b>Consider that a good partner</b>
+<p><b>Consider that a good partner</b></p>
 <div class="c-list">
     <ul>
         <li>Is already undertaking work in a similar context;</li>
