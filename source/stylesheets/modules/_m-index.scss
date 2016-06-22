@@ -1,0 +1,40 @@
+.m-index {
+  top: 70px;
+  overflow: visible;
+
+  .toc-footer {
+    padding: 15px 45px 25px 30px;
+    border-top: 0;
+    margin: 0;
+    > li {
+      padding: 0;
+      white-space: normal;
+      overflow-x: visible;
+      p {
+        font-size: 13px;
+        color: rgba(255, 255, 255, .5);
+      }
+    }
+  }
+
+  &.open + .page-wrapper {
+    opacity: .3;
+  }
+
+  @media screen and (min-width: 575px) {
+    top: 50px
+  }
+
+  @media only screen
+    and (min-device-width: 768px)
+    and (max-device-width: 1024px)
+    and (orientation: portrait)
+    and (-webkit-min-device-pixel-ratio: 2) {
+      padding-top: 50px;
+  }
+
+  @media screen and (min-width: $screen-l) {
+    padding: 0;
+    top: 0;
+  }
+}

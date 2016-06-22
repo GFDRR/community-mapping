@@ -1,0 +1,29 @@
+body {
+  font-family: $font-family-1;
+  color: $font-color-1;
+  -webkit-font-smoothing: antialiased;
+  background: $site-color-3;
+}
+
+.scroll-wrapper {
+  z-index: -10;
+  position: relative;
+  overflow: auto;
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+
+  @media screen and (min-width: $screen-l) {
+    height: calc(100% - 190px);
+  }
+}
+
+.page-wrapper {
+  background-color: $white;
+}
+
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+}
