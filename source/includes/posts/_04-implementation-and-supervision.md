@@ -32,17 +32,41 @@ Each day, you will send mapping teams to different parts of the target area. Thu
 
 As figure 4.1 shows, you can subdivide your target area in two ways: by creating a grid or by defining areas with natural boundaries. In terms of preparation time, is easier to use a grid system because you can simply print out a large grid of Field Papers, and assign one paper to each mapping team each day. On the other hand, from a surveying perspective, it makes much more sense to follow existing boundaries such as roads and map everything within a given block. Organizing areas this way may require more preparation but will be more efficient in the long run.
 
+ community-mapping/source/images/posts/4/4-2.tif 
+
+Figure 4.1 Options for Subdividing a Daily Mapping Area
+a. Gridding an area
+<div class="c-box-image">
+    <img src="/images/posts/4/4-2.tif" alt="4-2">
+  </div>
+b. Subdividing an area by natural boundaries, such as blocks bounded by roads
+<div class="c-box-image">
+    <img src="/images/posts/4/4-2.tif" alt="4-2">
+  </div>
+<em>Source: Imagery in panel “a” from Field Papers (http://www.fieldpapers.org) </em>
+
 It is a good idea to divide the target area early in the project. If possible, do this before fieldwork begins, though you will need to have existing road data. Otherwise, you might set aside some time in the first few days for survey teams to simply map all of the roads, which will then make it easier to divide the total area into daily mapping areas.
 
 Once you do this, you will know how many of these “blocks” are in your target area, and you can estimate exactly the time and staff you will need to survey it all. Let’s say, for example, that you have a target area that you then subdivide into 20 blocks, a partial example of which is shown in figure 4.2. You then estimate that each block will take about four hours to survey and a couple of hours to edit, which means it will take one pair of mappers to map one block every day. If you have one mapping team, it will take 20 workdays to map the entire target area; if you have two mapping teams, it will take 10 workdays, and so on.
+
+Figure 4.2 Example of a "Blocked" Target Area in Dhaka, Bangladesh
+<div class="c-box-image">
+    <img src="/images/posts/4/4-2.tif" alt="4-2">
+  </div>
+<em>Source: OpenStreetMap</em>
 
 How would you manage this workflow? Each morning, you would give each team a block to map. You print out Field Papers that cover the areas they are supposed to map and draw a boundary around the specific area or explain it to them directly. Give them additional forms (survey forms, if you are using them) and the same materials for an adjacent square where they can map if they have extra time. (For this reason, as box 4.1 explains, teams should receive block assignments that are not adjacent to each other on any given day.)
 
 In the afternoon, the teams will return to the office and begin editing. The manager will be there to answer questions about surveying and editing and to ensure that everything gets uploaded to OSM without problems. The next day, the process will repeat, thus ensuring that the target area is mapped in the expected time.
 
 <div class="c-box">
- <span class="box-title">Box 4.1 Mapping Nonadjacent Blocks</span>
+ <span class="box-title"><b>Box 4.1 Mapping Nonadjacent Blocks</b></span>
    <p>It is recommended that adjacent blocks are not given to different teams to map on the same day. To do so would increase the likelihood of editing conflicts, which occur when two teams try to edit the same features at the same time. The assignment of nonadjacent blocks to each team also allows your mappers to continue mapping if their block takes less time than they expect. For these reasons, it is better to organize daily mapping activities following a checkerboard pattern, as shown in figure B4.1.1. </p>
+   Figure B4.1.1 Sample Mapping of Nonadjacent Squares in Guagua, Pampanga, Philippines
+<div class="c-box-image">
+    <img src="/images/posts/4/B-4-1-1.tif" alt="B4.1.1">
+  </div>
+  <em>Source: Data from OpenStreetMap</em>
  </div>
 
 ### Collecting Field Data
@@ -78,10 +102,15 @@ It is best to do data entry on the same day as the data collection, or the follo
 Conducting data entry directly after collection and ensuring that the mappers take part in the process will help maintain an efficient and accurate flow of information from the fieldwork into the OSM database. Be sure to keep the mapping forms and Field Papers well organized and filed, however, in case you need to return to them later when you review the data.
 
 <div class="c-box">
- <span class="box-title">Box 4.2 Custom Presets</span>
+ <span class="box-title"><b>Box 4.2 Custom Presets</b></span>
    <p>During editing, your mappers will most likely be using either the offline JOSM software or the online iD editor. Because you will probably use a custom data model, you will want to add a customized menu to the editing software for adding the specific features that your mappers are collecting. This is done by creating a custom presets file, which implements a menu that makes it easy to attach the correct OSM tags to features.</p>
    <p>You can read more about creating custom presets here at <b>http://learnosm.org/en/editing/creating-presets/</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>http://visualtags.hotosm.org/.</b></p>
  </div>
+
+Figure 4.3 Sample Building Survey Form
+<div class="c-box-image">
+    <img src="/images/posts/4/4-3.tif" alt="4-3">
+  </div>
 
 ### Scheduling Project Tasks
 
@@ -148,7 +177,7 @@ New edits and additions should be reviewed and validated daily or at most weekly
 Managers should always be available during editing hours to answer questions and to check for mistakes. Each day they should review their mappers’ work and discuss any errors with them. They should also review common mistakes using the projector so that everybody may learn and benefit.
 
 <div class="c-box">
- <span class="box-title">Box 4.3 OSM Quality Assurance Tools</span>
+ <span class="box-title"><b>Box 4.3 OSM Quality Assurance Tools</b></span>
    <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>wiki.openstreetmap.org/wiki/Quality_assurance.</b></p>
  </div>
 
@@ -206,7 +235,7 @@ GIS queries can help you to provide good metrics. These queries can answer quest
 For a sample project report, see Appendix 6.1.
 
 <div class="c-box">
- <span class="box-title">Box 4.4 Project Implementation Checklist</span>
+ <span class="box-title"><b>Box 4.4 Project Implementation Checklist</b></span>
    <p>During the project implementation phase, the following tasks should be completed:</p>
    <p><b>Collecting the Data</p></b>
   <div class="c-list">
