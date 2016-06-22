@@ -1,3 +1,7 @@
+<div class="c-box-image">
+    <img src="/images/posts/4/chapterpic-implementation.tif" alt="chapterpic-implementation">
+  </div>
+
 # Implementation and supervision
 Now that we’ve discussed the planning stage and project logistics, we will consider the activities that go on during a mapping project. We will discuss the methodology for data collection (known as the data capture strategy), project scheduling and daily workflow, quality control, and reporting.
 
