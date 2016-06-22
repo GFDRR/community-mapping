@@ -1,10 +1,10 @@
+<div class="c-box-image">
+    <img src="/images/posts/2/chapterpic-design.png" alt="chapterpic-design" />
+  </div>
+  
 # Project design and preparation
 
-<div class="c-box-image">
-    <img src="/images/posts/2/chapterpic-design.tif" alt="chapterpic-design">
-  </div>
-
-## Key Partnerships
+## 2.1 Key Partnerships
 
 Involvement of a wide community of partners is a central component of an Open Cities mapping project. The OSM community is already built around the idea of collaboration, and its mapping software serves this purpose. Open Cities project data are sourced from and collected by many users and partners and are open and freely available to anyone who wants to use the data. Thus, engaging a community of users and contributors is an important  rst objective of planning a mapping project.
 
@@ -20,20 +20,20 @@ Involvement of a wide community of partners is a central component of an Open Ci
     </ul>
 </div>
 
-### Why Would Groups Join an Open Cities Project?
+### 2.1.1 Why Would Groups Join an Open Cities Project?
 
 All organizations involved in disaster risk management and urban planning (such as local and national governments, international partners, and nongovernmental organizations [NGOs]) need up-to-date, detailed data for their operations. Some of them may already be strug- gling to maintain their own datasets. By joining with many partners, organizations  nd it easier to keep data relevant and up-to-date and to avoid reinventing the wheel. The data become more useful and more widely used, their application leading to greater innovation,which in turn encourages further collection of valuable data, which feed back into a robust open data ecosystem.
 
 Figure 2.1: Open Cities Partnership Diagram
 <div class="c-box-image">
-    <img src="/images/posts/2/partnership_diagram2.eps" alt="partnership">
+    <img src="/images/posts/2/partnership_diagram2.png" alt="partnership"/>
   </div>
 
-### Outreach
+### 2.1.2 Outreach
 
 Government support and participation in an Open Cities mapping project is a key strategy for ensuring its sustainability. The OSM community is also a essential resource, along with other partners such as universities, civil society organizations, and the private sector. This subsection examines these likely partners and their potential roles.
 
-#### Government
+#### 2.1.2.1 Government
 
 In most contexts, governmental support will bene t a mapping initiative because different government units can provide resources and ensure better sustainability and legitimacy of the work. Therefore, they should be included as partners from the early stages of planning.
 
@@ -57,7 +57,7 @@ Many different levels and parts of the government can be approached, depending o
     </ul>
 </div>
 
-#### OpenStreetMap Community
+#### 2.1.2.2 OpenStreetMap Community
 
 Because Open Cities mapping is built upon the OSM platform, another group to communicate with is the existing OSM community. It is important to understand what the mapping community already looks like and how the Open Cities Project might best support and work with this existing group.
 
@@ -75,13 +75,13 @@ There are several ways to get in touch with OSM mappers:
     <li>The “Neis One!” blog. Another useful starting point for connecting with the OSM community is Pascal Neis’s blog at <a href="http://neis-one.org">neis-one.org</a>, which provides tools that show which users are actively mapping in certain areas.</li>
 </ul>
 
-#### Other Groups
+#### 2.1.2.3 Other Groups
 
 Other groups may also be considered potential collab- orators. Table 2.1 describes several sources of potential partners.
 
 Building partnerships is essential to reaching the high- er-level goals of an Open Cities mapping project, such as strengthening the open-source mapping community. Ideally your partners will be directly involved in the planning and implementation of the project. However, if key partners cannot commit time and resources, it is still important to keep them informed about project activities. In this way, you can keep them connected and approach them again later as your project expands.
 
-## Defining the scope of work
+## 2.2 Defining the scope of work
 
 The first step of Open Cities project planning is to clearly de ne the objectives. This means answering questions such as these:
 
@@ -132,7 +132,7 @@ The first step of Open Cities project planning is to clearly de ne the objective
 
 </div>
 
-### Overview of the Process
+### 2.2.1 Overview of the Process
 
 Defining your project’s scope means considering how much area will be mapped, how much data will be collected, and how much time the project will require—a process illustrated in figure 2.2. These decisions will enable you to determine your personnel and resource requirements as well.
 
@@ -147,10 +147,10 @@ The following sections will explain how to de ne the target area and make rough 
 
 Figure 2.2: What you need to answer first
 <div class="c-box-image">
-    <img src="/images/posts/2/Planning_OC_Figure 2.2 combined.jpg" alt="Figure 2.2">
+    <img src="/images/posts/2/Planning_OC_Figure 2.2 combined.png" alt="Figure 2.2"/>
   </div>
 
-### Why Are You Collecting the Data?
+### 2.2.2 Why Are You Collecting the Data?
 
 One of the first questions in designing a project is simply, “What will the data be used for?” In other words, why are you collecting data? You should have a good answer for this at the outset because it will define the sort of data that you want to collect.
 
@@ -166,7 +166,7 @@ One potential challenge is that, with numerous partners wanting different inform
   <p>These alternative methods tend to take longer and be less precise, but their advantages should not be dismissed. Remember that the more individuals and organizations that are involved in your project, the stronger it becomes. The more participants you have, the more users, contributors, and awareness of the data you will have—which, in turn, strengthens the open data ecosystem for the future. We recommend engaging a project team because of the practical goals of a mapping project, but you are encouraged to combine these methods to engage others in the mapping process to realize these additional benefits.</p>
 </div>
 
-### Defining the Target Area
+### 2.2.3 Defining the Target Area
 
 You should precisely determine your intended survey area from the start. Are you mapping an entire city? Part of a city? An arbitrary area?
 
@@ -182,7 +182,7 @@ Finally, it will benefit you a great deal to know as much as you can about your 
     </ul>
 </div>
 
-### Building the Data Model
+### 2.2.4 Building the Data Model
 
 A data model is a detailed description of all the data you want to collect in your field survey: the features you want to identify and the attributes of those features you want to collect. To a large extent, the data model will relate to the available time and resources for the project—either determining how much you will need or what the constraints might be due to predetermined limits. To complete this data model, determine how much data you will collect, which methods you will use to collect it, and whether privacy or sensitivity concerns will limit what you collect.
 
@@ -203,7 +203,7 @@ Figure 2.3 shows part of a sample data model (for a complete sample form, see Ap
     </ul>
 </div>
 
-### Estimating a Time Frame
+### 2.2.5 Estimating a Time Frame
 
 Project duration may not be something you can define from the start, but you should be able to estimate it. Will it take a month? Four to eight months? A year? This will become clearer as you plan your project and consider the logistics, but you should begin developing an idea of the time required to complete the project.
 
@@ -240,10 +240,10 @@ Figure 2.3: Sample Data Model of Features and Attributes
 
 Figure 2.4: Sample Project Time Frame
 <div class="c-box-image">
-    <img src="/images/posts/2/Planning_OC_Figure 2.4.jpg" alt="Figure 2.4">
+    <img src="/images/posts/2/Planning_OC_Figure 2.4.png" alt="Figure 2.4"/>
   </div>
 
-## Building The Team (staffing)
+## 2.3 Building The Team (staffing)
 
 While preparing for your project, consider the logistics that will be involved in terms of staff and office work. Remember that half of the job involves surveying the target area, and the other half is editing work on computers. You may have a small project team, or you may have dozens of people or more. Box 2.3 discusses some of these considerations.
 
@@ -260,7 +260,7 @@ Consider whether all of your staff will be editing, or whether you will divide t
   <p>At the top of the management structure is typically a project lead (PL). The PL may be the same person as the project manager, or the two roles may be separated. Ideally, the PL will have in-depth local knowledge and relationships with government and academia. The PL, aside from supervising the mapping project, is usually responsible for high-level discussions with partners and community outreach. The PL should be well versed in field data collection and skilled in project management, mapping and GIS, internal and external communications, social networking, and community building and integration.</p>
 </div>
 
-### Management Structure, Roles, and Responsibilities
+### 2.3.1 Management Structure, Roles, and Responsibilities
 
 You can organize your staff in various ways. A single manager can supervise a large group of mappers, or you may choose to divide the team into a number of smaller teams that can operate somewhat independently. (Box 2.4 describes some of these roles.) Either way, you will need people to perform the following tasks:
 <div class="c-list">
@@ -291,12 +291,12 @@ Good managers also maintain strong communication with their mappers and should o
   <p>For a complete description of the steps to be taken for an OSM import, view this OSM Wiki page: <b>http://wiki.openstreetmap.org/wiki/Import/Guidelines.</b></p>
 </div>
 
-### Finding Mappers and Surveyors
+### 2.3.2 Finding Mappers and Surveyors
 Survey staffs are often sourced from universities and from recent university graduates. The demands of lengthy field activity can be demanding and is suitable for young people who have an interest in fields related to GIS, geography, urban planning, and engineering. However, the surveying and editing process is not difficult; with the right training, anyone can fill the role, even those with limited computer experience. Those with less computer and geography experience may take longer to train but can still fulfill the job requirements. Mappers are also often found through other partners, such as government agencies, youth groups, and high schools.
 
 As you reach out to potential partners, key influencers and casual mappers will be identified who are interested in the project focus and can be added to the team as the project expands. A unique aspect of the Open Cities data collection methodology is the use of crowdsourcing from both the international and local OSM mapping communities. When engaging the local community, it is often students who have the time and interest to contribute to the project. An Open Cities project provides the opportunity for knowledge exchange between academia and the implementing organization. As a result, the surveyors can be sourced from local university students and recent graduates in geography, computer science, or other project-related technical disciplines.
 
-### Compensation and Incentives
+### 2.3.3 Compensation and Incentives
 
 There are various methods for compensating project members depending on their background and interests. If you assemble a management structure with a team of managers (known as a core project team), they will most likely be paid as full-time staff. Others, such as volunteer students or young professionals, may either be strictly volunteers, incentivized through an internship or academic credit, or offered per diem or even full-time payment.
 
@@ -306,7 +306,7 @@ Volunteer mappers can be incentivized by designing the position as an internship
 
 Another approach toward providing incentives is to develop competitions between universities, departments, or parts of the mapping community. Although monetary rewards have been found to lead to a spike in data collection, collection may also dramatically decrease after a competition is over. Therefore, although competitions provide a potentially useful way to gather a lot of data, they are not necessarily a good way to support community growth in the project focus area. In the case of a mapping competition, creative prizes or rewards (such as mapping hardware) can be used as incentives that may not result in temporary, opportunistic mapping.
 
-## Assessing existing map resources
+## 2.4 Assessing existing map resources
 
 Once you have established the foundation of your project, you must assess the resources that are available for mapping. For example,
 <div class="c-list">
@@ -321,7 +321,7 @@ The purpose of such resources is twofold. First, it is always better to start wi
 
 Second, these resources aid you while you are mapping. For example, if you are carrying a satellite picture with you while out surveying, you can usually identify objects by comparing what you see to what is shown on the image. This will also help you to understand the correct sizes and shapes of features. Later, the imagery can be used to accurately trace polygonal features into OpenStreetMap.
 
-### Existing Digital and Paper Data
+### 2.4.1 Existing Digital and Paper Data
 
 Because Open Cities uses the OSM platform, there will almost certainly be preexisting data on the map. The OSM project has been around for nearly a decade, and there are few places in the world without at least a few roads already drawn. This is helpful because it means that Open Cities projects do not start from scratch. It is important to remember, however, that your project mappers should not delete features that others have created. The purpose here is to collaborate and work with other users as well. Once you have defined your project target area, it is a good idea to examine the existing OSM map and assess how detailed it already is. You should also contact any active OSM users in that area to let them know what the project is about and to see whether there are any opportunities for collaboration.
 
@@ -329,7 +329,7 @@ Often, other sources of data will also be available to you. Public government da
 
 Digital data often exist as well. In the Open Cities Dhaka pilot project, for example, the team received permission to use old government road and building data. They decided it would be easier to use these data as a base layer that could be updated rather than starting from a clean slate, and so the data were first imported into OpenStreetMap.
 
-#### Data Imports
+#### 2.4.1.1 Data Imports
 
 Importing data can save time and work if there are existing data that correspond to your data model and that you are free to use. For example, if you plan to map 5,000 buildings and the city government has footprints for all those buildings, you might consider importing the data into the OpenStreetMap database. Box 2.5 further discusses how to work successfully with the OSM community on data imports.
 
@@ -356,7 +356,7 @@ Importing data is not difficult, but it requires an advanced understanding of Op
   <p>On the other hand, Microsoft has given explicit permission for OSM contributors to use its imagery, which is of good quality in many parts of the world. DigitalGlobe, a satellite imagery company, has also released a great deal of imagery through Mapbox. It is always best to check these resources first and to assess the quality of the images in your project’s target area. Available imagery sources can be viewed in the Java OpenStreetMap Editor (JOSM).</p>
 </div>
 
-#### Other Local Data Sources
+#### 2.4.1.2 Other Local Data Sources
 
 Consult the sources described below to find additional existing local data.
 
@@ -368,7 +368,7 @@ Consult the sources described below to find additional existing local data.
 
 <b>NGOs.</b> Typically hundreds if not thousands of NGOs exist in a given locale, and those working in certain fields may have collected data from previous projects. Organizations working in disaster relief, water and sanitation, or urban development are good places to begin asking around.
 
-### Availability of Imagery for Digitization
+### 2.4.2 Availability of Imagery for Digitization
 
 Perhaps the most effective aid in mapping is aerial imagery, as shown in figure 2.5. Aerial images are photographs taken from satellites or airplanes, which are then oriented accurately by their location on Earth.
 
@@ -380,24 +380,24 @@ While preparing for a project, the identification of suitable imagery should be 
 
 Figure 2.5 Use of an Aerial Image to Trace Lines on a Map
 <div class="c-box-image">
-    <img src="/images/posts/2/2-5.tif" alt="figure 2.5">
+    <img src="/images/posts/2/2-5.png" alt="figure 2.5"/>
   </div>
 <em>Source: © 2014 Microsoft Corporation. Image provided courtesy of USGS Earthstar Geographics.</em>
 
-#### Assessing Bing and Mapbox Imagery
+#### 2.4.2.1 Assessing Bing and Mapbox Imagery
 
 Several imagery sources are available to OSM users, but those with the widest coverage and the highest-quality images are Microsoft’s Bing search engine (figure 2.6) and Mapbox, which provides open-source base maps, design tools, and OSM-powered street data. Box 2.6 discusses the importance of using only those sources that have given permission to use the imagery.
 
 Figure 2.6: Example of a Good Aerial Imagery from Bing
 <div class="c-box-image">
-    <img src="/images/posts/2/2-6.tif" alt="figure 2.6">
+    <img src="/images/posts/2/2-6.png" alt="figure 2.6"/>
   </div>
 
 After defining your target area, you should assess to what extent you will be able to use this imagery, assuming that you plan to use it for your survey. If you are lucky, high-resolution imagery will cover your entire target area. Usually, however, parts of your target area will be obscured by clouds (figure 2.7) or not have high-resolution imagery at all.
 
 Figure 2.7: Cloudy Aerial Imagery
 <div class="c-box-image">
-    <img src="/images/posts/2/2-7.tif" alt="figure 2.7">
+    <img src="/images/posts/2/2-7.png" alt="figure 2.7"/>
   </div>
 
 During the planning stage, consider using GIS software to draw lines around the parts of your target area where Bing imagery will be suitable for mapping as well as those areas for which usable imagery is unavailable. This will help you understand what proportion of the target area will require another imagery source or a different methodology.
@@ -443,7 +443,7 @@ During the planning stage, consider using GIS software to draw lines around the 
     </ul>
 </div></p>
 
-#### Alternative Imagery Sources
+#### 2.4.2.2 Alternative Imagery Sources
 
 Finding alternative imagery sources is a lot like finding possible data you can import. There is usually some imagery floating around, but it is often of questionable age and usefulness, and of even more questionable legal right to use.
 
@@ -455,17 +455,17 @@ In some cases, imagery is made available through the U.S. Department of State’
 
 Figure 2.8: A Field Papers Atlas Map, without Imagery, Used in Sumba Barat, Indonesia
 <div class="c-box-image">
-    <img src="/images/posts/2/2-8.tif" alt="figure 2.8">
+    <img src="/images/posts/2/2-8.png" alt="figure 2.8"/>
   </div>
   <em>Source: Field Papers (http://www.fieldpapers.org).</em>
 
 Figure 2.9: A Field Paper Atlas Map Example
 <div class="c-box-image">
-    <img src="/images/posts/2/2-9.tif" alt="figure 2.9">
+    <img src="/images/posts/2/2-9.png" alt="figure 2.9"/>
   </div>
   <em>Source: Field Papers (http://www.fieldpapers.org).</em>
 
-### GPS Devices, Field Papers, and Smartphones
+### 2.4.3 GPS Devices, Field Papers, and Smartphones
 
 If imagery is unavailable for part or all of your target area, having a good base map becomes even more important. If detailed, existing data such as road networks and landmarks are already on the map, you should be able to use this as a reference to add new features in their correct locations. If a good base map is not already available, you will need to use GPS to build up a base map of your area.
 
