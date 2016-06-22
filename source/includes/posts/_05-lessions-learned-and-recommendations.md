@@ -1,6 +1,6 @@
 <div class="c-box-image">
     <img src="/images/posts/5/chapterpic-lessonslearned.png" alt="chapterpic-lessonslearned"/>
-  </div>
+</div>
 
 # Lessons learned and recommendations
 
