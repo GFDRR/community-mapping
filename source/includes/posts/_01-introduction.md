@@ -1,3 +1,7 @@
+<div class="c-box-image">
+  <img src="images/posts/introduction/chapterpic-intro.png" alt="chapterpic-intro"/>
+</div>
+
 # Introduction
 
 ## 1.1 History of open cities and the open data for Resilience Initiative
@@ -28,10 +32,6 @@ In each of these projects, Open Cities has supported the creation of new data wh
 </div>
 
 Leveraging robust, accurate data to improve urban planning and disaster risk management decisions requires not only high-quality information but also the requisite tools, skills, and willingness to commit to a data-driven decision-making process. With this in mind, Open Cities also has developed partnerships across government ministries, donor agencies, universities, private sector technology groups, and civil society organizations to ensure broad acceptance of the data produced, facilitate data use, and align investments across projects and sectors.
-
-<div class="c-box-image">
-  <img src="images/posts/introduction/chapterpic-intro.png" alt="chapterpic-intro"/>
-</div>
 
 ## 1.2 Rationale for the Open Cities Project
 
