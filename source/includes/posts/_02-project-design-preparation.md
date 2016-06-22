@@ -22,7 +22,7 @@ Involvement of a wide community of partners is a central component of an Open Ci
 
 ### Why Would Groups Join an Open Cities Project?
 
-All organizations involved in disaster risk management and urban planning (such as local and national govern- ments, international partners, and nongovernmental organizations [NGOs]) need up-to-date, detailed data for their operations. Some of them may already be strug- gling to maintain their own datasets. By joining with many partners, organizations  nd it easier to keep data relevant and up-to-date and to avoid reinventing the wheel. The data become more useful and more widely used, their application leading to greater innovation,which in turn encourages further collection of valuable data, which feed back into a robust open data ecosystem.
+All organizations involved in disaster risk management and urban planning (such as local and national governments, international partners, and nongovernmental organizations [NGOs]) need up-to-date, detailed data for their operations. Some of them may already be strug- gling to maintain their own datasets. By joining with many partners, organizations  nd it easier to keep data relevant and up-to-date and to avoid reinventing the wheel. The data become more useful and more widely used, their application leading to greater innovation,which in turn encourages further collection of valuable data, which feed back into a robust open data ecosystem.
 
 <div class="c-box-image">
     <img src="/images/posts/2/partnership_diagram2.eps" alt="partnership">
