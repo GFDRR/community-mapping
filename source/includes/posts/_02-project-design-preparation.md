@@ -206,6 +206,7 @@ Be sure to think through the factors that will affect your survey work, and incl
 
 During the Open Cities Dhaka pilot project, for example, a single survey team of two could collect data for about 50 buildings per day by mapping for three or four hours. In some locations, it is common to cover 100 or more buildings per day. Use metrics like these to estimate how long it will take to map a certain region. If you can estimate the number of features in an area and the time it will take to map them, you can better understand the likely time frame of your project.
 
+Figure 2.3: Sample Data Model of Features and Attributes
 <div class="c-table -responsive-list">
 
 <table>
@@ -367,6 +368,7 @@ Aerial imagery can also be used during field surveys and editing. It can be prin
 
 While preparing for a project, the identification of suitable imagery should be undertaken early. If good quality, high-resolution imagery is available, this will benefit your project tremendously and mean less time and less work. If you cannot find good imagery, however, other methods will be required for digitizing objects on the ground.
 
+Figure 2.5 Use of an Aerial Image to Trace Lines on a Map
 <div class="c-box-image">
     <img src="/images/posts/2/2-5.tif" alt="figure 2.5">
   </div>
@@ -376,12 +378,17 @@ While preparing for a project, the identification of suitable imagery should be 
 
 Several imagery sources are available to OSM users, but those with the widest coverage and the highest-quality images are Microsoft’s Bing search engine (figure 2.6) and Mapbox, which provides open-source base maps, design tools, and OSM-powered street data. Box 2.6 discusses the importance of using only those sources that have given permission to use the imagery.
 
+Figure 2.6: Example of a Good Aerial Imagery from Bing
 <div class="c-box-image">
     <img src="/images/posts/2/2-6.tif" alt="figure 2.6">
   </div>
-<em>Source: © 2014 Microsoft Corporation. Image provided courtesy of USGS Earthstar Geographics.</em> 
 
 After defining your target area, you should assess to what extent you will be able to use this imagery, assuming that you plan to use it for your survey. If you are lucky, high-resolution imagery will cover your entire target area. Usually, however, parts of your target area will be obscured by clouds (figure 2.7) or not have high-resolution imagery at all. 
+
+Figure 2.7: Cloudy Aerial Imagery
+<div class="c-box-image">
+    <img src="/images/posts/2/2-7.tif" alt="figure 2.7">
+  </div>
 
 During the planning stage, consider using GIS software to draw lines around the parts of your target area where Bing imagery will be suitable for mapping as well as those areas for which usable imagery is unavailable. This will help you understand what proportion of the target area will require another imagery source or a different methodology. 
 
@@ -435,6 +442,12 @@ Typically satellite images that have been purchased from a major provider like D
 Imagery can be purchased from companies such as DigitalGlobe and GeoEye, but this can quickly become expensive. The cost per square kilometer is around $15. It is usually best to find freely available sources of imagery, which are also more sustainable in the long run.
 
 In some cases, imagery is made available through the U.S. Department of State’s Imagery to the Crowd initiative. This is typically provided in the aftermath of disasters to aid remote mappers. Learn more about Imagery to the Crowd at <b>mapgive.state.gov</b>. Remember, too, that using aerial imagery as a background layer is generally considered to be the easiest way to map, particularly when many buildings need to be digitized.
+
+Figure 2.8: A Field Papers Atlas Map, without Imagery, Used in Sumba Barat, Indonesia
+<div class="c-box-image">
+    <img src="/images/posts/2/2-8.tif" alt="figure 2.8">
+  </div>
+  <em>Source: Field Papers (http://www.fieldpapers.org).</em>
 
 ### GPS Devices, Field Papers, and Smartphones
 
