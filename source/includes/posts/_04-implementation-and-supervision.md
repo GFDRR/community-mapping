@@ -180,7 +180,7 @@ Managers should always be available during editing hours to answer questions and
 
 <div class="c-box">
  <span class="box-title"><b>Box 4.3 OSM Quality Assurance Tools</b></span>
-   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>wiki.openstreetmap.org/wiki/Quality_assurance.</b></p>
+   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>[wiki.openstreetmap.org/wiki/Quality_assurance](wiki.openstreetmap.org/wiki/Quality_assurance).</b></p>
  </div>
 
 ### 4.3.2 Resurveying
