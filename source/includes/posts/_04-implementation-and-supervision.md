@@ -1,6 +1,6 @@
 <div class="c-box-image">
     <img src="/images/posts/4/chapterpic-implementation.png" alt="chapterpic-implementation"/>
-  </div>
+</div>
 
 # Implementation and supervision
 Now that we’ve discussed the planning stage and project logistics, we will consider the activities that go on during a mapping project. We will discuss the methodology for data collection (known as the data capture strategy), project scheduling and daily workflow, quality control, and reporting.
@@ -40,11 +40,11 @@ Figure 4.1 Options for Subdividing a Daily Mapping Area
 a. Gridding an area
 <div class="c-box-image">
     <img src="/images/posts/4/4-1a.png" alt="4-1a"/>
-  </div>
+</div>
 b. Subdividing an area by natural boundaries, such as blocks bounded by roads
 <div class="c-box-image">
     <img src="/images/posts/4/4-1b.png" alt="4-1b"/>
-  </div>
+</div>
 <em>Source: Imagery in panel “a” from Field Papers (http://www.fieldpapers.org) </em>
 
 It is a good idea to divide the target area early in the project. If possible, do this before fieldwork begins, though you will need to have existing road data. Otherwise, you might set aside some time in the first few days for survey teams to simply map all of the roads, which will then make it easier to divide the total area into daily mapping areas.
@@ -54,7 +54,7 @@ Once you do this, you will know how many of these “blocks” are in your targe
 Figure 4.2 Example of a "Blocked" Target Area in Dhaka, Bangladesh
 <div class="c-box-image">
     <img src="/images/posts/4/4-2.png" alt="4-2"/>
-  </div>
+</div>
 <em>Source: OpenStreetMap</em>
 
 How would you manage this workflow? Each morning, you would give each team a block to map. You print out Field Papers that cover the areas they are supposed to map and draw a boundary around the specific area or explain it to them directly. Give them additional forms (survey forms, if you are using them) and the same materials for an adjacent square where they can map if they have extra time. (For this reason, as box 4.1 explains, teams should receive block assignments that are not adjacent to each other on any given day.)
@@ -67,9 +67,9 @@ In the afternoon, the teams will return to the office and begin editing. The man
    Figure B4.1.1 Sample Mapping of Nonadjacent Squares in Guagua, Pampanga, Philippines
 <div class="c-box-image">
     <img src="/images/posts/4/B-4-1-1.tif" alt="B4.1.1">
-  </div>
+</div>
   <em>Source: Data from OpenStreetMap</em>
- </div>
+</div>
 
 ### 4.1.3 Collecting Field Data
 
@@ -84,7 +84,7 @@ Each mapping team will need to have the necessary mapping materials each day as 
          <li>Pen</li>
          <li>(Optional) Printed map showing satellite imagery in color for orientation</li>
      </ul>
- </div>
+</div>
 
 With this survey methodology, the idea is to draw features on the Field Paper and mark them with identifying numbers. Then, on a separate sheet of paper, the mappers can write down the attributes of each feature. In the case of detailed surveys, such as a building survey, you may include a form that the mappers can fill out for each building to ensure that they collect all attributes in an orderly fashion.
 
@@ -107,12 +107,12 @@ Conducting data entry directly after collection and ensuring that the mappers ta
  <span class="box-title"><b>Box 4.2 Custom Presets</b></span>
    <p>During editing, your mappers will most likely be using either the offline JOSM software or the online iD editor. Because you will probably use a custom data model, you will want to add a customized menu to the editing software for adding the specific features that your mappers are collecting. This is done by creating a custom presets file, which implements a menu that makes it easy to attach the correct OSM tags to features.</p>
    <p>You can read more about creating custom presets here at <b>http://learnosm.org/en/editing/creating-presets/</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>http://visualtags.hotosm.org/.</b></p>
- </div>
+</div>
 
 Figure 4.3 Sample Building Survey Form
 <div class="c-box-image">
     <img src="/images/posts/4/4-3.png" alt="4-3"/>
-  </div>
+</div>
 
 ### 4.1.6 Scheduling Project Tasks
 
