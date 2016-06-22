@@ -24,6 +24,7 @@ Involvement of a wide community of partners is a central component of an Open Ci
 
 All organizations involved in disaster risk management and urban planning (such as local and national governments, international partners, and nongovernmental organizations [NGOs]) need up-to-date, detailed data for their operations. Some of them may already be strug- gling to maintain their own datasets. By joining with many partners, organizations  nd it easier to keep data relevant and up-to-date and to avoid reinventing the wheel. The data become more useful and more widely used, their application leading to greater innovation,which in turn encourages further collection of valuable data, which feed back into a robust open data ecosystem.
 
+Figure 2.1: Open Cities Partnership Diagram
 <div class="c-box-image">
     <img src="/images/posts/2/partnership_diagram2.eps" alt="partnership">
   </div>
@@ -144,6 +145,10 @@ The following sections will explain how to de ne the target area and make rough 
   <p>Pilot projects typically map a small part of a much larger area, over a short time frame. The goals of pilot projects are not only to collect data but also to experiment with the surveying methodology and determine the most effective and efficient ways of mapping. Such projects are also useful for demonstrating the effectiveness of innovative mapping tools and strengthening local support.</p>
 </div>
 
+Figure 2.2: What you need to answer first
+<div class="c-box-image">
+    <img src="/images/posts/2/Planning_OC_Figure 2.2 combined.jpg" alt="Figure 2.2">
+  </div>
 
 ### Why Are You Collecting the Data?
 
@@ -232,6 +237,11 @@ Figure 2.3: Sample Data Model of Features and Attributes
         </tr>
     </tbody>
 </table>
+
+Figure 2.4: Sample Project Time Frame
+<div class="c-box-image">
+    <img src="/images/posts/2/Planning_OC_Figure 2.4.jpg" alt="Figure 2.4">
+  </div>
 
 ## Building The Team (staffing)
 
