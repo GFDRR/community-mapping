@@ -1,6 +1,6 @@
 <div class="c-box-image">
     <img src="/images/posts/2/chapterpic-design.png" alt="chapterpic-design" />
-  </div>
+</div>
   
 # Project design and preparation
 
