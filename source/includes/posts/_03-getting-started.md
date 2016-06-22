@@ -1,6 +1,6 @@
 <div class="c-box-image">
-    <img src="/images/posts/3/chapterpic-gettingstarted.tif" alt="chapterpic-gettingstarted">
-  </div>
+    <img src="/images/posts/3/chapterpic-gettingstarted.tif" alt="chapterpic-gettingstarted" />
+</div>
 
 # Getting Started
 
@@ -8,7 +8,7 @@
 
 A major consideration is the location of the project office. If you already have an office, you should consider whether it is in, or close to, the target area. Remember that travel between the editing location and the area being mapped is time-consuming; hence, planning transportation logistics is important. If you can save your mappers some time, the project should take less time and cost less money. It may be worthwhile to organize an office space close to the target area so that the mapping process runs more smoothly.
 
-In any case, care should be taken so that the office used for editing has a minimum of electrical, computer, and Internet problems. Because OpenStreetMap editing works best with a good Internet connection, frequent disconnection is enough to effectively halt the process, wasting valuable time and slowing progress. If your staff comes in for editing and has no Internet access, they have nothing to do and you lose half a day of time. A prolonged outage can be even more costly. 
+In any case, care should be taken so that the office used for editing has a minimum of electrical, computer, and Internet problems. Because OpenStreetMap editing works best with a good Internet connection, frequent disconnection is enough to effectively halt the process, wasting valuable time and slowing progress. If your staff comes in for editing and has no Internet access, they have nothing to do and you lose half a day of time. A prolonged outage can be even more costly.
 
 If Internet access is often lost, consider purchasing backup connections such as 3G modems. The additional cost often will outweigh the cost of lost time while waiting for service to return.
 
@@ -20,7 +20,7 @@ The initial project phases involve engaging the local OSM community and hosting 
 
 ## Equipment and other costs
 
-When you are preparing a mapping project budget, be sure to consider a number of other potential costs, including the equipment, supply, and service expenses described below. See box 3.1 for an estimate of the hardware needed to serve a 10-person project team. 
+When you are preparing a mapping project budget, be sure to consider a number of other potential costs, including the equipment, supply, and service expenses described below. See box 3.1 for an estimate of the hardware needed to serve a 10-person project team.
 
 <div class="c-box">
   <span class="box-title"><b>Box 3.1 Hardware List</b></span>
@@ -51,7 +51,7 @@ When you are preparing a mapping project budget, be sure to consider a number of
 
 <b>Business cards and brochures:</b> These materials are useful when establishing credibility in the field. Community members can be suspicious of mappers collecting data, and it is necessary to ease their concerns. A printed brochure will outline the project methodology and goals. Cards and brochures can easily be distributed while collecting data in the field—raising awareness of the project in the community and boosting credibility when fielding questions. Business cards and brochures should be distributed at all presentations and meetings.
 
-<b>Event signage and promotional materials:</b> Other printed materials include banners and posters for larger events such as mapping workshops. 
+<b>Event signage and promotional materials:</b> Other printed materials include banners and posters for larger events such as mapping workshops.
 
 ### Mapping Workshop Expenses
 
@@ -59,7 +59,7 @@ When you are preparing a mapping project budget, be sure to consider a number of
 
 <b>Food:</b> Although workshops will vary in length, they should typically be half- or full-day events. Therefore, provide a meal such as lunch for the mappers along with coffee and snacks. For community mapping parties, it is customary to supply a cake that depicts a map of the local area on the top.
 
-<b>Internet connectivity and electricity:</b> Internet connectivity should always be considered and, where possible, redundant systems established as an option in case connectivity fails. Likewise, rechargeable batteries should be available for the projector and any GPS devices. 
+<b>Internet connectivity and electricity:</b> Internet connectivity should always be considered and, where possible, redundant systems established as an option in case connectivity fails. Likewise, rechargeable batteries should be available for the projector and any GPS devices.
 
 ### Surveying Expenses
 
@@ -92,7 +92,7 @@ A typical OSM training outline includes the following:
          <li>8. Creating and using Field Papers to map</li>
      </ul>
  </div>
- 
+
 These are the main areas to cover when training beginners, but the list can easily be either expanded or shortened, depending on the training needs. For specific training materials, visit <b>learnosm.org</b> and MapGive’s short tutorials (<b>mapgive.state.gov</b>).
 
 ### Training on Surveying

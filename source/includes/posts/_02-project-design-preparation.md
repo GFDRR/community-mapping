@@ -184,7 +184,7 @@ Finally, it will benefit you a great deal to know as much as you can about your 
 
 ### Building the Data Model
 
-A data model is a detailed description of all the data you want to collect in your field survey: the features you want to identify and the attributes of those features you want to collect. To a large extent, the data model will relate to the available time and resources for the project—either determining how much you will need or what the constraints might be due to predetermined limits. To complete this data model, determine how much data you will collect, which methods you will use to collect it, and whether privacy or sensitivity concerns will limit what you collect. 
+A data model is a detailed description of all the data you want to collect in your field survey: the features you want to identify and the attributes of those features you want to collect. To a large extent, the data model will relate to the available time and resources for the project—either determining how much you will need or what the constraints might be due to predetermined limits. To complete this data model, determine how much data you will collect, which methods you will use to collect it, and whether privacy or sensitivity concerns will limit what you collect.
 
 <b>Quantity of data.</b> Defining a data model may be easy or it may take some time. If many partners are involved who want to collect many different types of data, deciding on which data to collect could prove to be a challenge. Remember that you may not want your surveyors to collect 100 or even a couple of dozen attributes about every feature on the ground. The more attributes you must collect, the greater the time and resources you will need for data collection.
 
@@ -213,30 +213,30 @@ During the Open Cities Dhaka pilot project, for example, a single survey team of
 
 Figure 2.3: Sample Data Model of Features and Attributes
 <div class="c-table -responsive-list">
-
-<table>
-    <thead>
-        <tr>
-            <th colspan="5">Proposed Data Model</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Streets</td>
-            <td colspan="4">Name & Address</td>
-            <td colspan="4">Width</td>
-            <td colspan="4">Surface Type (Bituminous, Pitch, Brick, etc.)</td>
-            <td colspan="4">One way / Two way / not defined</td>
-        </tr>
-        <tr>
-            <td>Buildings</td>
-            <td>Footprints</td>
-            <td>Usage</td>
-            <td>Number of Stories</td>
-            <td>Construction Type (categories consistent with CDMP 2007 survey) RCC/Brick/Block/</td>
-        </tr>
-    </tbody>
-</table>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5">Proposed Data Model</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Streets</td>
+                <td colspan="4">Name & Address</td>
+                <td colspan="4">Width</td>
+                <td colspan="4">Surface Type (Bituminous, Pitch, Brick, etc.)</td>
+                <td colspan="4">One way / Two way / not defined</td>
+            </tr>
+            <tr>
+                <td>Buildings</td>
+                <td>Footprints</td>
+                <td>Usage</td>
+                <td>Number of Stories</td>
+                <td>Construction Type (categories consistent with CDMP 2007 survey) RCC/Brick/Block/</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 Figure 2.4: Sample Project Time Frame
 <div class="c-box-image">
@@ -245,7 +245,7 @@ Figure 2.4: Sample Project Time Frame
 
 ## Building The Team (staffing)
 
-While preparing for your project, consider the logistics that will be involved in terms of staff and office work. Remember that half of the job involves surveying the target area, and the other half is editing work on computers. You may have a small project team, or you may have dozens of people or more. Box 2.3 discusses some of these considerations. 
+While preparing for your project, consider the logistics that will be involved in terms of staff and office work. Remember that half of the job involves surveying the target area, and the other half is editing work on computers. You may have a small project team, or you may have dozens of people or more. Box 2.3 discusses some of these considerations.
 
 Consider whether all of your staff will be editing, or whether you will divide the tasks of surveyor and editor. It is generally beneficial for mappers to do both surveying and editing, rather than splitting the work, because mappers remember what they have surveyed; even with detailed notes, nobody will be able to edit the map as well as the person who surveyed the features being mapped. Editing tasks also help to overcome “survey fatigue”—when surveyors tire from spending most of their days walking around to perform a single task (and vice versa for editors staying at the computer all day). That said, logistical considerations may require that these two tasks be split, or that different people are editing in the office at different times.
 
@@ -279,7 +279,7 @@ You can organize your staff in various ways. A single manager can supervise a la
 
 Mappers are responsible for the day-to-day activities of a project. They are the ones going out to different locations each day within the target area, identifying features, and writing down attributes. They also spend time in the project office, editing the data they collect each day and adding those data to OpenStreetMap. Because their skills will grow, the quality and pace of their work will improve over time. Mappers may also perform office tasks, procure supplies, work with volunteers, or train partner organizations.
 
-A good manager should keep the mappers on schedule and help them as needed. Managers will be more experienced in GIS and OpenStreetMap, so that they can effectively advise mappers during the editing process. It is important that managers check for mistakes and errors in the data, especially early in a project, so that they can inform mappers of their mistakes before they are repeated hundreds of times. 
+A good manager should keep the mappers on schedule and help them as needed. Managers will be more experienced in GIS and OpenStreetMap, so that they can effectively advise mappers during the editing process. It is important that managers check for mistakes and errors in the data, especially early in a project, so that they can inform mappers of their mistakes before they are repeated hundreds of times.
 
 Good managers also maintain strong communication with their mappers and should occasionally accompany them during surveys to observe their work and offer advice. Managers are responsible for performing quality assurance surveys, which will be discussed in section 4.3, “Quality Control.”
 
@@ -294,7 +294,7 @@ Good managers also maintain strong communication with their mappers and should o
 ### Finding Mappers and Surveyors
 Survey staffs are often sourced from universities and from recent university graduates. The demands of lengthy field activity can be demanding and is suitable for young people who have an interest in fields related to GIS, geography, urban planning, and engineering. However, the surveying and editing process is not difficult; with the right training, anyone can fill the role, even those with limited computer experience. Those with less computer and geography experience may take longer to train but can still fulfill the job requirements. Mappers are also often found through other partners, such as government agencies, youth groups, and high schools.
 
-As you reach out to potential partners, key influencers and casual mappers will be identified who are interested in the project focus and can be added to the team as the project expands. A unique aspect of the Open Cities data collection methodology is the use of crowdsourcing from both the international and local OSM mapping communities. When engaging the local community, it is often students who have the time and interest to contribute to the project. An Open Cities project provides the opportunity for knowledge exchange between academia and the implementing organization. As a result, the surveyors can be sourced from local university students and recent graduates in geography, computer science, or other project-related technical disciplines. 
+As you reach out to potential partners, key influencers and casual mappers will be identified who are interested in the project focus and can be added to the team as the project expands. A unique aspect of the Open Cities data collection methodology is the use of crowdsourcing from both the international and local OSM mapping communities. When engaging the local community, it is often students who have the time and interest to contribute to the project. An Open Cities project provides the opportunity for knowledge exchange between academia and the implementing organization. As a result, the surveyors can be sourced from local university students and recent graduates in geography, computer science, or other project-related technical disciplines.
 
 ### Compensation and Incentives
 
@@ -302,9 +302,9 @@ There are various methods for compensating project members depending on their ba
 
 Because OpenStreetMap is an open data project built around a community of volunteers, a frequent debate concerns whether mappers should be paid during a targeted mapping project. On the one hand, it is preferable to find ways to encourage mapping other than payment in order to foster a sustainable initiative and mapping community. On the other hand, a targeted mapping project may require mappers to dedicate a great deal of their time to complete the work within a given time frame. In the end, the choices about how to compensate or incentivize mappers will depend on the particular demands of the project.
 
-Volunteer mappers can be incentivized by designing the position as an internship opportunity, by working with universities so that they receive academic credit, or by simply offering the reward of community service and skills development. The broader benefits of participation were discussed earlier, in section 2.1.1. 
+Volunteer mappers can be incentivized by designing the position as an internship opportunity, by working with universities so that they receive academic credit, or by simply offering the reward of community service and skills development. The broader benefits of participation were discussed earlier, in section 2.1.1.
 
-Another approach toward providing incentives is to develop competitions between universities, departments, or parts of the mapping community. Although monetary rewards have been found to lead to a spike in data collection, collection may also dramatically decrease after a competition is over. Therefore, although competitions provide a potentially useful way to gather a lot of data, they are not necessarily a good way to support community growth in the project focus area. In the case of a mapping competition, creative prizes or rewards (such as mapping hardware) can be used as incentives that may not result in temporary, opportunistic mapping. 
+Another approach toward providing incentives is to develop competitions between universities, departments, or parts of the mapping community. Although monetary rewards have been found to lead to a spike in data collection, collection may also dramatically decrease after a competition is over. Therefore, although competitions provide a potentially useful way to gather a lot of data, they are not necessarily a good way to support community growth in the project focus area. In the case of a mapping competition, creative prizes or rewards (such as mapping hardware) can be used as incentives that may not result in temporary, opportunistic mapping.
 
 ## Assessing existing map resources
 
@@ -333,7 +333,7 @@ Digital data often exist as well. In the Open Cities Dhaka pilot project, for ex
 
 Importing data can save time and work if there are existing data that correspond to your data model and that you are free to use. For example, if you plan to map 5,000 buildings and the city government has footprints for all those buildings, you might consider importing the data into the OpenStreetMap database. Box 2.5 further discusses how to work successfully with the OSM community on data imports.
 
-If it takes 30 seconds to draw the geometry of a building, then it would take approximately 40 hours to draw 5,000 buildings—a week of someone’s time. 
+If it takes 30 seconds to draw the geometry of a building, then it would take approximately 40 hours to draw 5,000 buildings—a week of someone’s time.
 
 Before you think about importing data, you must consider the following:
 <div class="c-list">
@@ -382,7 +382,7 @@ Figure 2.5 Use of an Aerial Image to Trace Lines on a Map
 <div class="c-box-image">
     <img src="/images/posts/2/2-5.tif" alt="figure 2.5">
   </div>
-<em>Source: © 2014 Microsoft Corporation. Image provided courtesy of USGS Earthstar Geographics.</em> 
+<em>Source: © 2014 Microsoft Corporation. Image provided courtesy of USGS Earthstar Geographics.</em>
 
 #### Assessing Bing and Mapbox Imagery
 
@@ -393,14 +393,14 @@ Figure 2.6: Example of a Good Aerial Imagery from Bing
     <img src="/images/posts/2/2-6.tif" alt="figure 2.6">
   </div>
 
-After defining your target area, you should assess to what extent you will be able to use this imagery, assuming that you plan to use it for your survey. If you are lucky, high-resolution imagery will cover your entire target area. Usually, however, parts of your target area will be obscured by clouds (figure 2.7) or not have high-resolution imagery at all. 
+After defining your target area, you should assess to what extent you will be able to use this imagery, assuming that you plan to use it for your survey. If you are lucky, high-resolution imagery will cover your entire target area. Usually, however, parts of your target area will be obscured by clouds (figure 2.7) or not have high-resolution imagery at all.
 
 Figure 2.7: Cloudy Aerial Imagery
 <div class="c-box-image">
     <img src="/images/posts/2/2-7.tif" alt="figure 2.7">
   </div>
 
-During the planning stage, consider using GIS software to draw lines around the parts of your target area where Bing imagery will be suitable for mapping as well as those areas for which usable imagery is unavailable. This will help you understand what proportion of the target area will require another imagery source or a different methodology. 
+During the planning stage, consider using GIS software to draw lines around the parts of your target area where Bing imagery will be suitable for mapping as well as those areas for which usable imagery is unavailable. This will help you understand what proportion of the target area will require another imagery source or a different methodology.
 
 <div class="c-box">
 <span class="box-title"><b>Box 2.6 Design and Preparation Checklist</b></span>
@@ -458,7 +458,7 @@ Figure 2.8: A Field Papers Atlas Map, without Imagery, Used in Sumba Barat, Indo
     <img src="/images/posts/2/2-8.tif" alt="figure 2.8">
   </div>
   <em>Source: Field Papers (http://www.fieldpapers.org).</em>
-  
+
 Figure 2.9: A Field Paper Atlas Map Example
 <div class="c-box-image">
     <img src="/images/posts/2/2-9.tif" alt="figure 2.9">
