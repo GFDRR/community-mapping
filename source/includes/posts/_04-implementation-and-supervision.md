@@ -1,18 +1,18 @@
 <div class="c-box-image">
-    <img src="/images/posts/4/chapterpic-implementation.tif" alt="chapterpic-implementation">
+    <img src="/images/posts/4/chapterpic-implementation.png" alt="chapterpic-implementation"/>
   </div>
 
 # Implementation and supervision
 Now that we’ve discussed the planning stage and project logistics, we will consider the activities that go on during a mapping project. We will discuss the methodology for data collection (known as the data capture strategy), project scheduling and daily workflow, quality control, and reporting.
 
-## Collection the data
+## 4.1 Collection the data
 A principal consideration in a mapping project is the data capture strategy. How will your mappers go out each day, collect information, come back to the office, and enter it into the OpenStreetMap database? And how will they do this efficiently and accurately? 
 
 Unfortunately, there is no single recipe for a perfect data capture strategy. There are too many variables: the area being mapped, the data model, the available resources, and so on. Still, we can suggest some methods that have been successful in the past.
 
 We will assume here that the surveyors are using Field Papers and any additional survey forms required for mapping. We assume this because, as noted in the chapter on project design, Field Papers can be created even when imagery is not available. For now, we will ignore the non-paper-based methodologies, such as the use of GPS and mobile devices. Of course, you are free to include them in your process as you design it.
 
-### Creating Reference Maps
+### 4.1.1 Creating Reference Maps
 
 Each day, mapping teams will venture into the field carrying clipboards, pens, and papers. Before fieldwork begins, some preparation must be done. Mappers need to know where they are going, how to orient themselves once they get there, and how to use existing features on the map to correctly position new ones.
 
@@ -20,32 +20,30 @@ For orientation purposes, you could supply mapping teams with aerial imagery pri
 
 Once the mappers are oriented in the field—understanding where they are and able to match their locations to positions on their printed imagery and base map—they are ready to start collecting new features. Typically this is done with a combination of Field Papers and survey forms. (As section 2.4 discussed earlier, Field Papers are printed OSM maps that the surveyors can sketch on to draw new features on the map.) 
 
-#### Tracing Imagery
+#### 4.1.1.1 Tracing Imagery
 
 Tracing lines and polygons on top of imagery is a great way to produce base data before going into the field. Because it is usually easy to identify roads on top of imagery, the tracing will make the roads available on your printed base map.
 
 Imagine you are collecting attributes about buildings. By having your mappers draw the buildings before they go into the field, they can print out Field Papers that already have all of the building polygons on it. They can then easily collect attributes by enumerating each building on the Field Paper and filling out a survey form marked with the same number.
 
-#### Producing Reference Maps and Field Papers
+#### 4.1.1.2 Producing Reference Maps and Field Papers
 
 In any project, someone should be responsible for producing reference maps and Field Papers. Managers might either perform this task or delegate it to each mapping team individually. If possible, it is advisable for managers to do it, because they will be keeping track of the areas that each team maps and can ensure that teams are always equipped with the appropriate papers. Creating and printing Field Papers can take some time each day, so that time should be considered while scheduling activities.
 
-### Defining Daily Mapping Areas
+### 4.1.2 Defining Daily Mapping Areas
 
 Each day, you will send mapping teams to different parts of the target area. Thus, one of the first tasks will be to determine what those smaller units of the area look like. For example, let’s assume that each pair of mappers will go out for field surveys for four hours each day. This means that you will want to provide them with the resources (Field Papers, survey forms, and reference maps) to cover an area that you estimate will take about four hours to survey. You also might want to give them papers for an adjacent area of similar size, which they can start working on if the first area takes less than four hours.
 
 As figure 4.1 shows, you can subdivide your target area in two ways: by creating a grid or by defining areas with natural boundaries. In terms of preparation time, is easier to use a grid system because you can simply print out a large grid of Field Papers, and assign one paper to each mapping team each day. On the other hand, from a surveying perspective, it makes much more sense to follow existing boundaries such as roads and map everything within a given block. Organizing areas this way may require more preparation but will be more efficient in the long run.
 
- community-mapping/source/images/posts/4/4-2.tif 
-
 Figure 4.1 Options for Subdividing a Daily Mapping Area
 a. Gridding an area
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1a.tif" alt="4-1a">
+    <img src="/images/posts/4/4-1a.png" alt="4-1a"/>
   </div>
 b. Subdividing an area by natural boundaries, such as blocks bounded by roads
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1b.tif" alt="4-21b">
+    <img src="/images/posts/4/4-1b.png" alt="4-1b"/>
   </div>
 <em>Source: Imagery in panel “a” from Field Papers (http://www.fieldpapers.org) </em>
 
@@ -55,7 +53,7 @@ Once you do this, you will know how many of these “blocks” are in your targe
 
 Figure 4.2 Example of a "Blocked" Target Area in Dhaka, Bangladesh
 <div class="c-box-image">
-    <img src="/images/posts/4/4-2.tif" alt="4-2">
+    <img src="/images/posts/4/4-2.png" alt="4-2"/>
   </div>
 <em>Source: OpenStreetMap</em>
 
@@ -73,7 +71,7 @@ In the afternoon, the teams will return to the office and begin editing. The man
   <em>Source: Data from OpenStreetMap</em>
  </div>
 
-### Collecting Field Data
+### 4.1.3 Collecting Field Data
 
 Let’s take a closer look at the first half of the mapping job: field data collection, or field surveys. We will assume that the workday is split in two, the first half for field surveys and the second half for editing. This schedule, of course, may differ based on the needs of the project.
 
@@ -90,14 +88,14 @@ Each mapping team will need to have the necessary mapping materials each day as 
 
 With this survey methodology, the idea is to draw features on the Field Paper and mark them with identifying numbers. Then, on a separate sheet of paper, the mappers can write down the attributes of each feature. In the case of detailed surveys, such as a building survey, you may include a form that the mappers can fill out for each building to ensure that they collect all attributes in an orderly fashion.
 
-### Developing Survey Forms
+### 4.1.4 Developing Survey Forms
 
 Mapping teams should receive sufficient survey forms each day. A good survey form should be organized, simple, and clear. As shown in figure 4.3, the form should be filled in with the surveyor’s name, the date, an identification (ID) number for the part of the target area they are mapping, an ID number for the Field Paper corresponding to the form, and an ID number for the specific feature being mapped.
 
 The remainder of the form should reflect all of the attributes being collected as part of your data model (discussed earlier in section 2.2.3). In other words, for every attribute in the data model, the survey form should have a field to fill in. For attributes that can only have values within a certain range (for example, from “poor” to “good”), it is a good idea to have checkboxes or multiple-choice
 options on the form.Survey forms should be covered extensively in the second part of your project training, which covers the identification of features. Mappers will need practice to identify all the different attributes covered in the data model and to understand how to properly fill out the survey forms.
 
-### Entering the Data (Editing)
+### 4.1.5 Entering the Data (Editing)
 
 The second component of mapping work is data entry. In a typical scenario, teams will go out mapping in the morning, return to an office space, and edit in the afternoon. This is usually a smooth process, though if you don’t have the space or equipment for every mapping team to sit and edit their work at once, you may need to come up with creative solutions, such as having half of the teams map in the afternoon and edit in the morning.
 
@@ -113,10 +111,10 @@ Conducting data entry directly after collection and ensuring that the mappers ta
 
 Figure 4.3 Sample Building Survey Form
 <div class="c-box-image">
-    <img src="/images/posts/4/4-3.tif" alt="4-3">
+    <img src="/images/posts/4/4-3.png" alt="4-3"/>
   </div>
 
-### Scheduling Project Tasks
+### 4.1.6 Scheduling Project Tasks
 
 The implementation phase will benefit from a clear project schedule. During project design, you should create a sample project timeline (as previously shown in section 2.2.5). As the components of the project become more well-defined, schedules should include more detail.
 
@@ -136,27 +134,27 @@ Scheduling mapping activities is important for completing the daily work, but ca
      </ul>
  </div>
 
-## Common challenges
+## 4.2 Common challenges
 
 There are a few common threats that many mapping projects endure. It’s best to identify these potential threats early and develop backup plans in case something goes wrong.
 
-### Bottlenecks
+### 4.2.1 Bottlenecks
 
 Among the great threats to a mapping project are unexpected bottlenecks that result in the loss of much time and work. For example, if you are importing data from a government agency, but you can’t begin mapping until the data have been imported, make sure that you allot enough time in advance to acquire the data, obtain permission to use it, and import it.
 
 If there is a weeklong religious holiday a month into your project and nobody will be working, you should identify that from the beginning. If the Internet connection tends to go off every second day, you may need to find another way of connecting your staff. Other common bottlenecks are the availability of hardware (such as having enough computers for your mapping teams) or the ability to print enough Field Papers and survey forms to keep up with the mappers’ needs.
 
-### Time Management
+### 4.2.2 Time Management
 
 A great deal of time is lost in places where you would not expect. This adds up and can significantly slow down a project. One common loss of time is during morning meetings. Out of 10 people, 1 or 2 are always late. Don’t let their tardiness stop the rest of the group from working, and try to enforce a policy of punctuality. Time is also lost in the logistics—for example, printing Field Papers, preparing computers, and using the Internet. Keep these processes running smoothly to save time and energy.
 
 In addition, transportation can drain staff time unexpectedly. Be sure to build transportation time into the staff schedules. You can’t expect a team to map for a full four hours if they need an hour to get to and from their mapping area. Consider faster ways for them to get there. For example, mapping teams may be allowed to take survey equipment home with them and then head directly to the survey sites in the morning. This option, of course, requires trust that they will begin working on time.
 
-### Survey Fatigue
+### 4.2.3 Survey Fatigue
 
 Mappers who survey every day may tire of it over time. It is physically demanding work and can sometimes feel monotonous. Generally mappers do better work if they maintain their enthusiasm. Finding ways to keep them motivated can aid a great deal—for example, by varying the work on occasion, providing frequent trainings to learn new things, and offering incentives for good work.
 
-## Quiality Control
+## 4.3 Quiality Control
 
 One of the manager’s primary jobs is to ensure quality control of the data being collected and entered into OpenStreetMap. Quality control involves three principal tasks:
 <div class="c-list">
@@ -166,7 +164,7 @@ One of the manager’s primary jobs is to ensure quality control of the data bei
          <li>Data analysis</li>
  </div>
 
-### Daily Data Checks
+### 4.3.1 Daily Data Checks
 
 The most immediate way to ensure quality is by staying in close contact with the mapping teams, keeping track of their edits, and discussing questions and concerns with mappers when they arise. 
 
@@ -185,7 +183,7 @@ Managers should always be available during editing hours to answer questions and
    <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>wiki.openstreetmap.org/wiki/Quality_assurance.</b></p>
  </div>
 
-### Resurveying
+### 4.3.2 Resurveying
 
 Another method of quality control is to conduct secondary surveys at regular intervals. One day every week or two, 5–10 percent of the completed work should be resurveyed. Survey teams can resurvey each other’s work, or, if possible, their more-experienced managers can undertake the reviews.
 
@@ -210,13 +208,16 @@ Resurveying has three main functions:
          <li>It provides an important metric for project reporting: the percentage of error. A margin of error of 5 percent or less will probably be acceptable, although, of course, you should strive for the greatest accuracy possible.</li>
  </div>
 
-### Data Analysis
+### 4.3.3 Data Analysis
 
 Just as resurveying helps to improve the data collection process, analyzing the data in JOSM improves the editing process. Another way to analyze the data is through GIS analysis, which may benefit both data collection and editing. 
 
 It’s a good idea to regularly (once or twice a month) review the project data in GIS software such as 
 
-## Reporting
+## 4.4 
+
+
+Reporting
 
 Most mapping projects have a financial backer and partners who will be interested in project reports. Depending on the length of the project, the reports may be issued at various intervals, and they will most certainly include a final project report.
 
