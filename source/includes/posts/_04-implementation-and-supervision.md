@@ -251,12 +251,12 @@ For a sample project report, see Appendix 6.1.
          <li>Make daily work schedule</li>
          <li>Create detailed project implementation schedule</li>
  </div>
-    <p><b>Quality Control</b></p>
+ <p><b>Quality Control</b></p>
   <div class="c-list">
      <ul>
          <li>Determine methods to monitor data quality, and include these in both your project schedule and daily schedule</li>
  </div>
-     <p><b>Reporting</p></b>
+ <p><b>Reporting</p></b>
   <div class="c-list">
      <ul>
          <li>Determine the metrics to include in project reports</li>
