@@ -24,7 +24,7 @@ In each of these projects, Open Cities has supported the creation of new data wh
 
 <div class="c-box">
   <span class="box-title"><b>Box 1.2 The Open Cities Website</b></span>
-  <p>The Open Cities website provides case studies and visualizations of, and access to, much of the data collected during the first round of Open Cities projects. It was designed and built by our partners at Development Seed and can be accessed at http://opencitiesproject.org. It will be updated continually as the program expands and more data become available.</p>
+  <p>The Open Cities website provides case studies and visualizations of, and access to, much of the data collected during the first round of Open Cities projects. It was designed and built by our partners at Development Seed and can be accessed at [opencitiesproject.org](http://opencitiesproject.org). It will be updated continually as the program expands and more data become available.</p>
 </div>
 
 Leveraging robust, accurate data to improve urban planning and disaster risk management decisions requires not only high-quality information but also the requisite tools, skills, and willingness to commit to a data-driven decision-making process. With this in mind, Open Cities also has developed partnerships across government ministries, donor agencies, universities, private sector technology groups, and civil society organizations to ensure broad acceptance of the data produced, facilitate data use, and align investments across projects and sectors.
