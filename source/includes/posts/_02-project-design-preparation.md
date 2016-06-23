@@ -457,13 +457,13 @@ Figure 2.8: A Field Papers Atlas Map, without Imagery, Used in Sumba Barat, Indo
 <div class="c-box-image">
     <img src="/images/posts/2/2-8-2.png" alt="figure 2.8">
   </div>
-  <em>Source: Field Papers [fieldpapers.org](http://www.fieldpapers.org)</em>
+  <em>Source: [Field Papers](http://www.fieldpapers.org)</em>
 
 Figure 2.9: A Field Paper Atlas Map Example
 <div class="c-box-image">
     <img src="/images/posts/2/2-9.tif" alt="figure 2.9">
   </div>
-  <em>Source: Field Papers [fieldpapers.org](http://www.fieldpapers.org)</em>
+  <em>Source: [Field Papers](http://www.fieldpapers.org)</em>
 
 ### GPS Devices, Field Papers, and Smartphones
 
