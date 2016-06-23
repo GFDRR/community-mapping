@@ -1,5 +1,5 @@
 <div class="c-box-image">
-    <img src="/images/posts/4/chapterpic-implementation.tif" alt="chapterpic-implementation">
+    <img src="/images/posts/4/chapterpic-implementation-2.png" alt="chapterpic-implementation">
   </div>
 
 # Implementation and supervision
@@ -36,16 +36,14 @@ Each day, you will send mapping teams to different parts of the target area. Thu
 
 As figure 4.1 shows, you can subdivide your target area in two ways: by creating a grid or by defining areas with natural boundaries. In terms of preparation time, is easier to use a grid system because you can simply print out a large grid of Field Papers, and assign one paper to each mapping team each day. On the other hand, from a surveying perspective, it makes much more sense to follow existing boundaries such as roads and map everything within a given block. Organizing areas this way may require more preparation but will be more efficient in the long run.
 
- community-mapping/source/images/posts/4/4-2.tif 
-
 Figure 4.1 Options for Subdividing a Daily Mapping Area
 a. Gridding an area
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1a.tif" alt="4-1a">
+    <img src="/images/posts/4/4-1-a-2.png" alt="4-1a">
   </div>
 b. Subdividing an area by natural boundaries, such as blocks bounded by roads
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1b.tif" alt="4-21b">
+    <img src="/images/posts/4/4-1-b-2.png" alt="4-21b">
   </div>
 <em>Source: Imagery in panel “a” from [Field Papers](http://www.fieldpapers.org)</em>
 
@@ -55,7 +53,7 @@ Once you do this, you will know how many of these “blocks” are in your targe
 
 Figure 4.2 Example of a "Blocked" Target Area in Dhaka, Bangladesh
 <div class="c-box-image">
-    <img src="/images/posts/4/4-2.tif" alt="4-2">
+    <img src="/images/posts/4/4-2-2.png" alt="4-2">
   </div>
 <em>Source: OpenStreetMap</em>
 
@@ -68,7 +66,7 @@ In the afternoon, the teams will return to the office and begin editing. The man
    <p>It is recommended that adjacent blocks are not given to different teams to map on the same day. To do so would increase the likelihood of editing conflicts, which occur when two teams try to edit the same features at the same time. The assignment of nonadjacent blocks to each team also allows your mappers to continue mapping if their block takes less time than they expect. For these reasons, it is better to organize daily mapping activities following a checkerboard pattern, as shown in figure B4.1.1. </p>
    Figure B4.1.1 Sample Mapping of Nonadjacent Squares in Guagua, Pampanga, Philippines
 <div class="c-box-image">
-    <img src="/images/posts/4/B-4-1-1.tif" alt="B4.1.1">
+    <img src="/images/posts/4/B-4-1-1-2.png" alt="B4.1.1">
   </div>
   <em>Source: Data from OpenStreetMap</em>
  </div>
@@ -113,7 +111,7 @@ Conducting data entry directly after collection and ensuring that the mappers ta
 
 Figure 4.3 Sample Building Survey Form
 <div class="c-box-image">
-    <img src="/images/posts/4/4-3.tif" alt="4-3">
+    <img src="/images/posts/4/4-3-2.png" alt="4-3">
   </div>
 
 ### Scheduling Project Tasks
