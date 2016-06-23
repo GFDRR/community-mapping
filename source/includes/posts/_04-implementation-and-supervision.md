@@ -47,7 +47,7 @@ b. Subdividing an area by natural boundaries, such as blocks bounded by roads
 <div class="c-box-image">
     <img src="/images/posts/4/4-1b.tif" alt="4-21b">
   </div>
-<em>Source: Imagery in panel “a” from Field Papers (http://www.fieldpapers.org) </em>
+<em>Source: Imagery in panel “a” from [Field Papers](http://www.fieldpapers.org)</em>
 
 It is a good idea to divide the target area early in the project. If possible, do this before fieldwork begins, though you will need to have existing road data. Otherwise, you might set aside some time in the first few days for survey teams to simply map all of the roads, which will then make it easier to divide the total area into daily mapping areas.
 
@@ -108,7 +108,7 @@ Conducting data entry directly after collection and ensuring that the mappers ta
 <div class="c-box">
  <span class="box-title"><b>Box 4.2 Custom Presets</b></span>
    <p>During editing, your mappers will most likely be using either the offline JOSM software or the online iD editor. Because you will probably use a custom data model, you will want to add a customized menu to the editing software for adding the specific features that your mappers are collecting. This is done by creating a custom presets file, which implements a menu that makes it easy to attach the correct OSM tags to features.</p>
-   <p>You can read more about creating custom presets here at <b>http://learnosm.org/en/editing/creating-presets/</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>http://visualtags.hotosm.org/.</b></p>
+   <p>You can read more about creating custom presets here at <b>[http://learnosm.org/en/editing/creating-presets/](http://learnosm.org/en/editing/creating-presets/)</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>[http://visualtags.hotosm.org/](http://visualtags.hotosm.org/)</b></p>
  </div>
 
 Figure 4.3 Sample Building Survey Form
@@ -182,7 +182,7 @@ Managers should always be available during editing hours to answer questions and
 
 <div class="c-box">
  <span class="box-title"><b>Box 4.3 OSM Quality Assurance Tools</b></span>
-   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>wiki.openstreetmap.org/wiki/Quality_assurance.</b></p>
+   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>[wiki.openstreetmap.org/wiki/Quality_assurance](http://wiki.openstreetmap.org/wiki/Quality_assurance)</b>.</p>
  </div>
 
 ### Resurveying
