@@ -461,7 +461,7 @@ Figure 2.8: A Field Papers Atlas Map, without Imagery, Used in Sumba Barat, Indo
 
 Figure 2.9: A Field Paper Atlas Map Example
 <div class="c-box-image">
-    <img src="/images/posts/2/2-9.tif" alt="figure 2.9">
+    <img src="/images/posts/2/2-9-2.png" alt="figure 2.9">
   </div>
   <em>Source: [Field Papers](http://www.fieldpapers.org)</em>
 
