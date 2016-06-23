@@ -30,7 +30,7 @@ In each of these projects, Open Cities has supported the creation of new data wh
 Leveraging robust, accurate data to improve urban planning and disaster risk management decisions requires not only high-quality information but also the requisite tools, skills, and willingness to commit to a data-driven decision-making process. With this in mind, Open Cities also has developed partnerships across government ministries, donor agencies, universities, private sector technology groups, and civil society organizations to ensure broad acceptance of the data produced, facilitate data use, and align investments across projects and sectors.
 
 <div class="c-box-image">
-  <img src="images/posts/introduction/chapterpic-intro.tif" alt="rio">
+  <img src="/images/posts/introduction/chapterpic-intro-2.png" alt="chapterpic-intro">
 </div>
 
 ## Rationale for the Open Cities Project
@@ -83,5 +83,5 @@ This guide offers a comprehensive understanding of the design and implementation
 Figure 1.1 depicts the overall process that the chapters will discuss in detail. The next chapter, “Project Design and Preparation,” covers how a project design process begins: by identifying partners, clarifying a project’s objectives and scope, assembling a team of managers and mappers, and assessing the necessary resources for mapping. Chapter 3, “Getting Started,” then describes the steps after the initial planning stage: how to locate an appropriate workspace, assess equipment costs, and prepare staff training. Chapter 4, “Implementation and Supervision,” takes a practical look at data collection techniques from both the organizational and technical perspectives. It also addresses common challenges and mechanisms for quality control and reporting. Finally, chapter 5 examines the lessons learned from previous Open Cities projects and considers future improvements to the overall project design.
 
 <div class="c-box-image">
-  <img src="images/posts/introduction/OC_process3 crop.eps" alt="OC_process3 crop">
+  <img src="/images/posts/introduction/OC_process3-crop-2.png" alt="OC_process3 crop">
 </div>
