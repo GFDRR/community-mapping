@@ -147,7 +147,7 @@ The following sections will explain how to de ne the target area and make rough 
 
 Figure 2.2: What you need to answer first
 <div class="c-box-image">
-    <img src="/images/posts/2/Planning_OC_Figure 2.2.png" alt="Figure 2.2">
+    <img src="/images/posts/2/Planning_OC_Figure_2.2.png" alt="Figure 2.2">
 </div>
 
 ### 2.2.2 Why Are You Collecting the Data?
@@ -240,7 +240,7 @@ Figure 2.3: Sample Data Model of Features and Attributes
 
 Figure 2.4: Sample Project Time Frame
 <div class="c-box-image">
-    <img src="/images/posts/2/Figure 2.4 - 2.png" alt="Figure 2.4">
+    <img src="/images/posts/2/Figure_2_4-2.png" alt="Figure 2.4">
  </div>
 
 ## 2.3 Building The Team (staffing)
