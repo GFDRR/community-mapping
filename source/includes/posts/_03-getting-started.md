@@ -1,5 +1,5 @@
 <div class="c-box-image">
-    <img src="/images/posts/3/chapterpic-gettingstarted.png" alt="chapterpic-gettingstarted" />
+    <img src="/images/posts/3/chapterpic-gettingstarted-2.png" alt="chapterpic-gettingstarted" />
 </div>
 
 # Getting Started
@@ -75,7 +75,7 @@ Take the time and care to train the staff thoroughly. Remember that you are esse
 
 ### 3.3.1 Training on Mapping Tools
 
-Basic OpenStreetMap training can take as few as two days. This is a typical amount of time to work through the beginner training material available on <b>learnosm.org</b>. However, learning OSM in depth requires time and plenty of practice. Training should include both classroom time to work through the software step by step and multiple field excursions.
+Basic OpenStreetMap training can take as few as two days. This is a typical amount of time to work through the beginner training material available on <b>[learnosm.org](http://learnosm.org/)</b>. However, learning OSM in depth requires time and plenty of practice. Training should include both classroom time to work through the software step by step and multiple field excursions.
 
 While training core staff, it is a good idea to dedicate at least one week and sometimes two simply to mapping and training. That way, the staff will have plenty of supervised practice before they supervise others. This training period can also overlap with project preparation. Even after training is complete and mappers are doing their job, take care to watch for mistakes and help the mappers continue to learn.
 
@@ -93,7 +93,7 @@ A typical OSM training outline includes the following:
      </ul>
  </div>
 
-These are the main areas to cover when training beginners, but the list can easily be either expanded or shortened, depending on the training needs. For specific training materials, visit <b>learnosm.org</b> and MapGive’s short tutorials (<b>mapgive.state.gov</b>).
+These are the main areas to cover when training beginners, but the list can easily be either expanded or shortened, depending on the training needs. For specific training materials, visit <b>[learnosm.org](http://learnosm.org/)</b> and MapGive’s short tutorials  on <b>[mapgive.state.gov](http://mapgive.state.gov/)</b>.
 
 ### 3.3.2 Training on Surveying
 

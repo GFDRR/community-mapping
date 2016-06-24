@@ -1,12 +1,13 @@
 <div class="c-box-image">
-    <img src="/images/posts/4/chapterpic-implementation.png" alt="chapterpic-implementation"/>
+    <img src="/images/posts/4/chapterpic-implementation-2.png" alt="chapterpic-implementation" />
 </div>
 
 # Implementation and supervision
+
 Now that we’ve discussed the planning stage and project logistics, we will consider the activities that go on during a mapping project. We will discuss the methodology for data collection (known as the data capture strategy), project scheduling and daily workflow, quality control, and reporting.
 
 ## 4.1 Collection the data
-A principal consideration in a mapping project is the data capture strategy. How will your mappers go out each day, collect information, come back to the office, and enter it into the OpenStreetMap database? And how will they do this efficiently and accurately? 
+A principal consideration in a mapping project is the data capture strategy. How will your mappers go out each day, collect information, come back to the office, and enter it into the OpenStreetMap database? And how will they do this efficiently and accurately?
 
 Unfortunately, there is no single recipe for a perfect data capture strategy. There are too many variables: the area being mapped, the data model, the available resources, and so on. Still, we can suggest some methods that have been successful in the past.
 
@@ -18,7 +19,7 @@ Each day, mapping teams will venture into the field carrying clipboards, pens, a
 
 For orientation purposes, you could supply mapping teams with aerial imagery printed in color. This can be a little costly to produce, but especially in dense areas, the imagery can be a great help in locating places on the ground. Alternatively, printed maps will also help teams to orient themselves, particularly if the existing data include street names and significant landmarks.
 
-Once the mappers are oriented in the field—understanding where they are and able to match their locations to positions on their printed imagery and base map—they are ready to start collecting new features. Typically this is done with a combination of Field Papers and survey forms. (As section 2.4 discussed earlier, Field Papers are printed OSM maps that the surveyors can sketch on to draw new features on the map.) 
+Once the mappers are oriented in the field—understanding where they are and able to match their locations to positions on their printed imagery and base map—they are ready to start collecting new features. Typically this is done with a combination of Field Papers and survey forms. (As section 2.4 discussed earlier, Field Papers are printed OSM maps that the surveyors can sketch on to draw new features on the map.)
 
 #### 4.1.1.1 Tracing Imagery
 
@@ -39,13 +40,13 @@ As figure 4.1 shows, you can subdivide your target area in two ways: by creating
 Figure 4.1 Options for Subdividing a Daily Mapping Area
 a. Gridding an area
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1a.png" alt="4-1a"/>
+    <img src="/images/posts/4/4-1-a-2.png" alt="4-1a" />
 </div>
 b. Subdividing an area by natural boundaries, such as blocks bounded by roads
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1b.png" alt="4-1b"/>
+    <img src="/images/posts/4/4-1-b-2.png" alt="4-21b" />
 </div>
-<em>Source: Imagery in panel “a” from Field Papers (http://www.fieldpapers.org) </em>
+<em>Source: Imagery in panel “a” from [Field Papers](http://www.fieldpapers.org)</em>
 
 It is a good idea to divide the target area early in the project. If possible, do this before fieldwork begins, though you will need to have existing road data. Otherwise, you might set aside some time in the first few days for survey teams to simply map all of the roads, which will then make it easier to divide the total area into daily mapping areas.
 
@@ -53,7 +54,7 @@ Once you do this, you will know how many of these “blocks” are in your targe
 
 Figure 4.2 Example of a "Blocked" Target Area in Dhaka, Bangladesh
 <div class="c-box-image">
-    <img src="/images/posts/4/4-2.png" alt="4-2"/>
+    <img src="/images/posts/4/4-2-2.png" alt="4-2" />
 </div>
 <em>Source: OpenStreetMap</em>
 
@@ -62,13 +63,12 @@ How would you manage this workflow? Each morning, you would give each team a blo
 In the afternoon, the teams will return to the office and begin editing. The manager will be there to answer questions about surveying and editing and to ensure that everything gets uploaded to OSM without problems. The next day, the process will repeat, thus ensuring that the target area is mapped in the expected time.
 
 <div class="c-box">
- <span class="box-title"><b>Box 4.1 Mapping Nonadjacent Blocks</b></span>
-   <p>It is recommended that adjacent blocks are not given to different teams to map on the same day. To do so would increase the likelihood of editing conflicts, which occur when two teams try to edit the same features at the same time. The assignment of nonadjacent blocks to each team also allows your mappers to continue mapping if their block takes less time than they expect. For these reasons, it is better to organize daily mapping activities following a checkerboard pattern, as shown in figure B4.1.1. </p>
-   Figure B4.1.1 Sample Mapping of Nonadjacent Squares in Guagua, Pampanga, Philippines
-<div class="c-box-image">
-    <img src="/images/posts/4/B-4-1-1.tif" alt="B4.1.1">
-</div>
-  <em>Source: Data from OpenStreetMap</em>
+    <span class="box-title"><b>Box 4.1 Mapping Nonadjacent Blocks</b></span>
+    <p>It is recommended that adjacent blocks are not given to different teams to map on the same day. To do so would increase the likelihood of editing conflicts, which occur when two teams try to edit the same features at the same time. The assignment of nonadjacent blocks to each team also allows your mappers to continue mapping if their block takes less time than they expect. For these reasons, it is better to organize daily mapping activities following a checkerboard pattern, as shown in figure B4.1.1. </p>
+    Figure B4.1.1 Sample Mapping of Nonadjacent Squares in Guagua, Pampanga, Philippines
+    <div class="c-box-image">
+        <em>Source: Data from OpenStreetMap</em>
+    </div>
 </div>
 
 ### 4.1.3 Collecting Field Data
@@ -77,13 +77,13 @@ Let’s take a closer look at the first half of the mapping job: field data coll
 
 Each mapping team will need to have the necessary mapping materials each day as well as direction about where to map. Exactly which materials each mapping team has will vary based on the resources available and methodology of the project. At a minimum, each mapping team will need the following supplies:
 <div class="c-list">
-     <ul>
-         <li>Field Paper of the day’s area</li>
-         <li>Survey forms (if necessary) for collecting attributes</li>
-         <li>Clipboard to keep papers and write on</li>
-         <li>Pen</li>
-         <li>(Optional) Printed map showing satellite imagery in color for orientation</li>
-     </ul>
+    <ul>
+        <li>Field Paper of the day’s area</li>
+        <li>Survey forms (if necessary) for collecting attributes</li>
+        <li>Clipboard to keep papers and write on</li>
+        <li>Pen</li>
+        <li>(Optional) Printed map showing satellite imagery in color for orientation</li>
+    </ul>
 </div>
 
 With this survey methodology, the idea is to draw features on the Field Paper and mark them with identifying numbers. Then, on a separate sheet of paper, the mappers can write down the attributes of each feature. In the case of detailed surveys, such as a building survey, you may include a form that the mappers can fill out for each building to ensure that they collect all attributes in an orderly fashion.
@@ -104,14 +104,14 @@ It is best to do data entry on the same day as the data collection, or the follo
 Conducting data entry directly after collection and ensuring that the mappers take part in the process will help maintain an efficient and accurate flow of information from the fieldwork into the OSM database. Be sure to keep the mapping forms and Field Papers well organized and filed, however, in case you need to return to them later when you review the data.
 
 <div class="c-box">
- <span class="box-title"><b>Box 4.2 Custom Presets</b></span>
-   <p>During editing, your mappers will most likely be using either the offline JOSM software or the online iD editor. Because you will probably use a custom data model, you will want to add a customized menu to the editing software for adding the specific features that your mappers are collecting. This is done by creating a custom presets file, which implements a menu that makes it easy to attach the correct OSM tags to features.</p>
-   <p>You can read more about creating custom presets here at <b>http://learnosm.org/en/editing/creating-presets/</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>http://visualtags.hotosm.org/.</b></p>
+    <span class="box-title"><b>Box 4.2 Custom Presets</b></span>
+    <p>During editing, your mappers will most likely be using either the offline JOSM software or the online iD editor. Because you will probably use a custom data model, you will want to add a customized menu to the editing software for adding the specific features that your mappers are collecting. This is done by creating a custom presets file, which implements a menu that makes it easy to attach the correct OSM tags to features.</p>
+    <p>You can read more about creating custom presets here at <b>[http://learnosm.org/en/editing/creating-presets/](http://learnosm.org/en/editing/creating-presets/)</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>[http://visualtags.hotosm.org/](http://visualtags.hotosm.org/)</b></p>
 </div>
 
 Figure 4.3 Sample Building Survey Form
 <div class="c-box-image">
-    <img src="/images/posts/4/4-3.png" alt="4-3"/>
+    <img src="/images/posts/4/4-3-2.png" alt="4-3" />
 </div>
 
 ### 4.1.6 Scheduling Project Tasks
@@ -124,15 +124,15 @@ Managers must also make clear schedules for themselves and other mappers during 
 
 Scheduling mapping activities is important for completing the daily work, but care should also be taken to schedule appropriate time for preparing papers and logistics for mappers. For example, if a manager is overseeing four mapping teams, a typical day might look like this:
 <div class="c-list">
-     <ul>
-         <li><b>8–9 a.m.</b> Assign each mapping team to an unclaimed block in the target area. Create and print Field Papers for each team. Get survey forms and put all paperwork into the mapping teams’ binders or clipboards.</li>
-         <li><b>9 a.m.</b> Meet the mapping teams. Explain to each team where their area is and how to get there. Hand out paperwork and send teams to the field.</li>
-         <li><b>9 a.m.–noon</b> Accompany one of the mapping teams to the field to assist them and assess their work.</li>
-         <li><b>Noon–1 p.m.</b> Lunch</li>
-         <li><b>1–4 p.m.</b> Meet mapping teams back at the office and set them up at computers for editing. Help the teams with any questions they have about the editing process. Especially early in a project, review each team’s edits before they upload them to OpenStreetMap. Make a list of common mistakes and explain them to everybody using a projector.</li>
-         <li><b>4–5 p.m.</b> Organize the paperwork from the day and begin preparing for the next day. File the completed survey forms and Field Papers for later reference. Mark the completed areas on the project map. Meet with other managers to discuss any outstanding issues.</li>
-     </ul>
- </div>
+    <ul>
+        <li><b>8–9 a.m.</b> Assign each mapping team to an unclaimed block in the target area. Create and print Field Papers for each team. Get survey forms and put all paperwork into the mapping teams’ binders or clipboards.</li>
+        <li><b>9 a.m.</b> Meet the mapping teams. Explain to each team where their area is and how to get there. Hand out paperwork and send teams to the field.</li>
+        <li><b>9 a.m.–noon</b> Accompany one of the mapping teams to the field to assist them and assess their work.</li>
+        <li><b>Noon–1 p.m.</b> Lunch</li>
+        <li><b>1–4 p.m.</b> Meet mapping teams back at the office and set them up at computers for editing. Help the teams with any questions they have about the editing process. Especially early in a project, review each team’s edits before they upload them to OpenStreetMap. Make a list of common mistakes and explain them to everybody using a projector.</li>
+        <li><b>4–5 p.m.</b> Organize the paperwork from the day and begin preparing for the next day. File the completed survey forms and Field Papers for later reference. Mark the completed areas on the project map. Meet with other managers to discuss any outstanding issues.</li>
+    </ul>
+</div>
 
 ## 4.2 Common challenges
 
@@ -154,34 +154,36 @@ In addition, transportation can drain staff time unexpectedly. Be sure to build 
 
 Mappers who survey every day may tire of it over time. It is physically demanding work and can sometimes feel monotonous. Generally mappers do better work if they maintain their enthusiasm. Finding ways to keep them motivated can aid a great deal—for example, by varying the work on occasion, providing frequent trainings to learn new things, and offering incentives for good work.
 
-## 4.3 Quiality Control
+## 4.3 Quality Control
 
 One of the manager’s primary jobs is to ensure quality control of the data being collected and entered into OpenStreetMap. Quality control involves three principal tasks:
 <div class="c-list">
-     <ul>
-         <li>Daily data checks</li>
-         <li>Resurveying</li>
-         <li>Data analysis</li>
- </div>
+    <ul>
+        <li>Daily data checks</li>
+        <li>Resurveying</li>
+        <li>Data analysis</li>
+    </ul>
+</div>
 
 ### 4.3.1 Daily Data Checks
 
-The most immediate way to ensure quality is by staying in close contact with the mapping teams, keeping track of their edits, and discussing questions and concerns with mappers when they arise. 
+The most immediate way to ensure quality is by staying in close contact with the mapping teams, keeping track of their edits, and discussing questions and concerns with mappers when they arise.
 
 New edits and additions should be reviewed and validated daily or at most weekly. This is an important supervisory task because catching mistakes and bad editing practices early means that they can be corrected and the editors can learn to do things properly. Managers should be highly proficient in the JOSM software, using the validation and search tools to examine project data. (Box 4.3 discusses some of these tools.) Key aspects to review are
 <div class="c-list">
-     <ul>
-         <li><b>Topology</b> errors (such as overlapping buildings or incorrect relations);</li>
-         <li><b>Tagging</b> errors (misspelled tags or misused key-value combinations); and</li>
-         <li><b>Completeness of data</b> (whether all attributes in the data model have been collected).</li>
- </div>
+    <ul>
+        <li><b>Topology</b> errors (such as overlapping buildings or incorrect relations);</li>
+        <li><b>Tagging</b> errors (misspelled tags or misused key-value combinations); and</li>
+        <li><b>Completeness of data</b> (whether all attributes in the data model have been collected).</li>
+    </ul>
+</div>
 
 Managers should always be available during editing hours to answer questions and to check for mistakes. Each day they should review their mappers’ work and discuss any errors with them. They should also review common mistakes using the projector so that everybody may learn and benefit.
 
 <div class="c-box">
  <span class="box-title"><b>Box 4.3 OSM Quality Assurance Tools</b></span>
-   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>[wiki.openstreetmap.org/wiki/Quality_assurance](wiki.openstreetmap.org/wiki/Quality_assurance).</b></p>
- </div>
+   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>[wiki.openstreetmap.org/wiki/Quality_assurance](http://wiki.openstreetmap.org/wiki/Quality_assurance)</b>.</p>
+</div>
 
 ### 4.3.2 Resurveying
 
@@ -192,36 +194,35 @@ The areas selected for resurveying should be randomly selected from different ar
 Quantum GIS. Such software allows for advanced querying and analysis of the data in order to answer question
 such as these:
 <div class="c-list">
-     <ul>
-         <li>What features are missing attribute tags?</li>
-         <li>Where do the values look out of the ordinary?</li>
-         <li>Where are names misspelled?</li>
- </div>
+    <ul>
+        <li>What features are missing attribute tags?</li>
+        <li>Where do the values look out of the ordinary?</li>
+        <li>Where are names misspelled?</li>
+    </ul>
+</div>
 
 More detailed information on quality control and data analysis can be found in HOT’s “Reviewing OSM Data3” document. For more about quality reviews conducted after project completion, refer to the “Scientific communities” entry in table 2.1 on partnership sources.
 
 Resurveying has three main functions:
 <div class="c-list">
-     <ul>
-         <li>It gives your mapping teams the opportunity to check and correct mistakes in their work.</li>
-         <li>It allows managers to find recurring errors that mapping teams make and discuss them with the teams to improve their work in the future.</li>
-         <li>It provides an important metric for project reporting: the percentage of error. A margin of error of 5 percent or less will probably be acceptable, although, of course, you should strive for the greatest accuracy possible.</li>
- </div>
+    <ul>
+        <li>It gives your mapping teams the opportunity to check and correct mistakes in their work.</li>
+        <li>It allows managers to find recurring errors that mapping teams make and discuss them with the teams to improve their work in the future.</li>
+        <li>It provides an important metric for project reporting: the percentage of error. A margin of error of 5 percent or less will probably be acceptable, although, of course, you should strive for the greatest accuracy possible.</li>
+    </ul>
+</div>
 
 ### 4.3.3 Data Analysis
 
-Just as resurveying helps to improve the data collection process, analyzing the data in JOSM improves the editing process. Another way to analyze the data is through GIS analysis, which may benefit both data collection and editing. 
+Just as resurveying helps to improve the data collection process, analyzing the data in JOSM improves the editing process. Another way to analyze the data is through GIS analysis, which may benefit both data collection and editing.
 
-It’s a good idea to regularly (once or twice a month) review the project data in GIS software such as 
+It’s a good idea to regularly (once or twice a month) review the project data in GIS software such as
 
-## 4.4 
-
-
-Reporting
+## 4.4 Reporting
 
 Most mapping projects have a financial backer and partners who will be interested in project reports. Depending on the length of the project, the reports may be issued at various intervals, and they will most certainly include a final project report.
 
-How often should reports be submitted? Of course, this will depend on the donors’ requirements, but for projects of six months or less, a good rule of thumb is to deliver a midterm report and a final report, as well as brief snapshots of mapping progress every two to four weeks. 
+How often should reports be submitted? Of course, this will depend on the donors’ requirements, but for projects of six months or less, a good rule of thumb is to deliver a midterm report and a final report, as well as brief snapshots of mapping progress every two to four weeks.
 
 For longer projects, you may want to deliver midterm reports quarterly.
 
@@ -231,37 +232,44 @@ The more–frequent interim “snapshots” need not be as detailed. The purpose
 
 GIS queries can help you to provide good metrics. These queries can answer questions such as these:
 <div class="c-list">
-     <ul>
-         <li>What percentage of the target area has been mapped?</li>
-         <li>How many buildings have been mapped?</li>
-         <li>What is the average number of buildings a mapping team completes each day?</li>
-         <li>What is the estimated time to completion?</li>
- </div>
+    <ul>
+        <li>What percentage of the target area has been mapped?</li>
+        <li>How many buildings have been mapped?</li>
+        <li>What is the average number of buildings a mapping team completes each day?</li>
+        <li>What is the estimated time to completion?</li>
+    </ul>
+</div>
+
 For a sample project report, see Appendix 6.1.
 
 <div class="c-box">
- <span class="box-title"><b>Box 4.4 Project Implementation Checklist</b></span>
-   <p>During the project implementation phase, the following tasks should be completed:</p>
-   <p><b>Collecting the Data</p></b>
-  <div class="c-list">
-     <ul>
-         <li>Create and print reference maps</li>
-         <li>Divide target area into daily mapping blocks; enumerate and make a statistics spreadsheet, providing each block its own row</li>
-         <li>Create and print survey forms</li>
-         <li>Create and print survey training manual</li>
-         <li>Make daily work schedule</li>
-         <li>Create detailed project implementation schedule</li>
- </div>
- <p><b>Quality Control</b></p>
-  <div class="c-list">
-     <ul>
-         <li>Determine methods to monitor data quality, and include these in both your project schedule and daily schedule</li>
- </div>
- <p><b>Reporting</p></b>
-  <div class="c-list">
-     <ul>
-         <li>Determine the metrics to include in project reports</li>
-         <li>Add tasks to the schedule to ensure that metrics are collected and documented regularly</li>
-         <li>Maintain statistics each day in a spreadsheet</li>
- </div>
- </div>
+    <span class="box-title"><b>Box 4.4 Project Implementation Checklist</b></span>
+    <p>During the project implementation phase, the following tasks should be completed:</p>
+    <p><b>Collecting the Data</p></b>
+    <div class="c-list">
+        <ul>
+            <li>Create and print reference maps</li>
+            <li>Divide target area into daily mapping blocks; enumerate and make a statistics spreadsheet, providing each block its own row</li>
+            <li>Create and print survey forms</li>
+            <li>Create and print survey training manual</li>
+            <li>Make daily work schedule</li>
+            <li>Create detailed project implementation schedule</li>
+        </ul>
+    </div>
+</div>
+
+<p><b>Quality Control</b></p>
+
+<div class="c-list">
+    <ul>
+        <li>Determine methods to monitor data quality, and include these in both your project schedule and daily schedule</li>
+    </ul>
+</div>
+<p><b>Reporting</p></b>
+<div class="c-list">
+    <ul>
+        <li>Determine the metrics to include in project reports</li>
+        <li>Add tasks to the schedule to ensure that metrics are collected and documented regularly</li>
+        <li>Maintain statistics each day in a spreadsheet</li>
+    </ul>
+</div>
