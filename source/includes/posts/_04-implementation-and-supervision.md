@@ -1,5 +1,5 @@
 <div class="c-box-image">
-    <img src="/images/posts/4/chapterpic-implementation.tif" alt="chapterpic-implementation">
+    <img src="/images/posts/4/chapterpic-implementation-2.png" alt="chapterpic-implementation">
   </div>
 
 # Implementation and supervision
@@ -36,18 +36,16 @@ Each day, you will send mapping teams to different parts of the target area. Thu
 
 As figure 4.1 shows, you can subdivide your target area in two ways: by creating a grid or by defining areas with natural boundaries. In terms of preparation time, is easier to use a grid system because you can simply print out a large grid of Field Papers, and assign one paper to each mapping team each day. On the other hand, from a surveying perspective, it makes much more sense to follow existing boundaries such as roads and map everything within a given block. Organizing areas this way may require more preparation but will be more efficient in the long run.
 
- community-mapping/source/images/posts/4/4-2.tif 
-
 Figure 4.1 Options for Subdividing a Daily Mapping Area
 a. Gridding an area
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1a.tif" alt="4-1a">
+    <img src="/images/posts/4/4-1-a-2.png" alt="4-1a">
   </div>
 b. Subdividing an area by natural boundaries, such as blocks bounded by roads
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1b.tif" alt="4-21b">
+    <img src="/images/posts/4/4-1-b-2.png" alt="4-21b">
   </div>
-<em>Source: Imagery in panel “a” from Field Papers (http://www.fieldpapers.org) </em>
+<em>Source: Imagery in panel “a” from [Field Papers](http://www.fieldpapers.org)</em>
 
 It is a good idea to divide the target area early in the project. If possible, do this before fieldwork begins, though you will need to have existing road data. Otherwise, you might set aside some time in the first few days for survey teams to simply map all of the roads, which will then make it easier to divide the total area into daily mapping areas.
 
@@ -55,7 +53,7 @@ Once you do this, you will know how many of these “blocks” are in your targe
 
 Figure 4.2 Example of a "Blocked" Target Area in Dhaka, Bangladesh
 <div class="c-box-image">
-    <img src="/images/posts/4/4-2.tif" alt="4-2">
+    <img src="/images/posts/4/4-2-2.png" alt="4-2">
   </div>
 <em>Source: OpenStreetMap</em>
 
@@ -68,7 +66,7 @@ In the afternoon, the teams will return to the office and begin editing. The man
    <p>It is recommended that adjacent blocks are not given to different teams to map on the same day. To do so would increase the likelihood of editing conflicts, which occur when two teams try to edit the same features at the same time. The assignment of nonadjacent blocks to each team also allows your mappers to continue mapping if their block takes less time than they expect. For these reasons, it is better to organize daily mapping activities following a checkerboard pattern, as shown in figure B4.1.1. </p>
    Figure B4.1.1 Sample Mapping of Nonadjacent Squares in Guagua, Pampanga, Philippines
 <div class="c-box-image">
-    <img src="/images/posts/4/B-4-1-1.tif" alt="B4.1.1">
+    <img src="/images/posts/4/B-4-1-1-2.png" alt="B4.1.1">
   </div>
   <em>Source: Data from OpenStreetMap</em>
  </div>
@@ -108,12 +106,12 @@ Conducting data entry directly after collection and ensuring that the mappers ta
 <div class="c-box">
  <span class="box-title"><b>Box 4.2 Custom Presets</b></span>
    <p>During editing, your mappers will most likely be using either the offline JOSM software or the online iD editor. Because you will probably use a custom data model, you will want to add a customized menu to the editing software for adding the specific features that your mappers are collecting. This is done by creating a custom presets file, which implements a menu that makes it easy to attach the correct OSM tags to features.</p>
-   <p>You can read more about creating custom presets here at <b>http://learnosm.org/en/editing/creating-presets/</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>http://visualtags.hotosm.org/.</b></p>
+   <p>You can read more about creating custom presets here at <b>[http://learnosm.org/en/editing/creating-presets/](http://learnosm.org/en/editing/creating-presets/)</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>[http://visualtags.hotosm.org/](http://visualtags.hotosm.org/)</b></p>
  </div>
 
 Figure 4.3 Sample Building Survey Form
 <div class="c-box-image">
-    <img src="/images/posts/4/4-3.tif" alt="4-3">
+    <img src="/images/posts/4/4-3-2.png" alt="4-3">
   </div>
 
 ### Scheduling Project Tasks
@@ -182,7 +180,7 @@ Managers should always be available during editing hours to answer questions and
 
 <div class="c-box">
  <span class="box-title"><b>Box 4.3 OSM Quality Assurance Tools</b></span>
-   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>wiki.openstreetmap.org/wiki/Quality_assurance.</b></p>
+   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>[wiki.openstreetmap.org/wiki/Quality_assurance](http://wiki.openstreetmap.org/wiki/Quality_assurance)</b>.</p>
  </div>
 
 ### Resurveying
