@@ -69,10 +69,11 @@ There are several ways to get in touch with OSM mappers:
 
 <ul>
     <li>E-mail lists. In many countries, the mappers commu- nicate through dedicated e-mail lists. You can find such lists at
-   [lists.openstreetmap.org](https://lists.openstreetmap.org/listinfo).</li>
+    <a href="https://lists.openstreetmap.org/listinfo" target="_blank">lists.openstreetmap.org</a></li>
     <li>Facebook. In some places, the OSM communities have chosen to communicate using Facebook groups. Therefore, you should search Facebook to find out whether there is a local group for OSM contributors in the areas you plan to map.</li>
-    <li>Wiki pages or sites. It is important to check the status of mapping in certain areas by visiting the OSM Wiki site, starting with the main page at [http://wiki.openstreetmap.org/wiki/Main_Page](http://wiki.openstreetmap.org/wiki/Main_Page). Most countries have at least one dedicated page to the status of the project.</li>
-    <li>The “Neis One!” blog. Another useful starting point for connecting with the OSM community is Pascal Neis’s blog at [neis-one.org](http://neis-one.org), which provides tools that show which users are actively mapping in certain areas.</li>
+    <li>Wiki pages or sites. It is important to check the status of mapping in certain areas by visiting the OSM Wiki site, starting with the main page at <a href="http://wiki.openstreetmap.org/wiki/Main_Page" target="_blank">http://wiki.openstreetmap.org/wiki/Main_Page</a>. Most countries have at least one dedicated page to the status of the project.</li>
+    <li>The “Neis One!” blog. Another useful starting point for connecting with the OSM community is Pascal Neis’s blog at
+    <a href="http://neis-one.org" target="_blank">neis-one.org</a>, which provides tools that show which users are actively mapping in certain areas.</li>
 </ul>
 
 #### 2.1.2.3 Other Groups
@@ -113,7 +114,8 @@ The first step of Open Cities project planning is to clearly de ne the objective
         </tr>
         <tr>
             <td>Technical communities</td>
-            <td>Open-source software communities (user groups and private companies) are often closely linked with OSM communities. Freelance software developers, geographic information system (GIS) specialists, and private software companies may be interested in providing software that assists the project as well as services for the community. The technical community also can share its collective professional expertise when hosting a skills workshop, and service providers can rent of ce space or equipment. For example, the widespread Open Source Geospatial Foundation (OSGeo, at [osgeo.org](http://www.osgeo.org)) is closely related to OpenStreetMap.</td>
+            <td>Open-source software communities (user groups and private companies) are often closely linked with OSM communities. Freelance software developers, geographic information system (GIS) specialists, and private software companies may be interested in providing software that assists the project as well as services for the community. The technical community also can share its collective professional expertise when hosting a skills workshop, and service providers can rent of ce space or equipment. For example, the widespread Open Source Geospatial Foundation (OSGeo, at
+            <a href="http://www.osgeo.org" target="_blank">osgeo.org</a>) is closely related to OpenStreetMap.</td>
         </tr>
         <tr>
             <td>Civil society organizations</td>
@@ -288,7 +290,8 @@ Good managers also maintain strong communication with their mappers and should o
   <p>What is the OSM Community? OpenStreetMap is a collaborative project involving hundreds of thousands of users and contributors, and the “OSM community” comprises those active members who continually participate by adding to or updating the map.</p>
   <p>Each country has what might be called its own community, a group of users who communicate, plan activities, and work together to improve the map. And each country’s community is also connected to the larger global OSM user base. Because an Open Cities project uses the OSM platform, it is automatically engaged in this community. Section 2.2.2.2 earlier provided more information about engaging the local OSM community.</p>
   <p>Most OpenStreetMap users go out and contribute to the map bit by bit, so they should be consulted before importing their data. The import might overwrite the work of other mappers who have actually conducted field surveys. You must also send an e-mail to <b>imports@openstreetmap.org</b> and let them know what you are planning. Ensuring that they are aware and supportive of the process before any importing takes place can save a lot of time explaining or reverting the changes after the fact.</p>
-  <p>For a complete description of the steps to be taken for an OSM import, view this OSM Wiki page: <b>[http://wiki.openstreetmap.org/wiki/Import/Guidelines](http://wiki.openstreetmap.org/wiki/Import/Guidelines)</b>.</p>
+  <p>For a complete description of the steps to be taken for an OSM import, view this OSM Wiki page: <b><a href="http://wiki.openstreetmap.org/wiki/Import/Guidelines" target="_blank">http://wiki.openstreetmap.org/wiki/Import/Guidelines</a></b>.
+  </p>
 </div>
 
 ### 2.3.2 Finding Mappers and Surveyors

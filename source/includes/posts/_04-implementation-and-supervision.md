@@ -106,7 +106,11 @@ Conducting data entry directly after collection and ensuring that the mappers ta
 <div class="c-box">
     <span class="box-title"><b>Box 4.2 Custom Presets</b></span>
     <p>During editing, your mappers will most likely be using either the offline JOSM software or the online iD editor. Because you will probably use a custom data model, you will want to add a customized menu to the editing software for adding the specific features that your mappers are collecting. This is done by creating a custom presets file, which implements a menu that makes it easy to attach the correct OSM tags to features.</p>
-    <p>You can read more about creating custom presets here at <b>[http://learnosm.org/en/editing/creating-presets/](http://learnosm.org/en/editing/creating-presets/)</b>. HOT has created an easy-to-use visual editor for creating presets files, available at <b>[http://visualtags.hotosm.org/](http://visualtags.hotosm.org/)</b></p>
+
+    <p>You can read more about creating custom presets here at
+    <b><a href="http://learnosm.org/en/editing/creating-presets/" target="_blank">http://learnosm.org/en/editing/creating-presets/</a></b>.
+    HOT has created an easy-to-use visual editor for creating presets files, available at
+    <b><a href="http://visualtags.hotosm.org/" target="_blank">http://visualtags.hotosm.org/</a></b>
 </div>
 
 Figure 4.3 Sample Building Survey Form
@@ -181,8 +185,9 @@ New edits and additions should be reviewed and validated daily or at most weekly
 Managers should always be available during editing hours to answer questions and to check for mistakes. Each day they should review their mappers’ work and discuss any errors with them. They should also review common mistakes using the projector so that everybody may learn and benefit.
 
 <div class="c-box">
- <span class="box-title"><b>Box 4.3 OSM Quality Assurance Tools</b></span>
-   <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b>keepright.at</b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit <b>[wiki.openstreetmap.org/wiki/Quality_assurance](http://wiki.openstreetmap.org/wiki/Quality_assurance)</b>.</p>
+    <span class="box-title"><b>Box 4.3 OSM Quality Assurance Tools</b></span>
+    <p>Many tools can help OSM users check for errors in the data. The JOSM validation tool allows you to run an analysis and check for errors before uploading changes. An online tool called KeepRight (<b><a href="http://keepright.at/" target="_blank">keepright.at</a></b>) provides similar analysis and can help you find and correct mistakes. For a complete, up-to-date list of OSM quality assurance tools, visit
+    <b><a href="wiki.openstreetmap.org/wiki/Quality_assurance" target="_blank">wiki.openstreetmap.org/wiki/Quality_assurance</a></b>
 </div>
 
 ### 4.3.2 Resurveying
