@@ -5,7 +5,13 @@
 	margin: 0 -45px;
   padding: 10px 0 10px 45px;
 
-  background-color: $grey-two;
+  background-color: #f2f2f2;
+
+  @media screen and (min-width: $screen-l) {
+    background-color: $grey-two;  
+  }
+
+
 
   &:before {
     content: '';
