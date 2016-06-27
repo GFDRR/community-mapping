@@ -1,8 +1,5 @@
 body {
   font-family: $font-family-1;
-  color: $font-color-1;
-  -webkit-font-smoothing: antialiased;
-  background: $site-color-3;
 }
 
 .scroll-wrapper {
@@ -18,7 +15,7 @@ body {
 }
 
 .page-wrapper {
-  background-color: $white;
+  background-color: $site-color-5;
 }
 
 a {

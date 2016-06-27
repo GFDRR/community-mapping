@@ -1,8 +1,8 @@
 .m-navigation-bar {
   position: relative;
   padding: 15px 45px 25px 30px;
-  color: $white;
-  border-bottom: 3px solid $site-color-2;
+
+  border-bottom: 2px solid $border-02;
 
   .tocify-header {
     margin: 20px 0;
@@ -24,10 +24,17 @@
           height: 28px;
           background-color: $site-color-2;
         }
+
+        > a {
+          color: $font-color-4;
+        }
       }
 
       > a {
         padding: 0;
+
+        font-size: 12px;
+        color: $font-color-1;
       }
     }
 
