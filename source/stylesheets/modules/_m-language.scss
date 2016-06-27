@@ -1,16 +1,18 @@
 .m-language {
   position: relative;
-	background-color: rgba($white, .1);
+  overflow: hidden;
+
 	margin: 0 -45px;
   padding: 10px 0 10px 45px;
-  opacity: .7;
-  overflow: hidden;
+
+  background-color: $grey-two;
 
   &:before {
     content: '';
-    @include arrow('right', 8px, 2px, $white, 135deg);
+    @include arrow('right', 8px, 2px, $font-color-1, 135deg);
     top: calc(50% - 2px);
     right: 47px;
+
     transform: translate(0, -50%) rotate(135deg);
     pointer-events: none;
   }
@@ -19,23 +21,29 @@
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    border: 0;
-    outline: 0;
+
     width: 100%;
-    background-color: transparent;
+
     font-family: 'Helvetica', serif;
     font-size: 13px;
     font-weight: 400;
     line-height: 17px;
     letter-spacing: .5px;
-    color: $font-color-4;
+    color: $font-color-1;
+    text-transform: uppercase;
+    font-weight: 700;
+
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+
     // IE 11 Styles
     &::-ms-expand {
       display: none;
     }
 
-    > option {
-      color: $font-color-1;
-    }
+    // > option {
+    //   color: $font-color-1;
+    // }
   }
 }

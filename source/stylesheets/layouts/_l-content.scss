@@ -1,36 +1,41 @@
 .content {
 	max-width: 730px;
-  font-family: $font-family-1;
   margin-top: 50px;
   padding: 75px 10px 50px 10px;
 
+  font-family: $font-family-1;
+
+  background-color: $site-color-3;
+  box-shadow: 0 1px 7px 0 rgba(0, 0, 0, .1);
+
   h1, h2, h3, h4, h5, h6 {
+    margin: 0;
     padding: 0;
-    text-transform: uppercase;
+    border: 0;
+
+    font-family: $font-family-2;
   }
 
-  h1, h2 {
-    font-family: $font-family-2;
+  h2, h3 {
+    color: $font-color-3;
+  }
+
+  h3, h4 {
+    font-size: 19px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: .6px;
   }
 
   h1 {
     position: relative;
+    margin: 20px 0;
+
     font-size: 24px;
-    font-weight: 300;
+    font-weight: 400;
+    text-transform: none;
+
     background: none;
-    border: 0;
-    &:before {
-      content: '';
-      position: absolute;
-      top: -25px;
-      left: 0;
-      width: 153px;
-      height: 8px;
-      background-color: $site-color-2;
-    }
-    & + div + h2 {
-      margin: 20px 0;
-    }
 
     @media screen and (min-width: $screen-m) {
       font-size: 48px;
@@ -38,24 +43,15 @@
   }
 
   h2 {
-    margin: 0;
-    font-size: 17px;
-    color: $font-color-3;
-    font-weight: 700;
-    letter-spacing: .6px;
-    border: 0;
+    margin: 30px 0 20px 0;
+
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 1.1px;
   }
 
-  h3, h4 {
-    font-size: 15px;
-    line-height: 23px;
-    letter-spacing: .3px;
-  }
-
-  h4 {
-    color: $font-color-3;
-    font-weight: 700;
-    text-transform: none;
+  h3 {
+     margin-top: 30px;
   }
 
   p {

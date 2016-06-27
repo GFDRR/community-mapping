@@ -4,9 +4,12 @@
   top: 0;
   left: 0;
   right: 0;
+
+  width: calc(100% - 3px);
+
   padding-left: 15px;
-  background-size: cover;
-  background-image: url($logo-bg);
+
+  background-color: $site-color-5;
 
 	> p {
     display: inline-block;
@@ -17,7 +20,7 @@
 		font-weight: 300;
 		text-transform: uppercase;
     letter-spacing: .8px;
-		color: $white;
+		color: $font-color-1;
 	}
 
   @media screen and (min-width: $screen-m) {

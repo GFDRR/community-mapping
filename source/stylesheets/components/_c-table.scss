@@ -2,11 +2,11 @@
   width: 100%;
   > table {
     width: 100%;
-    border: 1px solid $light-grey;
+    border: 1px solid $dandelion;
 
     thead > tr {
       th {
-        background-color: transparent !important;
+        background-color: rgba($dandelion, .2) !important;
         border: 0;
       }
     }
@@ -14,12 +14,12 @@
     tbody > tr {
       &:nth-child(odd) {
         > td {
-          background-color: rgba(230, 223, 215, 0.1);
+          background-color: rgba($dandelion, .1);
         }
       }
       &:nth-child(even) {
         > td {
-          background-color: rgba(230, 223, 215, 0.3)
+          background-color: rgba($dandelion, .2);
         }
       }
     }
@@ -38,24 +38,24 @@
     tbody > tr {
       > td {
         display: block;
-        border-right: 1px solid $light-grey;
+        // border: 1px solid $dandelion;
         margin-right: -1px;
 
         &:first-child {
           display: table-cell;
           min-width: 100px;
-          border-top: 1px solid $light-grey;
+          // border-top: 1px solid $dandelion;
           border-right: 0;
           background-color: transparent;
         }
         &:nth-child(2) {
-          border-top: 1px solid $light-grey;
+          // border-top: 1px solid $dandelion;
         }
         &:nth-child(odd) {
-          background-color: rgba(230, 223, 215, 0.1);
+          background-color: rgba($dandelion, .1);
         }
         &:nth-child(even) {
-          background-color: rgba(230, 223, 215, 0.3)
+          background-color: rgba($dandelion, .2);
         }
       }
     }
@@ -72,16 +72,16 @@
           td {
             display: block !important;
             &:first-child {
-              border-top: 1px solid $light-grey;
+              border-top: 1px solid $dandelion;
             }
             &:nth-child(2) {
               border-top: 0;
             }
             &:nth-child(odd) {
-              background-color: rgba(230, 223, 215, 0.1);
+              background-color: rgba($dandelion, .1);
             }
             &:nth-child(even) {
-              background-color: rgba(230, 223, 215, 0.3)
+              background-color: rgba($dandelion, .2);
             }
           }
         }
