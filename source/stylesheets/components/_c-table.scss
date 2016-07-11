@@ -2,17 +2,17 @@
   width: 100%;
   > table {
     width: 100%;
-    border: 1px solid $light-grey;
+    border: 1px solid #cbcbcb;
 
     tbody > tr {
       &:nth-child(odd) {
         > td {
-          background-color: rgba(230, 223, 215, .1);
+          background-color: #f8f8f8;
         }
       }
       &:nth-child(even) {
         > td {
-          background-color: rgba(230, 223, 215, .3);
+          background-color: #f0f0f0;
         }
       }
     }
@@ -37,7 +37,7 @@
 
       > td {
         display: block;
-        border: 1px solid $light-grey;
+        border: 1px solid #cbcbcb;
         margin-right: -1px;
         border-bottom: 0;
 
@@ -45,14 +45,14 @@
           display: table-cell;
           min-width: 100px;
           border: 0;
-          border-top: 1px solid $light-grey;
+          border-top: 1px solid #cbcbcb;
           background-color: transparent;
         }
         &:nth-child(odd) {
-          background-color: rgba(230, 223, 215, .1);
+          background-color: #f8f8f8;
         }
         &:nth-child(even) {
-          background-color: rgba(230, 223, 215, .3);
+          background-color: #f0f0f0;
         }
       }
     }
