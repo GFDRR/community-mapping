@@ -1,43 +1,45 @@
 .c-brand {
-  z-index: -1;
   position: fixed;
+  z-index: -1;
   top: 0;
   left: 0;
   right: 0;
 
-  width: calc(100% - 3px);
+  // max-width: $page-max-width;
 
-  padding-left: 15px;
+  > .wrap {
+    position: relative;
 
-  background-color: $site-color-5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
-	> p {
+    padding: 15px 20px 15px calc(30px + 20px);
+
+    @media screen and (min-width: $screen-l) {
+      padding: 15px 40px;
+    }
+  }
+
+  background: url($logo-bg);
+
+	.site-title {
+    flex-basis: 50%;
     display: inline-block;
-    max-width: 100%;
 		margin: 0;
-		padding: 15px 30px;
+
     font-size: 17px;
 		font-weight: 300;
 		text-transform: uppercase;
     letter-spacing: .8px;
-		color: $font-color-1;
+		color: $font-color-4;
+
+    @media screen and (min-width: $screen-m) {
+      flex-basis: 80%;
+    }
+
+    @media screen and (min-width: $screen-l) {
+      font-size: 22px;
+    }
 	}
-
-  @media screen and (min-width: $screen-m) {
-    > p {
-      max-width: 100%;
-      font-size: 25px;
-    }
-  }
-
-  @media screen and (min-width: $screen-l) {
-    position: relative;
-    padding: 0;
-    > p {
-      max-width: 75%;
-      padding: 25px;
-      font-size: 30px;
-      letter-spacing: 1.5px;
-    }
-  }
 }

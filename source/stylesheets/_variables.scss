@@ -26,7 +26,7 @@ $white: #fff;
 $black: #252525;
 $greyish-brown: #555;
 $light-grey: #e6ded7;
-$water-blue: #2475af;
+$green: #537e5a;
 $cherry: #db0033;
 $dandelion: #ffe500;
 $grey: #f0f0f0;
@@ -34,17 +34,17 @@ $grey-two: #e0e0e0;
 
 // Site colors
 $site-color-1: $black;
-$site-color-2: $water-blue;
+$site-color-2: $green;
 $site-color-3: $white;
 $site-color-4: $cherry;
-$site-color-5: $grey;
+$site-color-5: $light-grey;
 
 // Typography settings
 $font-family-1: 'Helvetica', 'Arial', sans-serif;
 $font-family-2: 'Bariol';
 $font-color-1: $greyish-brown;
 $font-color-2: $black;
-$font-color-3: $water-blue;
+$font-color-3: $green;
 $font-color-4: $white;
 $paragraph-margin: 15px;
 
@@ -61,7 +61,7 @@ $lang-select-border: #000;
 $lang-select-bg: #222;
 $lang-select-active-bg: $examples-bg; // feel free to change this to blue or something
 $lang-select-pressed-bg: #111; // color of language tab bg when mouse is pressed
-$main-bg: $site-color-5;
+$main-bg: #f0f0f0;
 $aside-notice-bg: #8fbcd4;
 $aside-warning-bg: #c97a7e;
 $aside-success-bg: #6ac174;
@@ -69,7 +69,8 @@ $search-notice-bg: #c97a7e;
 
 
 // Others
-$logo-bg: '/images/bg-map.jpg';
+$logo-bg: '../images/bg-map.jpg';
+$page-max-width: 1156px;
 
 // borders
 $border-01: $dandelion;
