@@ -41,10 +41,13 @@ under the License.
   <body class="<%= page_classes %>" data-languages="<%=h language_tabs.map{ |lang| lang.is_a?(Hash) ? lang.keys.first : lang }.to_json %>">
     <div class="tocify-wrapper m-index">
       <div class="c-brand">
-        <a href="#" id="nav-button" class="btn -menu">
-          <span>menu</span>
-        </a>
-        <p>Planning a mapping project with openstreetmap</p>
+        <div class="wrap">
+          <a href="#" id="nav-button" class="btn -menu">
+            <span>menu</span>
+          </a>
+          <p class="site-title">Planning a mapping project with openstreetmap</p>
+          <a href="download/planning-an-open-cities-mapping-project.pdf" download="planning-an-open-cities-mapping-project.pdf" class="btn -white">Download PDF</a>
+        </div>
       </div>
       <% if language_tabs %>
         <div class="lang-selector">
@@ -86,6 +89,5 @@ under the License.
       </div>
     </div>
     <script src="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
-
   </body>
 </html>

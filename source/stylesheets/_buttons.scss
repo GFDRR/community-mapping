@@ -1,18 +1,21 @@
 .btn {
   padding: 8px 15px;
 
-
   font-family: 'Bariol';
   font-size: 15px;
   font-weight: 700;
-  color: $font-color-4;
   text-transform: uppercase;
 
   border: 0;
-  background-color: $site-color-4;
 
-  &:hover {
-    text-decoration: none !important;
+  &.-white {
+    color: $font-color-3;
+
+    background-color: $site-color-3;
+
+    &:hover {
+      background-color: darken($site-color-3, 10);
+    }
   }
 }
 

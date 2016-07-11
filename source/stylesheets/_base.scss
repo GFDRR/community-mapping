@@ -1,4 +1,6 @@
 body {
+  max-width: $page-max-width;
+
   font-family: $font-family-1;
 }
 
@@ -9,20 +11,17 @@ body {
   height: 100%;
   -webkit-overflow-scrolling: touch;
   background-color: $site-color-3;
-  box-shadow: 0 1px 7px 0 rgba(0, 0, 0, .1);
 
   @media screen and (min-width: $screen-l) {
     height: calc(100% - 190px);
+
+    background-color: transparent;
   }
 }
 
-.page-wrapper {
-  background-color: $site-color-5;
-}
-
 a {
-  text-decoration: none;
+  text-decoration: none !important;
   &:hover {
-    text-decoration: none;
+    text-decoration: none !important;
   }
 }
