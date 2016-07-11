@@ -1,4 +1,6 @@
 body {
+  max-width: $page-max-width;
+
   font-family: $font-family-1;
 }
 
@@ -13,19 +15,14 @@ body {
 
   @media screen and (min-width: $screen-l) {
     height: calc(100% - 190px);
-    padding-top: 0;
 
     background-color: transparent;
   }
 }
 
-.page-wrapper {
-  background-color: $site-color-5;
-}
-
 a {
-  text-decoration: none;
+  text-decoration: none !important;
   &:hover {
-    text-decoration: none;
+    text-decoration: none !important;
   }
 }

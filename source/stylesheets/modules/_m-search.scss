@@ -1,4 +1,9 @@
 .m-search {
+
+  > input {
+    border-color: rgba(51, 51, 51, .1) !important;
+  }
+
 	&.search {
 		&:before {
 			z-index: 2;
@@ -42,10 +47,6 @@
         > a{
           font-weight: 400;
           color: $font-color-1;
-
-          &:hover {
-            text-decoration: none;
-          }
         }
       }
     }

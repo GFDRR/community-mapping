@@ -1,7 +1,9 @@
 .content {
+  position: relative;
+  top: 90px;
+
 	max-width: 730px;
-  margin-top: 50px;
-  padding: 75px 10px 50px 10px;
+  padding: 35px 10px;
 
   font-family: $font-family-1;
 
@@ -67,9 +69,20 @@
     text-decoration: underline;
   }
 
-  @media screen and (min-width: $screen-m) {
-    padding: 85px 30px 50px 30px;
+  @media screen and (min-width: 639px) {
+    top: 70px;
   }
+
+  @media screen and (min-width: $screen-m) {
+    top: 65px;
+
+    padding: 55px 30px;
+  }
+
+  @media screen and (min-width: $screen-l) {
+    top: 100px;
+  }
+
 
   // iPad
   @media only screen
@@ -86,10 +99,5 @@
     and (orientation: portrait)
     and (-webkit-min-device-pixel-ratio: 2) {
       margin-top: 60px;
-  }
-
-  @media screen and (min-width: $screen-l) {
-    margin: 0;
-    padding: 50px;
   }
 }

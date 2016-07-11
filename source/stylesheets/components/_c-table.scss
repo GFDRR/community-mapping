@@ -2,24 +2,17 @@
   width: 100%;
   > table {
     width: 100%;
-    border: 1px solid $dandelion;
-
-    thead > tr {
-      th {
-        background-color: rgba($dandelion, .2) !important;
-        border: 0;
-      }
-    }
+    border: 1px solid $light-grey;
 
     tbody > tr {
       &:nth-child(odd) {
         > td {
-          background-color: rgba($dandelion, .1);
+          background-color: rgba(230, 223, 215, .1);
         }
       }
       &:nth-child(even) {
         > td {
-          background-color: rgba($dandelion, .2);
+          background-color: rgba(230, 223, 215, .3);
         }
       }
     }
@@ -34,28 +27,32 @@
     table {
       border-collapse: separate;
     }
+    thead > tr {
+      > th {
+        border-bottom: 0;
+      }
+    }
 
     tbody > tr {
+
       > td {
         display: block;
-        // border: 1px solid $dandelion;
+        border: 1px solid $light-grey;
         margin-right: -1px;
+        border-bottom: 0;
 
         &:first-child {
           display: table-cell;
           min-width: 100px;
-          // border-top: 1px solid $dandelion;
-          border-right: 0;
+          border: 0;
+          border-top: 1px solid $light-grey;
           background-color: transparent;
         }
-        &:nth-child(2) {
-          // border-top: 1px solid $dandelion;
-        }
         &:nth-child(odd) {
-          background-color: rgba($dandelion, .1);
+          background-color: rgba(230, 223, 215, .1);
         }
         &:nth-child(even) {
-          background-color: rgba($dandelion, .2);
+          background-color: rgba(230, 223, 215, .3);
         }
       }
     }
@@ -71,17 +68,9 @@
         tbody tr{
           td {
             display: block !important;
-            &:first-child {
-              border-top: 1px solid $dandelion;
-            }
+
             &:nth-child(2) {
               border-top: 0;
-            }
-            &:nth-child(odd) {
-              background-color: rgba($dandelion, .1);
-            }
-            &:nth-child(even) {
-              background-color: rgba($dandelion, .2);
             }
           }
         }

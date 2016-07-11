@@ -1,5 +1,5 @@
 .m-index {
-  top: 70px;
+  top: 110px;
   overflow: visible;
 
   .toc-footer {
@@ -7,15 +7,16 @@
     border-top: 0;
     margin: 0;
     > li {
+      overflow-x: visible;
+
       padding: 0;
       white-space: normal;
-      overflow-x: visible;
       p {
-        font-size: 12px;
-        color: $font-color-1;
+        font-size: 13px;
+        color: rgb(166,166,166);
 
         a {
-          color: $font-color-3;
+          color: $font-color-1;
         }
       }
     }
@@ -25,20 +26,28 @@
     opacity: .3;
   }
 
-  @media screen and (min-width: 575px) {
-    top: 50px
+  @media screen and (min-width: 466px) {
+    top: 90px;
   }
 
+  @media screen and (min-width: 639px) {
+    top: 70px;
+  }
+
+  @media screen and (min-width: 768px) {
+    top: 65px;
+  }
+
+  @media screen and (min-width: $screen-l) {
+    top: 100px;
+  }
+
+  // iPad
   @media only screen
     and (min-device-width: 768px)
     and (max-device-width: 1024px)
     and (orientation: portrait)
     and (-webkit-min-device-pixel-ratio: 2) {
       padding-top: 50px;
-  }
-
-  @media screen and (min-width: $screen-l) {
-    padding: 0;
-    top: 0;
   }
 }
