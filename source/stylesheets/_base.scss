@@ -14,8 +14,8 @@ body {
   background-color: $site-color-3;
 
   @media screen and (min-width: $screen-l) {
-    height: calc(100% - 190px);
-
+    // height: calc(100% - 190px);
+    
     background-color: transparent;
   }
 }
