@@ -37,10 +37,6 @@ Leveraging robust, accurate data to improve urban planning and disaster risk man
 
 ## 1.2 Rationale for the Open Cities Project
 
-<div class="c-box-image">
-  <img src="/images/posts/introduction/chapterpic-intro-2.png" alt="chapterpic-intro">
-</div>
-
 South Asia is one of the most rapidly urbanizing regions in the world. A deep understanding of the built environ- ment is critical to providing relevant services, managing urban growth, and visualizing disaster risk in this context. For example, good characterization of the built environment allows urban planners, engineers, and policy makers to plan for and design appropriate trans- portation systems and adequate water supply systems; to estimate the population distribution of cities; attempt to manage urban sprawl; and to identify potential sites for parks and public services. In addition, growing popu- lations, unplanned settlements, and unsafe building practices all increase disaster risk.
 
 As urban populations and vulnerability grow, manag- ing urban growth in a way that fosters cities’ resilience to natural hazards and the impacts of climate change becomes an ever-greater challenge that requires detailed, up-to-date geographic data of the built environment.
