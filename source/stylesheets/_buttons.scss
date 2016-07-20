@@ -17,6 +17,16 @@
       background-color: darken($site-color-3, 10);
     }
   }
+
+  &.-black {
+    color: $font-color-4;
+
+    background-color: $site-color-1;
+
+    &:hover {
+      background-color: lighten($site-color-1, 10);
+    }
+  }
 }
 
 #nav-button {

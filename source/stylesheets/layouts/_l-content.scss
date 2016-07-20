@@ -1,6 +1,6 @@
 .content {
   position: relative;
-  top: 90px;
+  top: 35px;
 
 	max-width: 730px;
   padding: 35px 10px;
@@ -33,15 +33,11 @@
     position: relative;
     margin: 20px 0;
 
-    font-size: 24px;
+    font-size: 48px;
     font-weight: 400;
     text-transform: none;
 
     background: none;
-
-    @media screen and (min-width: $screen-m) {
-      font-size: 48px;
-    }
   }
 
   h2 {
@@ -67,22 +63,12 @@
   a {
     color: $font-color-3;
     text-decoration: underline;
-  }
-
-  @media screen and (min-width: 639px) {
-    top: 70px;
+    word-wrap: break-word;
   }
 
   @media screen and (min-width: $screen-m) {
-    top: 65px;
-
     padding: 55px 30px;
   }
-
-  @media screen and (min-width: $screen-l) {
-    top: 100px;
-  }
-
 
   // iPad
   @media only screen

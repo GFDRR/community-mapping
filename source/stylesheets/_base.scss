@@ -1,5 +1,11 @@
 body {
-  max-width: $page-max-width;
+  // max-width: $page-max-width;
+
+  padding-top: 90px;
+
+  @media screen and (min-width: 639px) {
+    padding-top: 65px;
+  }
 
   font-family: $font-family-1;
 }
@@ -9,13 +15,11 @@ body {
   position: relative;
   overflow: auto;
   height: 100%;
-  // padding-top: 35px;
+
   -webkit-overflow-scrolling: touch;
   background-color: $site-color-3;
 
   @media screen and (min-width: $screen-l) {
-    // height: calc(100% - 190px);
-    
     background-color: transparent;
   }
 }

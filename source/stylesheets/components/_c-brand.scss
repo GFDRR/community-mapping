@@ -3,9 +3,11 @@
   z-index: -1;
   top: 0;
   left: 0;
-  right: 0;
 
-  // max-width: $page-max-width;
+  width: 100%;
+
+  background-color: $site-color-2;
+  background: url($logo-bg);
 
   > .wrap {
     position: relative;
@@ -21,10 +23,10 @@
     }
   }
 
-  background: url($logo-bg);
+
 
 	.site-title {
-    flex-basis: 50%;
+
     display: inline-block;
 		margin: 0;
 
@@ -39,7 +41,20 @@
     }
 
     @media screen and (min-width: $screen-l) {
+      flex-basis: 75%;
+
       font-size: 22px;
     }
 	}
+
+  .btn {
+    display: none;
+
+    @media screen and (min-width: $screen-l) {
+      display: inline-block;
+    }
+  }
+
+
+
 }

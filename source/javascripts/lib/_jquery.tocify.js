@@ -1021,9 +1021,9 @@
                   scroll;
 
                 if (width >= 980) {
-                  scroll = $('div[data-unique="' + elem.attr("data-unique") + '"]').next().offset().top - ($.isFunction(scrollTo) ? scrollTo.call() : scrollTo) + "px"
+                  scroll = $('div[data-unique="' + elem.attr("data-unique") + '"]').next().offset().top - ($.isFunction(scrollTo) ? scrollTo.call() : scrollTo + 60) + "px"
                 } else {
-                  scroll = $('div[data-unique="' + elem.attr("data-unique") + '"]').next().offset().top - ($.isFunction(scrollTo) ? scrollTo.call() : scrollTo + 95) + "px"
+                  scroll = $('div[data-unique="' + elem.attr("data-unique") + '"]').next().offset().top - ($.isFunction(scrollTo) ? scrollTo.call() : scrollTo + 90) + "px"
                 }
 
                 // Animates the html and body element scrolltops
