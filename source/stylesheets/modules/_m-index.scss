@@ -20,6 +20,12 @@
         }
       }
     }
+
+    .btn {
+      @media screen and (min-width: $screen-l) {
+        display: none;
+      }
+    }
   }
 
   &.open + .page-wrapper {
