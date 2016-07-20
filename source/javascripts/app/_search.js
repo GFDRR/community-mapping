@@ -29,6 +29,16 @@
     });
   }
 
+  function onClickResult() {
+    var wrapper = $('.tocify-wrapper');
+
+    $('.link-result').on('click', function() {
+      $("body").removeClass('-no-scroll');
+      $("#nav-button").removeClass('open');
+      wrapper.removeClass('open');
+    });
+  }
+
   function bind() {
     content = $('.content');
     searchResults = $('.search-results');
@@ -52,9 +62,11 @@
         searchResults.empty();
         $.each(results, function (index, result) {
           var elem = document.getElementById(result.ref);
-          searchResults.append("<li><a href='#" + result.ref + "'>" + $(elem).text() + "</a></li>");
+          searchResults.append("<li><a class='link-result' href='#" + result.ref + "'>" + $(elem).text() + "</a></li>");
         });
         highlight.call(this);
+
+        onClickResult();
       } else {
         searchResults.html('<li></li>');
         $('.search-results li').text('No Results Found for "' + this.value + '"');
