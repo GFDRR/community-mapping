@@ -12,6 +12,8 @@ includes:
   - posts/03-getting-started
   - posts/04-implementation-and-supervision
   - posts/05-lessions-learned-and-recommendations
+  - posts/06-case-studies
+  - posts/07-appendixes
 
 search: true
 ---
