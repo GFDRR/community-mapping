@@ -1,5 +1,5 @@
 <div class="c-box-image">
-    <img src="/images/posts/3/chapterpic-gettingstarted-2.png" alt="chapterpic-gettingstarted" />
+    <img src="/images/posts/3/chapterpic-gettingstarted-2.jpg" alt="chapterpic-gettingstarted" />
 </div>
 
 # Getting Started
