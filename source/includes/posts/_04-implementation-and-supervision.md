@@ -1,5 +1,5 @@
 <div class="c-box-image">
-    <img src="/images/posts/4/chapterpic-implementation-2.png" alt="chapterpic-implementation" />
+    <img src="/images/posts/4/chapterpic-implementation-2.jpg" alt="chapterpic-implementation" />
 </div>
 
 # Implementation and supervision
@@ -40,11 +40,11 @@ As figure 4.1 shows, you can subdivide your target area in two ways: by creating
 Figure 4.1 Options for Subdividing a Daily Mapping Area
 a. Gridding an area
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1-a-2.png" alt="4-1a" />
+    <img src="/images/posts/4/4-1-a-2.jpg" alt="4-1a" />
 </div>
 b. Subdividing an area by natural boundaries, such as blocks bounded by roads
 <div class="c-box-image">
-    <img src="/images/posts/4/4-1-b-2.png" alt="4-21b" />
+    <img src="/images/posts/4/4-1-b-2.jpg" alt="4-21b" />
 </div>
 <em>Source: Imagery in panel “a” from [Field Papers](http://www.fieldpapers.org)</em>
 
@@ -54,7 +54,7 @@ Once you do this, you will know how many of these “blocks” are in your targe
 
 Figure 4.2 Example of a "Blocked" Target Area in Dhaka, Bangladesh
 <div class="c-box-image">
-    <img src="/images/posts/4/4-2-2.png" alt="4-2" />
+    <img src="/images/posts/4/4-2-2.jpg" alt="4-2" />
 </div>
 <em>Source: OpenStreetMap</em>
 
@@ -115,7 +115,7 @@ Conducting data entry directly after collection and ensuring that the mappers ta
 
 Figure 4.3 Sample Building Survey Form
 <div class="c-box-image">
-    <img src="/images/posts/4/4-3-2.png" alt="4-3" />
+    <img src="/images/posts/4/4-3-2.jpg" alt="4-3" />
 </div>
 
 ### 4.1.6 Scheduling Project Tasks
