@@ -1,5 +1,5 @@
 <div class="c-box-image">
-    <img src="/images/posts/5/chapterpic-lessonslearned-2.png" alt="chapterpic-lessonslearned" />
+    <img src="/images/posts/5/chapterpic-lessonslearned-2.jpg" alt="chapterpic-lessonslearned" />
 </div>
 
 # Lessons learned and recommendations
