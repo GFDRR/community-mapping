@@ -14,12 +14,15 @@ body {
   z-index: -10;
   position: relative;
   overflow: auto;
+
   height: 100%;
+  padding-top: 15px;
 
   -webkit-overflow-scrolling: touch;
   background-color: $site-color-3;
 
   @media screen and (min-width: $screen-l) {
+    padding-top: 0;
     background-color: transparent;
   }
 }
