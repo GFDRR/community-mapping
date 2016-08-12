@@ -96,7 +96,6 @@ The first step of Open Cities project planning is to clearly de ne the objective
 
 
 
-
 <div class="c-table">
 
 <table>
