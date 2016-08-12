@@ -107,11 +107,11 @@ Field Paper ID: _________  &nbsp; Ward / Block number:  _________  &nbsp; Map Bu
 
 1. General Information:
 
-1.1 Holding #:_________ 
+1.1 Holding #: _________ 
 
-Building name:_________________________________________________________ 
+Building name: _________________________________________________________ 
 
-Street name:___________________________________________________________ 
+Street name: ___________________________________________________________ 
 
 1.2 Building usage:
 <div class="c-box-image">
