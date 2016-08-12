@@ -14,6 +14,7 @@ as points, lines, or polygons, and tags are applied to these
 features to describe their attributes. Common tags can
 be seen on the OSM Wiki site, at <b><a href="http://wiki.openstreetmap.org/wiki/Map_Features/" target="_blank">wiki.openstreetmap.
 org/wiki/Map_Features</a></b>.
+
 OpenStreetMap uses a free-tagging system. That is, you
 can use any tags that you want to describe attributes.
 However, it is important that users around the world agree on the same tagging conventions to represent
@@ -28,6 +29,7 @@ mapping new features or attributes, it may be necessary
 to invent new OSM tags. It is a good idea to discuss this
 with your local e-mail list and by sending a message to
 <b>tagging@openstreetmap.org</b>.
+
 The data model below (figure A6.1.1), designed for the
 Open Cities Dhaka pilot project, shows how attributes
 were mapped as OpenStreetMap tags.
@@ -41,26 +43,43 @@ were mapped as OpenStreetMap tags.
 
 ####3. Storm Water Drainage
 <b>3.1. Drainage lines (ways):</b>
+
 waterway = drain
+
 drain:covered = {yes | no}
+
 <b>3.2. Manhole covers (nodes):</b>
+
 manhole = {drain | sewer}
 
 ####4. Public Water Source
+
 <b>4.1. Stand Point</b>
+
 amenity=drinking_water
+
 pump:active = {yes | no}
+
 <b>4.2. Hand Pump</b>
+
 man_made = water_well
+
 pump = manual
+
 pump:active = {yes | no}
+
 <b>4.3. Overhead Tank</b>
+
 man_made = water_tower
+
 <b>4.4. Reserve Tank</b>
+
 man_made = water_tank
 
 ####5. Public Toilets
+
 amenity = toilets
+
 toilets:num_chambers = # of toilets
 
 <em>Source: Open Cities Dhaka.
