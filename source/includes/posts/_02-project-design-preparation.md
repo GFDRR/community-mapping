@@ -14,7 +14,7 @@ Involvement of a wide community of partners is a central component of an Open Ci
         <li>Is already undertaking work in a similar context;</li>
         <li>Needs the data being collected in its operation;</li>
         <li>Has a passion for change and an openness to innovation;</li>
-        <li>Will benefit from the innovation to improve its workf low;</li>
+        <li>Will benefit from the innovation to improve its workflow;</li>
         <li>Provides contextual knowledge; and</li>
         <li>Shares resources such as workspace, relationships,staff, and supplies.</li>
     </ul>
@@ -416,7 +416,6 @@ During the planning stage, consider using GIS software to draw lines around the 
         <li>Communicate project goals with OpenStreetMap community and meet with local mappers</li>
     </ul>
 </div></p>
-</div>
   <p><b>Defining the Scope of Work</p></b>
 <p><div class="c-list">
     <ul>
@@ -445,6 +444,7 @@ During the planning stage, consider using GIS software to draw lines around the 
         <li>Confirm that the necessary base-map data are available to use in Field Papers</li>
     </ul>
 </div></p>
+</div>
 
 #### 2.4.2.2 Alternative Imagery Sources
 
