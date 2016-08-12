@@ -44,12 +44,12 @@ were mapped as OpenStreetMap tags.
 ####1. Streets
 <div class="c-box-image">
     <img src="/images/posts/appendixes/6-2_Streets.jpg" alt="Streets">
- </div>
+</div>
  
 ####2. Buildings
 <div class="c-box-image">
     <img src="/images/posts/appendixes/6-2_Buildings.jpg" alt="Buildings">
- </div>
+</div>
  
 ####3. Storm Water Drainage
 <b>3.1. Drainage lines (ways):</b>
@@ -124,7 +124,7 @@ Street name:___________________________________________________________
 
 <div class="c-box-image">
     <img src="/images/posts/appendixes/6-2_Building-Characteristics.jpg" alt="Building-Characteristics">
- </div>
+</div>
 
 <b>2.7 Visible Physical Condition (Crake, Damp, Spoiling): &nbsp; a) Poor &nbsp; b) Average &nbsp; c) Good</b>
 
@@ -202,13 +202,13 @@ A simple map produced in GIS software can give a quick visual explanation of you
 III. Data Collection and Quality Control Metrics
 <div class="c-box-image">
     <img src="/images/posts/appendixes/Ap4_Data-Collection-and-Quality-Control-Metrics.jpg" alt="Data-Collection-and-Quality-Control-Metrics">
- </div>
+</div>
 
 ## Appendix 5 Sample Letter of Support for Mappers
 
 <div class="c-box-image">
     <img src="/images/posts/appendixes/6-5_Government-of-Nepal.jpg" alt="Sample-Letter-of-Support-for-Mappers-from-Govt-of-Nepal">
- </div>
+</div>
 
 <em>Source: Open Cities Kathmandu</em>
 
