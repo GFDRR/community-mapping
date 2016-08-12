@@ -1,5 +1,10 @@
 # Case Studies
 
+
+<div class="c-box-image">
+    <img src="/images/posts/case-studies/case-batticloa.jpg" alt="case-batticloa">
+</div>
+
 ## Batticaloa, Sri lanka
 
 ### Overview
@@ -133,6 +138,10 @@ river basin near Colombo. There is also strong interest in scaling up the projec
 cover a greater geographic area, in using OSM to update the Survey Department data,
 and in streamlining the use of the data in more DRM applications and sectors.
 
+<div class="c-box-image">
+    <img src="/images/posts/case-studies/case-kathmandu.jpg" alt="case-kathmandu">
+</div>
+
 ## Kathmandu, Nepal
 
 ### Overview
@@ -246,6 +255,11 @@ in Kathmandu suggests that development partners remain interested in the project
 local NGO called the Kathmandu Living Labs (KLL), staffed by participants in the first phase of the Open Cities project, has been created in order to continue the work. KLL
 has recently received funding from ICIMOD, a local technical organization, and the US
 Embassy in order to conduct OSM trainings and mapping activities.
+
+
+<div class="c-box-image">
+    <img src="/images/posts/case-studies/case-dhaka.jpg" alt="case-dhaka">
+</div>
 
 ## Dhaka, Bangladesh 
 
