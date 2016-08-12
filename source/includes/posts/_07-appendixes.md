@@ -1,3 +1,7 @@
+<div class="c-box-image">
+    <img src="/images/posts/appendixes/chapterpic-appendices.jpg" alt="chapterpic-appendices">
+</div>
+
 # Appendixes
 
 ## Appendix 1 Data Model Design
@@ -38,9 +42,15 @@ were mapped as OpenStreetMap tags.
 ### <b>Open Cities Dhaka</b> OSM TAGGING SYSTEM
 
 ####1. Streets
-
+<div class="c-box-image">
+    <img src="/images/posts/appendixes/6-2_Streets.jpg" alt="Streets">
+ </div>
+ 
 ####2. Buildings
-
+<div class="c-box-image">
+    <img src="/images/posts/appendixes/6-2_Buildings.jpg" alt="Buildings">
+ </div>
+ 
 ####3. Storm Water Drainage
 <b>3.1. Drainage lines (ways):</b>
 
@@ -86,6 +96,41 @@ toilets:num_chambers = # of toilets
 Note: OSM = OpenStreetMap.</em>
 
 ## Appendix 2 Survey Sample Form
+
+<b>Figure 6.2.1 Building Survey Form, Open Cities Dhaka Project</b>
+
+### Open Cities Dhaka – Building Survey Form
+
+Surveyor Name: _________________________________________________________  &nbsp; Date: _____________
+
+Field Paper ID: _________  &nbsp; Ward / Block number:  _________  &nbsp; Map Building ID: _________ 
+
+1. General Information:
+
+1.1 Holding #:_________ 
+
+Building name:_________________________________________________________ 
+
+Street name:___________________________________________________________ 
+
+1.2 Building usage:
+<div class="c-box-image">
+    <img src="/images/posts/appendixes/6-2_Building-Usage.jpg" alt="Building-usage">
+ </div>
+
+2.1 Number of Stories: &nbsp;&nbsp; 2.2 Vertical Irregularities? &nbsp;Yes / No
+
+2.3 Is there a Soft Storey? &nbsp; Yes / No ( Long / Short direction )
+
+<div class="c-box-image">
+    <img src="/images/posts/appendixes/6-2_Building-Characteristics.jpg" alt="Building-Characteristics">
+ </div>
+
+<b>2.7 Visible Physical Condition (Crake, Damp, Spoiling): &nbsp; a) Poor &nbsp; b) Average &nbsp; c) Good</b>
+
+Notes:
+
+
 ## Appendix 3 Sample Data Authorization Form
 
 The following letter (Figure 6.3.1) is adapted from the EUROSHA, a European Union pilot project in Burundi, the
@@ -160,6 +205,13 @@ III. Data Collection and Quality Control Metrics
  </div>
 
 ## Appendix 5 Sample Letter of Support for Mappers
+
+<div class="c-box-image">
+    <img src="/images/posts/appendixes/6-5_Government-of-Nepal.jpg" alt="Sample-Letter-of-Support-for-Mappers-from-Govt-of-Nepal">
+ </div>
+
+<em>Source: Open Cities Kathmandu</em>
+
 ## Appendix 6 Open Cities Project Planning Checklist
 
 Here is a complete checklist you may wish to follow when planning a mapping project. It will help you to consider the
