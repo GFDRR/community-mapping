@@ -45,12 +45,12 @@ were mapped as OpenStreetMap tags.
 <div class="c-box-image">
     <img src="/images/posts/appendixes/6-2_Streets.jpg" alt="Streets">
 </div>
- 
+
 ####2. Buildings
 <div class="c-box-image">
     <img src="/images/posts/appendixes/6-2_Buildings.jpg" alt="Buildings">
 </div>
- 
+
 ####3. Storm Water Drainage
 <b>3.1. Drainage lines (ways):</b>
 
@@ -103,15 +103,15 @@ Note: OSM = OpenStreetMap.</em>
 
 Surveyor Name: _________________________________________________________  &nbsp; Date: _____________
 
-Field Paper ID: _________  &nbsp; Ward / Block number:  _________  &nbsp; Map Building ID: _________ 
+Field Paper ID: _________  &nbsp; Ward / Block number:  _________  &nbsp; Map Building ID: _________
 
 1. General Information:
 
-1.1 Holding #: _________ 
+1.1 Holding #: _________
 
-Building name: _________________________________________________________ 
+Building name: _________________________________________________________
 
-Street name: ___________________________________________________________ 
+Street name: ___________________________________________________________
 
 1.2 Building usage:
 <div class="c-box-image">
@@ -155,10 +155,11 @@ copyright holder. The citation will be showed on the following web page <b><a hr
 wiki/Attribution" target="_blank">http://wiki.openstreetmap.org/
 wiki/Attribution</a></b>.
 
-We offer the OSMF the following data: …………………………………………………………………………………………………
-……………………………………………………………………………………………………………………………………………………………
-……………………………………………………………………………………………………………………………………………………………
-……………………………………………………………………………………………………………………………………………………………
+We offer the OSMF the following data:
+…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
 ………………………………………………………
 
 Drawn up at ………………………………, the …………………………… in duplicate.
@@ -198,7 +199,7 @@ A simple map produced in GIS software can give a quick visual explanation of you
     <img src="/images/posts/appendixes/6-4.jpg" alt="6-4">
  </div>
  <em>Buildings completed are overlaid on the target area.</em>
- 
+
 III. Data Collection and Quality Control Metrics
 <div class="c-box-image">
     <img src="/images/posts/appendixes/Ap4_Data-Collection-and-Quality-Control-Metrics.jpg" alt="Data-Collection-and-Quality-Control-Metrics">
