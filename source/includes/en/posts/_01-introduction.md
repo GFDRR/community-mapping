@@ -2,7 +2,7 @@
   <img src="images/posts/introduction/chapterpic-intro-2.jpg" alt="chapterpic-intro"/>
 </div>
 
-# Introduction?
+# Introduction
 
 ## 1.1 History of open cities and the open data for Resilience Initiative
 
