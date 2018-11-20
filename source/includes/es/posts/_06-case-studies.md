@@ -1,4 +1,4 @@
-# Case Studies
+# Estudios de caso
 
 
 <div class="c-box-image">
@@ -7,344 +7,136 @@
 
 ## Batticaloa, Sri lanka
 
-### Overview
+### Resumen
 
-Batticaloa, a major city in Sri Lanka’s Eastern Province severely affected by the Sri
-Lankan civil war and the 2004 Indian Ocean tsunami, is located in a hazard-prone
-area that has suffered near-annual droughts, floods and cyclones. Some limited hazard
-maps were available for the area, but no detailed digital geographic data of the built
-environment were available for use in risk studies or for informing contingency and
-response planning, potential infrastructure and risk mitigation projects.
+Batticaloa, una ciudad importante en la Provincia Oriental de Sri Lanka, severamente afectada por la guerra civil de Sri Lanka y el tsunami del Océano Índico del 2004, está ubicada en un área expuesta a peligros que ha sufrido sequías, inundaciones y ciclones casi anualmente. Algunos mapas de riesgo limitados se encontraban disponibles para el área, pero no se disponía de datos geográficos digitales detallados del entorno construido para ser utilizados en estudios de riesgo o para información de contingencia y planificación de respuesta, infraestructura potencial y proyectos de migitación del riesgo.
 
-### Scope of Work
+### Alcance del trabajo
 
-The objective of the Open Cities project was to map the complete building stock
-including critical assets and road infrastructures of the Manmunai North Divisional
-Secretariat, which covers an area of 68 km2 and includes about 90,000 people around
-the town of Batticaloa. The characteristics collected focused on basic information necessary
-for vulnerability assessment including number of floors, usage, and construction
-materials of walls and roof.
+El objetivo del proyecto Open Cities era trazar un mapa del conjunto de edificios completo, incluyendo activos importantes e infraestructura de carreteras del Secretariado Divisional del norte de Manmunai, la cual abarca un área de 68 km2 e incluye cerca de 90 000 personas alrededor de la ciudad de Batticaloa. Las características recolectadas se centraron en información básica, necesaria para una evaluación de vulnerabilidad incluyendo la cantidad de pisos, el uso y los materiales utilizados en paredes y techos.
 
-###Partners
+### Sus asociados
 
-<b>National Government</b> — Several national government agencies including the Disaster
-Management Center, the Survey Department and the Census Department were
-involved from the beginning in the design of the project. Along the course of the
-project, the key national agency were updated on the progress and results of work.
-These partnerships provided the OpenCities with a strong country ownership, an
-important credibility, and a legitimacy to interact with the local government. The
-national agencies also provided staff from the local offices to support the project and
-build their capacity.
+<b>Gobierno nacional</b> — Varias agencias del Gobierno Nacional incluyendo el Centro de Manejo de Desastres, el Departamento de Encuestas y el Departamento de Censo estuvieron involucrados desde el principio en el diseño del proyecto. Junto con el curso de proyecto, la agencia nacional clave fue actualizada con el proceso y los resultados del trabajo. Estas colaboraciones le otorgaron a OpenCities una fuerte implicación nacional, importante credibilidad y la legitimidad de interactuar con el gobierno local. Las agencias nacionales también ofrecieron un grupo de colaboradores de sus oficinas locales para apoyar el proyecto e construir su capacidad.
 
-<b>Local Government</b> — Locally, the work began with a series of meetings with the
-Batticaloa local authorities. In part, these were designed to establish the close collaboration
-needed to carry out the actual mapping. They were also meant to ensure local
-understanding of and trust in the mapping process and in the data produced, so as
-to encourage local authorities to use the tools and data for their own DRM and urban
-planning projects.
+<b>Gobierno local</b> — Localmente, el trabajo comenzó con una serie de reuniones con las autoridades locales de Batticaloa. En parte, las reuniones fueron diseñadas para establecer la estrecha colaboración necesaria para llevar a cabo la cartografía real. Se pretendía también garantizar un entendimiento y confianza local en el proceso de cartografía y en los datos producidos para alentar a las autoridades locales a utilizar las herramientas y datos para sus propios proyectos de DRM y planificación urbana.
 
-<b>Humanitarian OpenstreetMap Team (HOT)</b> — HOT provided some remote support
-to the team and facilitated a national workshop on OpenStreetMap at the end of the
-project to spread the word about OSM and build the capacity of key national agencies
-in order to start scaling up the project in Sri Lanka.
+<b>Equipo Humanitario OpenstreetMap (HOT, por sus siglas en inglés)</b> — HOT porporcionó un poco de apoyo remoto al equipo y facilitó un taller nacional de OpenStreetMap al final del proyecto para correr la voz sobre OSM y desarrollar la capacidad de agencias nacionales clave con el objetivo de comenzar a ampliar el proyecto en Sri Lanka.
 
-<b>Universities</b> — The project was presented to most of the professors of the key departments
-in the main Sri Lankan universities (University of Colombo, University of
-Peradeniya, Sri Lanka Institute of Technology, University of Moratuwa, University of
-Sri Jayewardenepura, Eastern University). Some of the professors participated in the
-national OSM workshop held by HOT. A small amount of mapping parties were held
-however as the location of Batticaloa is very far from most universities, the students
-were not involved directly in the data collection for this phase but will be involved in
-the next phase of the project.
+<b>Universidades</b> — El proyecto se presentó a la mayoría de los profesores de los departamentos claves en las principales universidades de Sri Lanka (Universidad de Colombo, Universidades de Peradeniya, Instituto de Tecnología de Sri Lanka, Universidad de Moratuwa, Universidad de Sri Jayewardenepura, Universidad del Este). Algunos de los profesores participaron del taller nacional de OSM organizado por HOT. Se organizó una pequeña cantidad de grupos de cartografía ya que la ubicación de Batticaloa se encuentra muy lejos de la mayoría de las universidades, por lo que los estudiantes no estuvieron involucrados directamente en la recopilación de datos de esta fase, pero participarán de la siguiente fase del proyecto.
 
-### Building the Team
+### Integración del Equipo
 
-A team of four technical experts (three recent GIS and IT graduates and one experienced
-GIS analyst) was hired and trained in OpenStreetMap techniques in order to
-supervise and support the overall mapping process. The team was completed by the
-staff from local partners, including the Batticaloa Municipal Council, the Batticaloa
-District, the Manmunai North Divisional Secretariat to constitute a team of about a
-dozen person fluent in OSM. For the field survey, the core team worked with the 48
-recent university graduates that had been recently hired to work on the local planning
-and development of the 48 Grama Niladhari that make up the Manmunai North Divisional
-Secretariat. The graduates were appointed by the District Commissioner to work
-on the Open Cities project and received a stipend for the extra work.
+Un grupo de cuatro expertos técnicos (tres recién graduados en GIS y TI y uno con experiencia analítica en GIS) fue contratado y capacitado en técnicas de OpenStreetMap para supervisar y apoyar el proceso cartográfico en general. El equipo se completó por compañeros locales, incluyendo al Consejo Municipal de Batticaloa, el Distrito de Batticaloa, el secretariado Divisional del norte de Manmunai para conformar un equipo de alrededor una docena de personas con conocimiento en OSM. Para la encuesta de campo, el grupo central trabajó con 48 universitarios recién graduados que habían sido contratados recientemente para trabajar en el planeamiento y desarrollo local de 48 Grama Niladhari que constituye el Secretariado Divisional del norte de Manmunai. Los graduados fueron designados por el Comisionado de Distrito para trabajar en el proyecto Open Cities y recibieron un pago por las horas extras.
 
-### Workspace
+### Área de Trabajo
 
-It was initially planned to host the team in the Manmunai North Divisional Secretariat
-premises but due to space, time and connectivity constraints, the team rented a house
-in Batticaloa that was used as a headquarter. It was set up with computers, internet
-connection, printers, tables, bedrooms in order to provide a space for trainings and to
-process field data.
+Inicialmente se planeó hospedar al grupo en las instalaciones del Secretariado de División del norte de Manmunai pero debido a limitaciones de espacio, tiempo y conectividad, el equipo rentó una casa en Batticaloa que era utilizada como sede. Se la equipó con computadoras, conexión de internet, impresoras, mesas, habitaciones, con el objetivo de contar con un espacio para capacitaciones y para procesar los datos de campo.
 
-### Existing Map Resources
+### Recursos Cartográficos Existentes
 
-The team found an existing dataset for building footprints on the eastern coast.
-However, after examination, the quality was poor as it had been generated by automatic
-extraction so it was decided not to use it. Some datasets existed for infrastructures
-like schools and roads but they were not cleared for use in OSM and outdated.
-Therefore, no pre-existing digital data was used in the project. However, the team
-worked with Divisional Secretariat and each GN divisions as they maintained paper
-maps for each of the 48 GN divisions. A booklet with all the paper maps were shared
-with the team and used to add landmarks and street names to the initial base map.
+El equipo halló un conjunto de datos ya existentes para construir huellas en la costa oriental. Sin embargo, luego de examinarlos, se determinó que la calidad era mala, ya que habían sido creados por extracción automática y se decidió no utilizarlos. Algunos grupos de datos existían debido a infraestructuras como escuelas y carreteras pero eran confusos y obsoletos para su uso en OSM. Por lo tanto, no se utilizaron datos digitales preexistentes en el proyecto. Sin embargo, el equipo trabajó con el Secretariado divisional y con cada una de las divisiones GN ya que conservaban los mapas impresos para cada una de las 48 divisiones GN. Un folleto con todos los mapas impresos se compartió con el equipo y fue utilizado para agregar puntos de referencia y nombres de calles al mapa base inicial.
 
-### Data Collection
+### Recopilación de Datos
 
-A small group began by tracing all building outlines into OSM using satellite imagery
-and then added landmarks, roads and road names, and points of interests using local
-paper maps provided by the divisional secretariat. This effort created a solid reference
-map for the surveying work. The work was then split into two components: buildings
-were surveyed by the 48 recent graduates, and surveyed data were entered by the core
-team who were also responsible for fixing the maps and refining the point of interests.
-Both groups were trained in OSM and surveying techniques by the Open Cities team.
+Un pequeño grupo comenzó a trazar todos los esquemas de los edificios en OSM utilizando imagen por satélite y luego agregó puntos de referencia, carreteras y sus nombres, y puntos de interés utilizando mapas locales en papel proporcionados por el secretariado divisional. Este esfuerzo creó un mapa de referencia sólido para el trabajo topográfico. El trabajo se dividió luego, en dos componentes: la inspección de los edificios se realizó por los 48 recién graduados, y los datos recolectados fueron ingresados por el grupo central que también era responsable de corregir los mapas y de perfeccionar los puntos de interés. Ambos grupos fueron entrenados en OSM y técnicas en topografía por el equipo de Open Cities.
 
-### Quality Control
+### Control de Calidad
 
-Several measures were taken to ensure the data quality and ownership. First, the team
-worked with the local Building department, the Batticaloa Municipal Council civil
-engineer, and a civil engineering professor from the University of Moratuwa to create
-the building survey and ensure that it is usable by non-expert and taking into account
-local building practices. Second, the local team did ongoing quality assessment by
-doing a re-surveying of a sample of buildings for each GN divisions, making sure that
-the surveyors were not making mistakes. If some errors were found, corrective actions
-would be taken right away to ensure the rest of the data would be correct. Third,
-the team ran queries on the database to identify anomalies in the data collected and
-accordingly made fixes and took corrective actions through extra training. The trust
-and ownership in the data was ensured by the multiple partnerships with the national
-and local government and engaging through regular updates and feedback loops
-through the different phases of the project.
+Fuero tomadas varias medidas para asegurar la calidad y la propiedad de los datos. Primero, el equipo trabajó con el departamento de construcción local, el ingeniero civil del Consejo Municipal de Batticaloa, y un profesor de ingeniería civil de la Universidad de Moratuwa para crear una inspección la encuesta de edificios teniendo en cuenta las prácticas de construcción locales y asegurándose que sea útil para inexpertos Segundo, el equipo local realizó evaluación continua de la calidad  mediante una nueva encuesta de una muestra de edificios para cada una de las divisiones de GN, asegurándose de que los encuestadores no estuvieran cometiendo errores. Si se encontraran algunos errores, se tomarán medidas correctivas inmediatas para garantizar que el resto de los datos sean correctos. Tercero, el equipo indagó en la base de datos para identificar anomalías en los datos recopilados y de acuerdo a estos, corregían y tomaban medidas correctivas mediante entrenamiento extra. La confianza y la propiedad de los datos fue asegurada por los múltiples socios con el gobierno nacional y local y participaron mediante actualizaciones periódicas y ciclos de retroalimentación a través de las diferentes fases del proyecto.
 
-### Results
+### Resultados
 
-Footprints and basic characteristics including number of floors, usage, and construction
-materials of walls and roof was collected for all 30,000 buildings in the area.
-These data are now freely available in OpenStreetMap and in the government geospatial
-data sharing platform RiskInfo (www.riskinfo.lk) for easy use by many stakeholders.
-At the local level, a wrap-up ceremony was held with all the stakeholders and
-participants where A3 maps were given to each GN division and T-shirt were handed
-out to all the participants. Future plans were also discussed including the request
-to extend the project to other DS Divisions in the district and to link the household
-survey recently conducted (150 questions per household) with the geographic data.
-To publicize the benefits of these techniques at the national level and promote their
-adoption, high-level managers of the relevant national agencies were briefed regularly
-and given final results when available. Two week-long training courses, one dealing
-with OSM techniques and the other with use of data for decision making (specifically
-the combination of data with existing hazard maps through GIS tools and the InaSAFE
-tool) were conducted at the national level with all relevant national agencies. Discussions
-are ongoing with various ministries concerning the next phase of the project.
-A second phase of the project will take place to cover the flood prone Attanagalu Oya
-river basin near Colombo. There is also strong interest in scaling up the project to
-cover a greater geographic area, in using OSM to update the Survey Department data,
-and in streamlining the use of the data in more DRM applications and sectors.
+Las huellas y características básicas incluyendo la cantidad de pisos, el uso y los materiales de construcción utilizados en paredes y pisos fueron recolectados en 30 000 edificios del área. Estos datos ahora se encuentran disponibles de manera gratuita en OpenStreetMap y en los datos geospatiales del gobierno compartidos en la plataforma RiskInfo (www.riskinfo.lk) para un uso fácil de los interesados. A nivel local, se llevó a cabo una reunión de recapitulación con todos los interesados y participantes, donde se otorgaron mapas A3 a cada división GN así como también remeras a todos los participantes. También se trataron los planes a futuro incluyendo el pedido de ampliar el proyecto a otras Divisiones DS en el distrito y conectar la encuesta de hogares recientemente hecha (150 preguntas por hogar) con los datos geográficos. Para publicitar los beneficios de estas técnicas a nivel nacional y promover su adopción, a los gerentes de alto nivel de importantes agencias nacionales se les informó con regularidad y se les otorgaron los resultados finales cuando estuvieron disponibles. A nivel nacional con todas las agencias nacionales relevantes se llevaron a cabo dos cursos de capacitación de una semana, uno sobre las técnicas de OSM y otro sobre el uso de datos para la toma de decisiones (especialmente la combinación de datos con los mapas de riesgo ya existentes mediante herramientas GIS y la herramienta InaSAFE). Continúan las conversaciones con varios ministros relacionadas con la siguiente fase del proyecto. Se desarrollará una segunda fase del proyecto para cubrir la inundable cuenca del río Arranagalu Oya cerca de Colombo. Existe también un gran interés en ampliar el proyecto a un área geográfica más grande, en la utilización de OSM para actualizar los datos del Departamento de Investigación y en optimizar el uso de los datos en más aplicaciones DRM y sectores.
 
 <div class="c-box-image">
     <img src="/images/posts/case-studies/case-kathmandu.jpg" alt="case-kathmandu">
 </div>
 
-## Kathmandu, Nepal
+## Katmandú, Nepal
 
-### Overview
+### Resumen
+Katmandú, la capital de Nepal, es la ciudad con más riesgo sísmicos del mundo en cuanto a potencial de pérdida de vida humana durante un evento importante. En noviembre del 2012, en conjunto con el Gobierno de Nepal, el Banco Mundial y GFDRR se lanzó un proyecto para construir resiliencia sísmica en la educación del Valle de Katmandú e infraestructura de salud, en parte mediante la creación de un modelo de riesgo de desastre para determinar la vulnerabilidad relativa de los edificios relevantes. Una vez terminado, el modelo será utilizado para priorizar los planos de remodelaciones de escuelas y centros de salud y así mejorar la integridad estructural en el marco de un terremoto.
 
-Kathmandu, the capital city of Nepal, is the most seismically at risk city in the world in terms of potential for loss of human life during a major event. In November 2012, in partnership with the government of Nepal, the World Bank and GFDRR launched a project to build seismic resilience in the Kathmandu Valley’s education and health
-infrastructure, in part by creating a disaster risk model to determine the relative vulnerability of the relevant buildings. Once complete, the model will be used to prioritize
-plans for retrofits of schools and health facilities to improve structural integrity in the face of earthquake.
+### Alcance del trabajo
 
-### Scope of Work
+El objetivo cartográfico de Open Cities Katmandú era la recopilación de datos de ubicación, ocupación y características estructurales para todas las escuelas y centros de salud en el Valle de Katmandú.
 
-The mapping goal for Open Cities Kathmandu was to collect data on location, occupancy,
-and structural characteristics for all of the schools and health facilities in the
-Kathmandu Valley.
+### Sus asociados
 
-### Partners
+<b>Gobierno</b> — El departamento de Educación de Nepal es un socio clave en las Open Cities de Katmandú. Estas lideran el proyecto de evaluación de riesgo al cual contribuirá el trabajo cartográfico. Además del apoyo institucional, el DOE también proporcionó una carta de apoyo que los cartógrafos llevaron consigo como parte del trabajo, y una carta instrumental para tener acceso a algunas instalaciones.
 
-<b>Government</b> — The Nepal Department of Education is a key partner in Open Cities
-Kathmandu. They are leading the risk assessment project to which the mapping work will contribute. In addition to institutional support, the DOE also provided a letter of
-support that mappers carried with them as part of the work, instrumental to gaining
-access to some of the facilities.
+<b>Agencias técnicas</b> — NSET, la Sociedad Nacional de Tecnología en Terremotos, es una ONG con sede en Katmandú con significativa experiencia en riesgo sísmico y en ingeniería. Apoyaron el proyecto mediante asistencia con el moldeo de datos, proporcionando capacitación en inspecciones de construcción al equipo cartográfico, y llevando a cabo evaluación de calidad de los datos durante el proceso.
+<b>Universidades</b> — Las universidades fueron socios importantes en el proyecto. Las conexiones con los departamentos de geomática e ingeniería en la Universidad de Katmandú y la Universidad de Tribhuvan facilitaron la formación del equipo central y voluntarios para el proyecto y ayudó a proporcional guía técnica y control de calidad durante las fases claves del proyecto.
 
-<b>Technical Agencies</b> — NSET, the National Society for Earthquake Technology, is a
-Kathmandu-based NGO with significant seismic risk and engineering expertise. They
-supported the project through assistance with data modeling, providing training on
-structural assessments to the mapping team, and conducting quality assessment of the
-data throughout the process.
+### Integración del Equipo
 
-<b>Universities</b> — Universities were critical partners in the project. Connections to the
-Geomatics and Engineering departments in Kathmandu University and Tribhuvan
-University assisted with finding the core team and volunteers for the project and
-helped provide technical guidance and quality control during key project phases.
+El equipo central estaba compuesto por seis graduados de la Universidad de Katmandú quienes fueron reclutados según su contribución previa en la comunidad OSM de Nepal, naciente en aquel momento. Se les pagaron salarios de tiempo completo a intervalos acordes al salario de estructura local para recién graduados en disciplinas técnicas. El proyecto también reclutó seis internos de medio tiempo de la Universidad de Katmandú y 11 voluntarios de la Universidad de Tribhuvan.
 
-### Building the Team
+### Área de Trabajo
 
-The core team comprised six graduates of Kathmandu University who were recruited
-based on their prior contribution to Nepal’s then-nascent OSM community. They were
-paid full-time salaries at rates commensurate with the local salary structure for recent
-graduates in technical disciplines. The project also recruited six part-time interns from
-Kathmandu University and 11 volunteers from Tribhuvan University.
+El proyecto identificó un espacio local de trabajo compartido y una incubadora de tecnología de arranque que brindaba acceso a las salas de reuniones, servicio de Internet confiable y oportunidades para interactuar con otros técnicos y empresarios, algunos de los cuales luego se volvieron activos en la comunidad local de OpenStreetMAp como resultado de los esfuerzos del equipo de divulgación.
 
-### Workspace
+### Recursos Cartográficos Existentes
 
-The project identified a local co-working space and technology startup incubator that
-provided access to meeting rooms, reliable Internet service, and opportunities to interact
-with other technologists and entrepreneurs, some of whom later became active in
-the local OpenStreetMap community as a result of the team’s outreach efforts.
+El equipo cartográfico obtuvo una hoja de cálculo con una lista incompleta de 1701 escuelas en el Valle de Katmandú del Departamento de Educación (DOE por sus siglas en inglés), la cual fue usada como punto de partida para la investigación. La lista no poseía la ubicación exacta de las escuelas, solo el distrito en el cual se encontraban. Para las instalaciones de salud, Open Cities en Katmandú utilizó tres fuentes para generar una referencia de la lista de hospitales, puestos de salud, y policlínicas: una lista de 100 hospitales privados y comunales recibida extraoficialmente del Ministro de Salud y Población (MOHP por sus siglas en inglés), una lista de 250 centros médicos aprobados por MOHP que es accesible por el sitio web oficial de MOHP, y los nombres de 70 hospitales y 27 policlínicas de un sector privado de una organización de salud en Katmandú. Todas estas proporcionaron una lista de 400 proveedores únicos de servicio de salud con la que el equipo trabajó para ubicar e investigar utilizando una medida similar.
 
-### Existing Map Resources
+### Recopilación de Datos
 
-The mapping team obtained a spreadsheet containing an incomplete list of 1701
-schools in the Kathmandu Valley from the Department of Education (DOE), which was
-then used as a starting point for the survey. The list did not provide the exact location
-of schools, just the wards in which they were located. For health facilities, Open Cities
-Kathmandu used three sources to generate a reference list of hospitals, health posts,
-and polyclinics: a list of 100 private and community hospitals received unofficially
-from the Ministry of Health and Population (MOHP), a list of 205 medical centers
-approved by MOHP that is accessible through the official website of the MOHP, and
-the names of 70 hospitals and 27 polyclinics from a private-sector health organization
-in Kathmandu. Together, these provided a list of over 400 unique health service providers
-that the team worked to locate and survey using a similar approach.
+Los equipos cartográficos utilizaron un método multiplicador para encontrar las ubicaciones de las escuelas. Comenzaron con la ubicación disponible por otras fuentes, o mediante el uso de su experiencia personal y redes sociales. Luego hablaron con habitantes de la ciudad, funcionarios de las escuelas y personal de servicios de salud para ubicar a las escuelas así como también determinar la existencia de colegios que no estaban en la lista. Como resultado de los pedidos de los funcionarios de las escuelas, el equipo también comenzó a llevar a cabo y distribuir panfletos y carteles que brindaban información básica sobre la preparación y seguridad en caso de terremotos.
 
-### Data Collection
+### Control de Calidad
 
-The mapping teams used a snowball approach to find locations of the schools. They
-began with what location data were available through other sources, or by using their
-personal knowledge and social networks. They then talked with locals, school officials
-and health facilities personnel to locate remaining schools as well as ascertain the
-existence of schools not on their list. As a result of requests from school officials, the
-team also began carrying and distributing pamphlets and posters that provided basic
-information on earthquake preparedness and safety.
+El equipo dio una serie de pasos para asegurarse de que la recopilación de datos durante el proyecto fuera certera y que fueran fiables para el equipo más grande de participantes involucrados en la reducción de riesgo de desastre en Nepal. Primero, el proyecto fue llevado a cabo con el apoyo explícito del Departamento de Educación de Nepal y el Banco Mundial, dos instituciones con una reputación fiable en el país. En segundo lugar, el equipo consultaba con frecuencia cuestiones de ingeniería con la Sociedad Nacional de Tecnologías para Terremotos (NSET por sus siglas en inglés), una entidad bien reconocida en la comunidad de desastres naturales de Nepal. Los ingenieros de NSET ayudaron a diseñar la investigación y brindar capacitaciones. El proyecto también proporcionó capacitación OSM a una amplia gama de personas del gobierno, los donantes y la comunidad de ONG para crear conciencia y comodidad con la plataforma y el enfoque. Finalmente, NSET desarrolló con regularidad una evaluación de calidad de los datos de OSM durante el proceso de investigación.
 
-### Quality Control
+Mediante la participación de NSET en las Open Cities de Katmandú, el equipo realizó con regularidad controles de calidad de la investigación para identificar problemas en el momento y también ser capaces de evaluar por completo los datos recolectados en la conclusión del proyecto. Era de interés particular la inspección de la construcción del edificio, la cual requería capacitación de NSET para que el equipo de cartografía y los voluntarios investigaran de manera correcta. El primer campo de verificación se llevó a cabo inmediatamente luego de la primer capacitación y alguna práctica inicial de campo. La exactitud de los datos para la creación de un sistema de construcción fue de un 50% durante este período. Debido al resultado, NSET proveyó una capacitación "de actualización" a los investigadores. Luego de esta segunda capacitación, la exactitud de los datos de construcción aumentó, fueron recogidos por los cartógrafos y se elevó un 100%.
 
-The team took a number of steps to ensure that data collected during the project were
-accurate and that they would be trusted by the wider group of stakeholders involved in
-disaster risk reduction in Nepal. First, the project was carried out with explicit support
-of Nepal’s Department of Education and the World Bank, two institutions with credible
-reputations in the country. Second, the team consulted frequently on engineering
-matters with The National Society for Earthquake Technologies (NSET), a well-recognized
-entity in disaster community in Nepal. NSET Engineers helped design the
-survey and provided training. The project also provided OSM training to a wide range
-of individuals from government, donor, and NGO community to build awareness of
-and comfort with the platform and approach. Finally, NSET conducted quality assessment
-of OSM data regularly during the surveying process.
+### Resultados
 
-Through the involvement of NSET in Open Cities Kathmandu, the team regularly
-made quality assessments of the survey to both identify problems as they occurred and
-also to be able to assess the data collected in full at the project’s completion. Of particular
-concern was the building structure surveying, which required training from NSET
-for the mapping team and volunteers to survey correctly. The first field verification was
-performed immediately after the first training and some initial in-field practice. The
-accuracy of the data for building structural system was 50% during this period. Given
-this result, NSET provided a “refreshers” training to the surveyors. Following this
-second training, the accuracy of the structural data increased collected by the mappers
-rose to 100%.
+Open Cities en Katmandú evaluó 2.256 escuelas y 350 centros de salud en el Valle Katmandú. Además de recolectar una extensa lista de datos de construcción para instalaciones de salud y educación, el equipo trabajó para crear un mapa base detallado del valle mediante la digitalización de edificios, trazando un mapa de la red de carreteras, y recolectando información en otros puntos de mayor interés. El equipo Open Cities también realizó importantes divulgaciones en universidades, comunidades técnicas, y en el gobierno para expandir la comunidad OSM. Más de 2300 personas participaron en las capacitaciones de OSM durante el primer año del proyecto. La información ha sido utilizada en planes para el acondicionamiento de escuelas e instalaciones de salud y en aplicaciones para la planificación del transporte. La USAID también ha incorporado la información en los ejercicios para la preparación ante desastres. El hecho que la Cruz Roja Americana haya empezado a contribuir con OpenStreetMap en Katmandú sugiere que los asociados para el desarrollo mantienen su interés en el proyecto. Se ha creado una ONG local llamada Kathmandu Living Labs (KLL) que está conformada por participantes de la primera fase del proyecto de Open Cities a fin de continuar con el trabajo. Hace poco, KLL recibió financiamiento de ICIMOD, una organización técnica local, y de la Embajada de los Estados Unidos para llevar a cabo las capacitaciones de OSM y las actividades de cartografía.
 
-### Results
+## Daca, Bangladesh
 
-Open Cities Kathmandu surveyed 2,256 schools and 350 health facilities in the Kathmandu
-Valley. In addition to collecting a comprehensive list of structural data for
-health and school facilities, the team worked to create a comprehensive base map of
-the valley by digitizing building footprints, mapping the road network, and collecting
-information on other major points of interest. The Open Cities team also conducted
-significant outreach to universities, technical communities, and government in order
-to expand the OSM community. Over 2,300 individuals participated in OSM trainings
-or presentations during the first year of the project. The data have been used in plans
-to retrofit school and health facilities and in applications for transportation planning;
-moreover, USAID has incorporated the data into disaster preparedness planning
-exercises. That the American Red Cross has begun to contribute to OpenStreetMap
-in Kathmandu suggests that development partners remain interested in the project. A
-local NGO called the Kathmandu Living Labs (KLL), staffed by participants in the first phase of the Open Cities project, has been created in order to continue the work. KLL
-has recently received funding from ICIMOD, a local technical organization, and the US
-Embassy in order to conduct OSM trainings and mapping activities.
+### Resumen
 
+La Ciudad Antigua de Daca es un área concurrida y compleja, de inmenso valor histórico y representa un lugar importante de actividad social y económica. En consulta con las autoridades de agua y saneamiento de Daca, los expertos en riesgos sísmicos de la Universidad de Ingeniería y Tecnología de Bangladesh (BUET) y Urban Study Group, una ONG local que trabaja en la preservación y restauración de la herencia de la ciudad antigua de Daca, el piloto de el proyecto Daca Open Cities se propuso crear mapas detallados de tres de los 15 pabellones de la ciudad antigua. Estos mapas podrían proporcionar datos útiles para la planificación de rutas de evacuación, administrar la infraestructura de agua y saneamiento y comprender la ubicación y características de los edificios patrimoniales.
+
+### Colaboradores
+
+Departamento de Saneamiento y Agua de Daca — Este organismo fue el principal colaborador gubernamental para este proyecto y proporcionó los datos iniciales sobre la infraestructura de agua y saneamiento de la ciudad antigua. También contribuyó con el proceso de modelado de datos.
+
+<b>Organización Urban Study Group</b> — Esta organización proporcionó datos sobre la ubicación de los sitios patrimoniales más importantes de la ciudad. También contribuyó con el proceso de modelado de datos.
+
+<b>Centro de Servicios de Información Ambiental y Geográfica (CEGIS)</b> — el CEGIS es una ONG local con vasta experiencia en GIS y agrimensura en Bangladesh. Fueron los administradores generales del trabajo cartográfico y llevaron a cabo la evaluación de calidad de los datos recolectados.
+
+<b>Humanitarian OpenStreetMap Team (HOT)</b> — HOT brindó la capacitación OSM inicial a los participantes del proyecto y colaboró con el desarrollo de reportes y los procesos de seguimiento del proyecto.
+
+### Creación del equipo
+
+En colaboración con BUET, que proporcionó el apoyo técnico y un espacio de trabajo, 20 estudiantes universitarios de ingeniería y planificación fueron contratados como cartógrafos y fueron capacitados durante un periodo de tres meses. CEGIS, una ONG local de consultoría GIS, fue contratada para proporcionar gestión y control de calidad para el trabajo. La ONG Humanitarian OpenStreetMap Team que se especializa en el uso de OpenStreetMap para desarrollo y situaciones de ayuda humanitaria también proporcionó capacitación y supervisión técnica del proyecto.
+
+### Área de Trabajo
+
+La Universidad BUET brindó un laboratorio de computación para que sirviera como el espacio de trabajo primario para la capacitación de los participantes del proyecto y el trabajo de ingreso de datos.
+
+### Recursos Cartográficos Existentes
+
+La labor comenzó con la importación al OpenStreetMap de registros de datos de tres pabellones que habían sido creados por CEGIS como parte de un proyecto diferente pero que hasta ese punto todavía no estaban disponibles al público. Esto le permitió al equipo de cartografía enfocarse en la topografía de campo. Se recolectaron características básicas tales como altura de edificios, el uso, los materiales de construcción y la edad mediante el relevamiento visual de cada edificio.
+
+### Recopilación de Datos
+
+Los equipos de cartografía dividieron los tres pabellones en secciones llamadas bloques, los cuales estaban limitados por caminos en todos los lados. Cada día se asignó uno o más de estos bloques a un equipo para ser estudiados y así cartografiar con mayor facilidad los edificios que fueron enviados a cartografiar y que debido a los pequeños bloques compartimentados tenían ubicaciones más complicadas. Las imágenes fueron menos útiles de lo normal debido a la densidad de los edificios, pero esta metodología ayudó a asegurar una recopilación precisa de datos.
+
+También cartografiaron las características de las carreteras (ancho y tipo de superficie) y la infraestructura de agua y sanidad importante. Se añadieron los datos a OpenStreetMap cuando las condiciones impedían el estudio de campo (por ejemplo, malas condiciones climáticas o huelgas).
+
+### Control de Calidad
+
+Los equipos de cartografía se dividieron en pequeños equipos de estudio, cada uno con su líder de equipo que era el responsable de organizar el trabajo del equipo y asegurar un ingreso de datos seguro y preciso. Los líderes de equipo también eran responsables de implementar las medidas de control de calidad. Dos veces al mes elegían al azar el diez por ciento de los edificios de sus equipos de cartografía y los volvían a estudiar. De esta forma, podían calcular el posible porcentaje de error de todo el estudio, corregir una cantidad limitada de errores y descubrir errores repetidos en el flujo de trabajo de los agrimensores.
+
+### Resultados
+
+Durante este período, el equipo pudo terminar mapas completos de los tres pabellones. En total se estudiaron 8500 edificios. Se consideró que 540 de ellos tenían un significado histórico. También se evaluaron secciones de carreteras que medían 43 km y obras de drenaje que medían más de 50 km. Ahora esos datos están a disposición del público en la plataforma OpenStreetMap. Durante el período del proyecto también se ofrecieron diversos cursos de capacitación y presentaciones de OpenStreetMap a estudiantes universitarios, colaboradores gubernamentales y compañías de tecnología del sector privado a fin de ayudar a crecer a la comunidad OSM de Daca. En Diciembre de 2013 se presentaron los resultados del piloto a las autoridades y otras partes interesadas relevantes. Todavía se llevan a cabo consultas relacionadas con la siguiente fase del proyecto.
 
 <div class="c-box-image">
     <img src="/images/posts/case-studies/case-dhaka.jpg" alt="case-dhaka">
 </div>
-
-## Dhaka, Bangladesh 
-
-### Overview
-
-Dhaka’s Old City is a crowded and complex area of immense historical value and an
-important locus of social and economic activity. In consultation with Dhaka Water
-and Sanitation, seismic risk experts from Bangladesh University of Engineering and
-Technology (BUET), and the Urban Study Group, a local nongovernmental organization
-(NGO) working on heritage preservation and restoration in Old Dhaka, the Dhaka
-Open Cities pilot sought to create detailed maps of three of the Old City’s 15 wards.
-These maps would provide data useful for planning of evacuation routes, managing
-water and sanitation infrastructure, and understanding the location and characteristics
-of heritage buildings.
-
-### Partners
-
-<b>Dhaka Water and Sanitation Department</b> — Dhaka WASA was the primary government partner for this project and provided initial
-data describing water and sanitation infrastructure in Old Dhaka as well as input into
-the data modeling process.
-
-<b>Urban Study Group</b> — The Urban Study Group provided data on location of critical heritage sites in Old
-Dhaka as well as input into the data modeling process.
-
-<b>The Center for Environmental and Geographic Information Services (CEGIS)</b> — CEGIS is a local NGO with extensive experience working on GIS and surveying in
-Bangladesh. They provided overall management of the mapping work and quality
-assessment of the data collected.
-
-<b>Humanitarian OpenStreetMap Team (HOT)</b> — HOT provided initial OSM training to project participants and assisted with the development
-of reporting and project tracking processes.
-
-### Building the Team
-
-In partnership with BUET, which provided technical support and a working space, 20
-engineering and planning undergraduates were hired as mappers and were trained
-for a three-month period. A local nonprofit GIS consulting organization, CEGIS, was
-contracted with to provide management and quality control for the work. The Humanitarian
-OpenStreetMap Team, a nonprofit specializing in the use of OpenStreetMap in
-development and humanitarian relief situations, also provided training and technical
-oversight to the project.
-
-### Workspace
-
-BUET University provided a computer lab to serve as the primary workspace for training
-of project participants and data entry work.
-
-### Existing Map Resources
-
-The effort began by importing building footprint data for the three wards—created
-by CEGIS as part of a different project but until that point unavailable to the public—directly into OpenStreetMap. This allowed the mapping team to focus on field
-surveying, in which basic characteristics, such as building height, usage, construction
-materials, and age were collected through visual survey of each building.
-
-### Data Collection
-
-Mapping teams divided the three wards into so-called blocks - sections which were
-bounded by roads on all sides. Each day a team would be assigned one or more of
-these blocks to survey, more easily mapping the densely set buildings due to the small
-compartmentalized blocks which they were sent to map. Imagery was less useful than
-normal due to the building density, but this methodology helped ensure accurate data
-collection.
-
-They also mapped road characteristics (width and surface type) along with important
-water and sanitation infrastructure. The data were added to OpenStreetMap during
-times when conditions prohibited field surveys (e.g., poor weather conditions, strikes).
-
-### Quality Control
-
-The mappers were divided into small groups of surveying teams, each led by a team
-leader, who was responsible for organizing and planning their team’s work and ensuring
-smooth and accurate data entry. The team leaders were also responsible for implementing
-quality control measures. Twice each month they would randomly select
-ten percent of their mappers’ buildings and resurvey them. By doing so they could
-calculate the likely percentage of error of the entire survey, correct a limited number of
-mistakes, and discover repeated mistakes in the surveyors’ workflow.
-
-### Results
-
-During this period, the team was able to finish complete maps of the three wards.
-In total, 8,500 buildings, 540 of which were deemed to have historical significance,
-were surveyed. Sections of roads measuring 43km and drainage works measuring
-over 50km were also assessed. These data are now available to the public through the
-OpenStreetMap platform. Several training courses and presentations on OpenStreet-
-Map were also given to university students, government partners, and private sector
-technology companies during the project period in order to help the OSM community
-in Dhaka grow. The results of the pilot were presented to the government and other
-key stakeholders in December 2013. Consultations are ongoing concerning the next
-phase of the project.
