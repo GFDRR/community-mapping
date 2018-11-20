@@ -1,5 +1,5 @@
 ---
-title: Community Mapping
+title: t(:title)
 
 toc_footers:
   - <div class="m-language"><select id="language-selector" name="language"><option value="en" selected>English</option><option value="es">Español</option></select></div>
@@ -7,13 +7,13 @@ toc_footers:
   - <a href="download/planning-an-open-cities-mapping-project.pdf" download="planning-an-open-cities-mapping-project.pdf" class="btn -black">Download PDF</a>
 
 includes:
-  - posts/01-introduction
-  - posts/02-project-design-preparation
-  - posts/03-getting-started
-  - posts/04-implementation-and-supervision
-  - posts/05-lessions-learned-and-recommendations
-  - posts/06-case-studies
-  - posts/07-appendixes
+  - en/posts/01-introduction
+  - en/posts/02-project-design-preparation
+  - en/posts/03-getting-started
+  - en/posts/04-implementation-and-supervision
+  - en/posts/05-lessons-learned-and-recommendations
+  - en/posts/06-case-studies
+  - en/posts/07-appendixes
 
 search: true
 ---

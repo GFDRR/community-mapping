@@ -1,16 +1,16 @@
 <div class="c-box-image">
-  <img src="images/posts/introduction/chapterpic-intro-2.jpg" alt="chapterpic-intro"/>
+  <img src="../images/posts/introduction/chapterpic-intro-2.jpg" alt="chapterpic-intro"/>
 </div>
 
-# Introduction
+# Introducción
 
-## 1.1 History of open cities and the open data for Resilience Initiative
+## 1.1 Historia de Open Cities y de la iniciativa Open Data for Resilience.
 
-The World Bank, through its Global Facility for Disaster Reduction and Recovery (GFDRR), launched the Open Cities Project in November 2012 to create open data ecosystems that will facilitate innovative, data-driven urban planning and disaster risk management in South Asian cities. Open Cities is one component of a broader World Bank and GFDRR program, the Open Data for Resilience Initiative (OpenDRI), further described in box 1.1.
+A través del Fondo Mundial para la Reducción de los Desastres y la Recuperación (GRDRR, por sus siglas en inglés), el Banco Mundial lanzó en noviembre de 2012 el proyecto Open Cities para crear ecosistemas de datos de libre acceso que facilitaran una planificación urbana y gestión del riesgo de desastres innovadora y basada en datos en ciudades del sur de Asia. Open Cities es un componente de un programa más amplio del Banco Mundial y el GFDRR, la iniciativa Open Data for Resilience (OpenDRI), descrita con mayores detalles en el recuadro 1.1.
 
 <div class="c-box">
-  <span class="box-title"><b>Box 1.1 About OpenDRI</b></span>
-  <p>Open Cities is part of the Open Data for Resilience Initiative, sponsored by the World Bank and GFDRR. OpenDRI brings the philosophies and practices of the open data movement to bear on the challenges of building resilience to natural hazards and the impacts of climate change. In partner- ship with governments, international organizations, and civil society groups, this initiative develops open systems for creating, sharing, and using disaster risk and climate change information to ensure that a wide range of actors can participate in meeting these challenges. Since its launch in 2011, OpenDRI has worked to implement these ideas in over 25 countries around the world.</p>
+  <span class="box-title"><b>Box 1.1 Acerca de OpenDRI</b></span>
+  <p>Open Cities es parte de la iniciativa Open Data for Resilience, patrocinada por el Banco Mundial y el GFDRR. OpenDRI contribuye a que las filosofías y prácticas del movimiento de datos de libre acceso hagan su aporte para afrontar los desafíos de mejorar la capacidad de hacer frente a los peligros naturales y a los impactos del cambio climático. En colaboración con gobiernos, organizaciones internacionales y grupos de la sociedad civil, esta iniciativa desarrolla sistemas de libre acceso para crear, compartir y utilizar información sobre riesgo de desastres y cambio climático y asegurar que una gran variedad de actores pueda contribuir para afrontar estos desafíos. Desde su lanzamiento en 2011, OpenDRI trabaja para implementar estas ideas en más de 25 países en todo el mundo.</p>
 </div>
 
 Since its inception, Open Cities has brought together stakeholders from government, donor agencies, the private sector, universities, and civil society groups to create usable information through community mapping techniques, to build applications and tools that inform decision making, and to develop the networks of trust and social capital necessary for these efforts to become sustainable. This process has been evolutionary, with opportunities for experimentation, learning, failure, and adaptation incorporated into the project planning. This guide discusses the rationale and design of the Open Cities Project, the major components of its implementa- tion to date, and some of the most salient lessons learned from the project so far.
