@@ -10,7 +10,7 @@
 
       switch(language) {
         case 'en':
-          site = 'https://ppasq.github.io/comminity-mapping';
+          site = 'https://ppasq.github.io/community-mapping';
         break;
 
         case 'es':
