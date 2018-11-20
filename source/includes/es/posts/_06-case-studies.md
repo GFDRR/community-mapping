@@ -95,6 +95,10 @@ Mediante la participación de NSET en las Open Cities de Katmandú, el equipo re
 
 Open Cities en Katmandú evaluó 2.256 escuelas y 350 centros de salud en el Valle Katmandú. Además de recolectar una extensa lista de datos de construcción para instalaciones de salud y educación, el equipo trabajó para crear un mapa base detallado del valle mediante la digitalización de edificios, trazando un mapa de la red de carreteras, y recolectando información en otros puntos de mayor interés. El equipo Open Cities también realizó importantes divulgaciones en universidades, comunidades técnicas, y en el gobierno para expandir la comunidad OSM. Más de 2300 personas participaron en las capacitaciones de OSM durante el primer año del proyecto. La información ha sido utilizada en planes para el acondicionamiento de escuelas e instalaciones de salud y en aplicaciones para la planificación del transporte. La USAID también ha incorporado la información en los ejercicios para la preparación ante desastres. El hecho que la Cruz Roja Americana haya empezado a contribuir con OpenStreetMap en Katmandú sugiere que los asociados para el desarrollo mantienen su interés en el proyecto. Se ha creado una ONG local llamada Kathmandu Living Labs (KLL) que está conformada por participantes de la primera fase del proyecto de Open Cities a fin de continuar con el trabajo. Hace poco, KLL recibió financiamiento de ICIMOD, una organización técnica local, y de la Embajada de los Estados Unidos para llevar a cabo las capacitaciones de OSM y las actividades de cartografía.
 
+<div class="c-box-image">
+    <img src="/images/posts/case-studies/case-dhaka.jpg" alt="case-dhaka">
+</div>
+
 ## Daca, Bangladesh
 
 ### Resumen
@@ -136,7 +140,3 @@ Los equipos de cartografía se dividieron en pequeños equipos de estudio, cada 
 ### Resultados
 
 Durante este período, el equipo pudo terminar mapas completos de los tres pabellones. En total se estudiaron 8500 edificios. Se consideró que 540 de ellos tenían un significado histórico. También se evaluaron secciones de carreteras que medían 43 km y obras de drenaje que medían más de 50 km. Ahora esos datos están a disposición del público en la plataforma OpenStreetMap. Durante el período del proyecto también se ofrecieron diversos cursos de capacitación y presentaciones de OpenStreetMap a estudiantes universitarios, colaboradores gubernamentales y compañías de tecnología del sector privado a fin de ayudar a crecer a la comunidad OSM de Daca. En Diciembre de 2013 se presentaron los resultados del piloto a las autoridades y otras partes interesadas relevantes. Todavía se llevan a cabo consultas relacionadas con la siguiente fase del proyecto.
-
-<div class="c-box-image">
-    <img src="/images/posts/case-studies/case-dhaka.jpg" alt="case-dhaka">
-</div>
