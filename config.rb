@@ -56,3 +56,5 @@ set :port, 4567
 helpers do
   require './lib/toc_data.rb'
 end
+
+activate :i18n
