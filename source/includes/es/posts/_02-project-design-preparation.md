@@ -24,7 +24,7 @@ Involucrar una amplia comunidad de socios es un componente central de cualquier 
 
 Todas las organizaciones involucradas en la gestión del riesgo de desastres y planificación (como los gobiernos nacionales y locales, socios internacionales y organizaciones no gubernamentales [ONG]) necesitan actualizar la información detallada para sus operaciones. Algunas de ellas podrían estar luchando para mantener sus propios conjuntos de datos. Agrupar varios socios ayuda a las organizaciones a mantener la información relevante y actualizada y evita que se vuelva a realizar el trabajo ya completado. Los datos se han vuelto más útiles y se utilizados más, la aplicación conduce a una mayor innovación, lo cual a su vez fomenta la mayor recopilación de datos valiosos, los cuales retroalimentan a un robusto y abierto ecosistema de datos.
 
-Figure 2.1: Diagrama de cooperación de Open Cities
+Figura 2.1: Diagrama de cooperación de Open Cities
 <div class="c-box-image">
     <img src="/images/posts/2/partnership_diagram2-2.jpg" alt="partnership">
 </div>
@@ -145,7 +145,7 @@ Las siguientes secciones explican cómo definir el área objetivo y realizar est
   <p>Los proyectos piloto generalmente hacen un mapa de una pequeña parte de un área mucho mayor en un breve período de tiempo. Los objetivos de los proyectos piloto no son solo recopilar datos sino también experimentar con la metodología topográfica y determinar las formas más efectivas y eficientes de cartografía. Dichos proyectos también son útiles para demostrar la efectividad de las herramientas de cartografía innovadoras y para fortalecer el apoyo local.</p>
 </div>
 
-Figure 2.2: Lo que necesita responder primero
+Figura 2.2: Lo que necesita responder primero
 <div class="c-box-image">
     <img src="/images/posts/2/Planning_OC_Figure_2.2.jpg" alt="Figure 2.2">
 </div>
@@ -290,7 +290,7 @@ Los buenos gerentes también mantienen una comunicación sólida con sus cartóg
 <span class="box-title"><b>Recuadro 2.4 Diferentes metodologías</b></span>
   <p>¿Qué es la comunidad OSM? OpenStreetMap es un proyecto colaborativo que involucra a cientos de miles de usuarios y contribuyentes. La "comunidad OSM" comprende a todos aquellos miembros activos que participan, en forma continua ya sea agregando o actualizando el mapa.</p>
   <p>Cada país tiene lo que podría llamarse su propia comunidad: un grupo de usuarios que se comunican, planean actividades y trabajan juntos para mejorar el mapa. Y también la comunidad de cada país está conectada a una base de usuarios OSM mayor y global Como el proyecto Open Cities utiliza la plataforma OSM, esta se ocupa automáticamente en esta comunidad. La sección 2.2.2.2, vista anteriormente, brinda más información sobre cómo involucrarse en la comunidad OSM local.</p>
-  <p>La mayoría de los usuarios de OpenStreetMap se retiran y contribuyen al mapa, poco a poco, por lo que deben consultarlo antes de importar sus datos. La importación podría sobrescribir el trabajo de otros cartógrafos quienes, realmente, han llevado a cabo estudios de campo. También debe enviar un correo electrónico a imports@openstreetmap.org para avisarles lo que está planeando. Asegurarse de que sean conscientes y que apoyen el proceso antes de que se realice, cualquier importación puede ahorrar mucho tiempo explicando o revirtiendo los cambios después del hecho.</p>
+  <p>La mayoría de los usuarios de OpenStreetMap se retiran y contribuyen al mapa, poco a poco, por lo que deben consultarlo antes de importar sus datos. La importación podría sobrescribir el trabajo de otros cartógrafos quienes, realmente, han llevado a cabo estudios de campo. También debe enviar un correo electrónico a <b>imports@openstreetmap.org</b> para avisarles lo que está planeando. Asegurarse de que sean conscientes y que apoyen el proceso antes de que se realice, cualquier importación puede ahorrar mucho tiempo explicando o revirtiendo los cambios después del hecho.</p>
   <p>Para una completa descripción de los pasos a seguir para una importación de OSM, consulte esta página de OSM Wiki: <b><a href="http://wiki.openstreetmap.org/wiki/Import/Guidelines" target="_blank">http://wiki.openstreetmap.org/wiki/Import/Guidelines</a></b>.
   </p>
 </div>

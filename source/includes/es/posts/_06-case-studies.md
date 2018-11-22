@@ -67,6 +67,7 @@ El objetivo cartográfico de Open Cities Katmandú era la recopilación de datos
 <b>Gobierno</b> — El departamento de Educación de Nepal es un socio clave en las Open Cities de Katmandú. Estas lideran el proyecto de evaluación de riesgo al cual contribuirá el trabajo cartográfico. Además del apoyo institucional, el DOE también proporcionó una carta de apoyo que los cartógrafos llevaron consigo como parte del trabajo, y una carta instrumental para tener acceso a algunas instalaciones.
 
 <b>Agencias técnicas</b> — NSET, la Sociedad Nacional de Tecnología en Terremotos, es una ONG con sede en Katmandú con significativa experiencia en riesgo sísmico y en ingeniería. Apoyaron el proyecto mediante asistencia con el moldeo de datos, proporcionando capacitación en inspecciones de construcción al equipo cartográfico, y llevando a cabo evaluación de calidad de los datos durante el proceso.
+
 <b>Universidades</b> — Las universidades fueron socios importantes en el proyecto. Las conexiones con los departamentos de geomática e ingeniería en la Universidad de Katmandú y la Universidad de Tribhuvan facilitaron la formación del equipo central y voluntarios para el proyecto y ayudó a proporcional guía técnica y control de calidad durante las fases claves del proyecto.
 
 ### Integración del Equipo
@@ -107,7 +108,7 @@ La Ciudad Antigua de Daca es un área concurrida y compleja, de inmenso valor hi
 
 ### Colaboradores
 
-Departamento de Saneamiento y Agua de Daca — Este organismo fue el principal colaborador gubernamental para este proyecto y proporcionó los datos iniciales sobre la infraestructura de agua y saneamiento de la ciudad antigua. También contribuyó con el proceso de modelado de datos.
+<b>Departamento de Saneamiento y Agua de Daca</b> — Este organismo fue el principal colaborador gubernamental para este proyecto y proporcionó los datos iniciales sobre la infraestructura de agua y saneamiento de la ciudad antigua. También contribuyó con el proceso de modelado de datos.
 
 <b>Organización Urban Study Group</b> — Esta organización proporcionó datos sobre la ubicación de los sitios patrimoniales más importantes de la ciudad. También contribuyó con el proceso de modelado de datos.
 
