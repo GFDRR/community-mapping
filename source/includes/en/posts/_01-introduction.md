@@ -14,7 +14,7 @@ The World Bank, through its Global Facility for Disaster Reduction and Recovery 
 
 Since its inception, Open Cities has brought together stakeholders from government, donor agencies, the private sector, universities, and civil society groups to create usable information through community mapping techniques, to build applications and tools that inform decision making, and to develop the networks of trust and social capital necessary for these efforts to become sustainable. This process has been evolutionary, with opportunities for experimentation, learning, failure, and adaptation incorporated into the project planning. This guide discusses the rationale and design of the Open Cities Project, the major components of its implementation to date, and some of the most salient lessons learned from the project so far.
 
-The Open Cities Project launched its efforts in three cities: Batticaloa, Sri Lanka; Dhaka, Bangladesh; and Kathmandu, Nepal. These cities were chosen fo
+The Open Cities Project launched its efforts in three cities: Batticaloa, Sri Lanka; Dhaka, Bangladesh; and Kathmandu, Nepal. These cities were chosen for
 <div class="c-list">
     <ul>
         <li>Their high levels of disaster risk;</li>
