@@ -110,7 +110,7 @@ The first step of Open Cities project planning is to clearly define the objectiv
         <tr>
             <td>Universities</td>
             <td>Universities and colleges are great potential collaborators. Participation in a mapping project offers students and faculty an opportunity to learn about cutting-edge open-source methodologies, ideas, and software. Students are often technically minded, have flexible time commitments, and enthusiasm to learn new things. Mapping projects that involve academia may also evolve into a permanent part of the university’s curriculum or even a course by itself. Additionally, Open Cities partners that build university capacity in this way help to develop the qualifications of students who can later be hired as interns or staff.
-
+            <br><br>
             <a href="https://www.youthmappers.org/" target="_blank">YouthMappers</a> is an international network of student mapping organizations. Chapters meet and map on the OSM platform for development and disaster response objectives. Formed in 2013, through a grant from USAID, the Youthmappers network provides its chapters with training, engagement and research opportunities, all the while advocating for local community level involvement on behalf of its student members. Local YouthMapper chapters are also great potential collaborators, as many are already trained on multiple mapping platforms.
             </td>
         </tr>
@@ -130,9 +130,9 @@ The first step of Open Cities project planning is to clearly define the objectiv
         <tr>
             <td>International organizations</td>
             <td>Many large development projects are funded by international organizations that have significant datasets from previous projects. Their interests focus on a variety of areas and potential synergies may exist. Offices such as the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) often have existing mapping capacity and already have knowledge of the local context and existing data.
-
+            <br><br>
             Humanitarian OpenStreetMap Team (HOT) was formed in the immediate aftermath of the 2010 earthquake in Haiti. Functioning as both a formal NGO and global community, HOT is dedicated to mapping the most vulnerable places in the world in support of humanitarian aid and sustainable development. HOT organizes mapping training workshops, develops open source tools, and assists organizations and governments with mapping needs for disaster preparedness and socio-economic development.
-
+            <br><br>
             Missing Maps was founded in 2014 as a collaborative effort by American Red Cross, British Red Cross, Humanitarian OpenStreetMap Team, and Médecins Sans Frontières (MSF). Building on lessons learned from the 2010 earthquake in Haiti, Missing Maps is a humanitarian project dedicated to mapping vulnerable areas before disaster occurs. The project recruits remote and local volunteers to produce digital maps of settlements at risk of disease, conflict or disaster. Partners and other humanitarian agencies use mapped data to plan disaster risk reduction and response.
             </td>
         </tr>
@@ -404,7 +404,7 @@ During the planning stage, consider using GIS software to draw lines around the 
 
 Another option for groups is to either commision or, to collect high resolution drone imagery for their study site. This is a high cost option, but, if the data collection project is in direct response to changes in the landscape, that have happened recently, then it may be the most reliable option.
 
-Option 1: Hiring a drone operator
+Option 1: Hiring a drone operator<br>
 Considerations
 
 <div class="c-list">
@@ -416,7 +416,7 @@ Considerations
     </ul>
 </div>
 
-Option 2: Buying a drone
+Option 2: Buying a drone<br>
 Considerations
 
 <div class="c-list">
