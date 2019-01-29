@@ -4,7 +4,7 @@
 
 # Introduction
 
-## 1.1 History of open cities and the open data for Resilience Initiative
+## 1.1 History of Open Cities and the Open Data for Resilience Initiative
 
 The World Bank, through its Global Facility for Disaster Reduction and Recovery (GFDRR), launched the Open Cities Project in November 2012 to create open data ecosystems that will facilitate innovative, data-driven urban planning and disaster risk management for cities. Open Cities is one component of a broader World Bank and GFDRR program, the Open Data for Resilience Initiative (OpenDRI), further described in box 1.1.
 <div class="c-box">
