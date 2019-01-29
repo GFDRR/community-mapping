@@ -9,8 +9,8 @@ toc_footers:
 includes:
   - en/posts/01-introduction
   - en/posts/02-project-design-preparation
-  - en/posts/03-getting-started
-  - en/posts/04-implementation-and-supervision
+  - en/posts/03-logistics-and-training
+  - en/posts/04-project-implementation
   - en/posts/05-lessons-learned-and-recommendations
   - en/posts/06-case-studies
   - en/posts/07-appendixes
