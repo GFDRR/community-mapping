@@ -76,41 +76,6 @@ There are many logistical considerations for the Field Data Collection component
       </ul>
 </div>
 
-<!--
-Figure 4.1 Options for Subdividing a Daily Mapping Area
-a. Gridding an area
-<div class="c-box-image">
-    <img src="/images/posts/4/4-1-a-2.jpg" alt="4-1a" />
-</div>
-b. Subdividing an area by natural boundaries, such as blocks bounded by roads
-<div class="c-box-image">
-    <img src="/images/posts/4/4-1-b-2.jpg" alt="4-21b" />
-</div>
-<em>Source: Imagery in panel “a” from [Field Papers](http://www.fieldpapers.org)</em>
-
-It is a good idea to divide the target area early in the project. If possible, do this before fieldwork begins, though you will need to have existing road data. Otherwise, you might set aside some time in the first few days for survey teams to simply map all of the roads, which will then make it easier to divide the total area into daily mapping areas.
-
-Once you do this, you will know how many of these “blocks” are in your target area, and you can estimate exactly the time and staff you will need to survey it all. Let’s say, for example, that you have a target area that you then subdivide into 20 blocks, a partial example of which is shown in figure 4.2. You then estimate that each block will take about four hours to survey and a couple of hours to edit, which means it will take one pair of mappers to map one block every day. If you have one mapping team, it will take 20 workdays to map the entire target area; if you have two mapping teams, it will take 10 workdays, and so on.
-
-Figure 4.2 Example of a "Blocked" Target Area in Dhaka, Bangladesh
-<div class="c-box-image">
-    <img src="/images/posts/4/4-2-2.jpg" alt="4-2" />
-</div>
-<em>Source: OpenStreetMap</em>
-
-How would you manage this workflow? Each morning, you would give each team a block to map. You print out Field Papers that cover the areas they are supposed to map and draw a boundary around the specific area or explain it to them directly. Give them additional forms (survey forms, if you are using them) and the same materials for an adjacent square where they can map if they have extra time. (For this reason, as box 4.1 explains, teams should receive block assignments that are not adjacent to each other on any given day.)
-
-In the afternoon, the teams will return to the office and begin editing. The manager will be there to answer questions about surveying and editing and to ensure that everything gets uploaded to OSM without problems. The next day, the process will repeat, thus ensuring that the target area is mapped in the expected time.
-
-<div class="c-box">
-    <span class="box-title"><b>Box 4.1 Mapping Nonadjacent Blocks</b></span>
-    <p>It is recommended that adjacent blocks are not given to different teams to map on the same day. To do so would increase the likelihood of editing conflicts, which occur when two teams try to edit the same features at the same time. The assignment of nonadjacent blocks to each team also allows your mappers to continue mapping if their block takes less time than they expect. For these reasons, it is better to organize daily mapping activities following a checkerboard pattern, as shown in figure B4.1.1. </p>
-    Figure B4.1.1 Sample Mapping of Nonadjacent Squares in Guagua, Pampanga, Philippines
-    <div class="c-box-image">
-        <em>Source: Data from OpenStreetMap</em>
-    </div>
-</div> -->
-
 ### 4.1.5 Digitize/review data (JOSM)
 
 During or after field data collection, teams will review and clean collected data in JOSM. Reviewing the data before upload ensures high quality before it is shared. Following the field data cleaning process, all collected data is cleaned and uploaded to OSM.
@@ -361,7 +326,7 @@ There are tools built into JOSM, as well as additional plugins that can assist w
 
 OSMCha, or the OpenStreetMap Changeset Analyzer, is a tool designed to review uploads and changes to OSM data, largely to prevent bad edits and vandalism to map data. This tool allows users to filter by username, location, dates of upload, and other metadata features. OSMCha is useful for monitoring the progress of data cleaning and upload teams.
 
-## 4.4 Field Equitette
+## 4.4 Field Etiquette
 
 When working in the field, be polite and engaging with residents and other people you may encounter. It's important to consider how you would feel if a stranger approached your home to collect information. Make sure to introduce yourself when someone is present and briefly explain your purpose for being in the area before beginning to collect data. It can even help by showing those that are interested how you are collecting data and the tools that you are using.
 
