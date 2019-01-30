@@ -40,8 +40,10 @@ The project manager will coordinate mapping activities to trace infrastructure i
 <div class="c-list">
     <ul>
         <li>Staff/Team training on iD-editor, and JOSM platforms.</li>
-        <li>Training/Mapathon for volunteers (students, or locals), or city counterparts.  These events typically focus on entry level OSM tools, such as iD-editor.</li>
-        <li>Mapathons: Mapathons are gatherings that bring people together around the need to create map data. Even if the desktop tracing of infrastructure within the study area is manageable by the project team, it is a good idea to organize a mapathon event to showcase the project, and educate partners on the OSM workflow. A secondary task can be created to demonstrate the tracing procedure).</li>
+        <li>Training/Mapathon for volunteers (students, or locals), or city counterparts.  These events typically focus on entry level OSM tools, such as iD-editor.
+        <ul>
+          <li>Mapathons: Mapathons are gatherings that bring people together around the need to create map data. Even if the desktop tracing of infrastructure within the study area is manageable by the project team, it is a good idea to organize a mapathon event to showcase the project, and educate partners on the OSM workflow. A secondary task can be created to demonstrate the tracing procedure).</li></ul>
+        </li>
       </ul>
 </div>
 
