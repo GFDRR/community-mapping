@@ -10,18 +10,11 @@
 
       switch(language) {
         case 'en':
-          site = 'https://ppasq.github.io/community-mapping';
-          //site = '/';
-        break;
-
-        case 'es':
-          site = 'https://ppasq.github.io/community-mapping/es/';
-          //site = '/es/';
+          site = '/community-mapping/';
         break;
 
         case 'fr':
-          site = 'https://ppasq.github.io/community-mapping/fr/';
-          //site = '/fr/';
+          site = '/community-mapping/fr/';
         break;
       }
 
