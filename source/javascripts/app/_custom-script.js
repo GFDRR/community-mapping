@@ -10,11 +10,11 @@
 
       switch(language) {
         case 'en':
-          site = 'http://vizzuality.github.io/community-mapping';
+          site = '/community-mapping/';
         break;
 
-        case 'es':
-          site = 'http://vizzuality.github.io/community-mapping-es';
+        case 'fr':
+          site = '/community-mapping/fr/';
         break;
       }
 
